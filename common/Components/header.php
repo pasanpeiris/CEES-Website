@@ -1,4 +1,9 @@
-  <script type="text/javascript" src="https://use.fontawesome.com/20bf8ce7c9.js"></script>    
+<?php
+include 'php/dbh.inc.php';
+include 'php/services.inc.php';
+include 'php/viewservices.inc.php';
+?>
+<script type="text/javascript" src="https://use.fontawesome.com/20bf8ce7c9.js"></script>    
     <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <div class="hamburger">
@@ -26,10 +31,10 @@
                             <i class="fa fa-caret-down"></i>
                         </a>
                         <div class="dropdown-cont">
-                            <a href="#">Service 01</a>
-                            <a href="#">Service 02</a>
-                            <a href="#">Service 03</a>  
-                            <a href="#">Service 04</a>  
+                            <?php
+                            $services=new ViewServices();
+                            $services->ShowAllServices();
+                            ?>
                         </div>
                 </div>
 
