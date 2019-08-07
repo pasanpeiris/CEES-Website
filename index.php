@@ -24,7 +24,7 @@
 </head>
 <body>
   <section class="menu cid-ruNsw1yRec" once="menu" id="menu1-0">
-    <?php require_once 'common/Components/header.php'; ?>
+    <?php require_once ('Common/Components/header.php'); ?>
   </section>
 
 <section class="cid-ruNtyUeTOv mbr-fullscreen mbr-parallax-background" id="header2-1">
