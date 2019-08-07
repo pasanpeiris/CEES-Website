@@ -7,9 +7,9 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/logo2.png" type="image/x-icon">
-  <meta name="description" content="Blog">
+  <meta name="description" content="Post page">
   
-  <title>Blog</title>
+  <title>Post</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -24,44 +24,11 @@
   
 </head>
 <body>
-  <section class="menu cid-ruNsw1yRec" once="menu" id="menu1-e">
+    <section class="menu cid-ruNsw1yRec" once="menu" id="menu1-0">
+        <?php require_once 'common/Components/header.php'; ?>
+      </section>
 
-    
-
-    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <div class="hamburger">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </button>
-        <div class="menu-logo">
-            <div class="navbar-brand">
-                
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-5" href="https://webdesignvista.com">
-                        AAVAS</a></span>
-            </div>
-        </div>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
-                    <a class="nav-link link text-black display-4" href="index.html">
-                        
-                        Home</a>
-                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="blog.html">Blog</a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="post.html">Post</a></li>
-                <li class="nav-item">
-                    <a class="nav-link link text-black display-4" href="about.html">
-                        
-                        About Us
-                    </a>
-                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="contact.html">Contact</a></li></ul>
-            
-        </div>
-    </nav>
-</section>
-
-<section class="mbr-section content5 cid-ruXvYJDmeV mbr-parallax-background" id="content5-1d">
+<section class="mbr-section content5 cid-ruXI5RdWX7 mbr-parallax-background" id="content5-1k">
 
     
 
@@ -72,7 +39,7 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 <h2 class="align-center mbr-bold mbr-white pb-3 mbr-fonts-style display-2">
-                    Latest Blog Posts</h2>
+                    Blog Post Headline</h2>
                 
                 
                 
@@ -81,7 +48,7 @@
     </div>
 </section>
 
-<section class="header1 cid-ruOlZGAdii" id="header16-f">
+<section class="header1 cid-ruXI5S6ubv" id="header16-1l">
 
     
 
@@ -95,34 +62,8 @@
               <div class="content-column">
                 
                 <div class="blog-entry">
-                  <div class="card-img">                       
-                     <img src="https://via.placeholder.com/1450x650/CCCCCC/808080" alt="" title="">
-                  </div>
-                  <span class="post-meta-date">June 2019</span>
-                  <h2 class="mbr-section-subtitle mbr-light pb-3 mbr-fonts-style display-5"><strong>
-                      Lorem Ipsum Dolor Set Amet titus</strong></h2>
-                  <div class="post-meta">
-                    <span class="meta-sub author-card">
-                      <em>Posted by</em> 
-                      Arthur <em>in</em> 
-                    </span>
-                    <span class="meta-sub">
-                      <ul class="ul-post-meta">
-                        <li><a href="#">Marketing</a></li>
-                        <li><a href="#">Advertising</a></li>
-                        <li><a href="#">Media</a></li>
-                      </ul>
-                    </span>
-                    <span class="clear-all"></span>
-                  </div> 
-                  <p class="mbr-text pb-3 mbr-fonts-style display-7">
-                      Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Ullamcorper velit sed ullamcorper morbi. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Enim blandit volutpat maecenas volutpat blandit aliquam. Elit pellentesque habitant morbi tristique senectus et...</p>
-                  <span class="read-more"><a href="#">READ MORE »</a></span>
-                </div>
-                
-                <div class="blog-entry">
                   <div class="card-img">
-                      <img src="https://via.placeholder.com/1450x650/CCCCCC/808080" alt="" title="">
+                     <img src="assets/images/mbr-3-1460x973.jpg" alt="" title="">
                   </div>
                   <span class="post-meta-date">June 2019</span>
                   <h2 class="mbr-section-subtitle mbr-light pb-3 mbr-fonts-style display-5"><strong>
@@ -142,88 +83,10 @@
                     <span class="clear-all"></span>
                   </div> 
                   <p class="mbr-text pb-3 mbr-fonts-style display-7">
-                      Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Ullamcorper velit sed ullamcorper morbi. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Enim blandit volutpat maecenas volutpat blandit aliquam. Elit pellentesque habitant morbi tristique senectus et...</p>
-                  <span class="read-more"><a href="#">READ MORE »</a></span>
-                </div>
-                
-                <div class="blog-entry">
-                  <div class="card-img">
-                      <img src="https://via.placeholder.com/1450x650/CCCCCC/808080" alt="" title="">
-                  </div>
-                  <span class="post-meta-date">June 2019</span>
-                  <h2 class="mbr-section-subtitle mbr-light pb-3 mbr-fonts-style display-5"><strong>
-                      Lorem Ipsum Dolor Set Amet titus</strong></h2>
-                  <div class="post-meta">
-                    <span class="meta-sub author-card">
-                      <em>Posted by</em> 
-                      Arthur <em>in</em> 
-                    </span>
-                    <span class="meta-sub">
-                      <ul class="ul-post-meta">
-                        <li><a href="#">Marketing</a></li>
-                        <li><a href="#">Advertising</a></li>
-                        <li><a href="#">Media</a></li>
-                      </ul>
-                    </span>
-                    <span class="clear-all"></span>
-                  </div> 
-                  <p class="mbr-text pb-3 mbr-fonts-style display-7">
-                      Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Ullamcorper velit sed ullamcorper morbi. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Enim blandit volutpat maecenas volutpat blandit aliquam. Elit pellentesque habitant morbi tristique senectus et...</p>
-                  <span class="read-more"><a href="#">READ MORE »</a></span>
-                </div>
-                
-                <div class="blog-entry">
-                  <div class="card-img">
-                      <img src="https://via.placeholder.com/1450x650/CCCCCC/808080" alt="" title="">
-                  </div>
-                  <span class="post-meta-date">June 2019</span>
-                  <h2 class="mbr-section-subtitle mbr-light pb-3 mbr-fonts-style display-5"><strong>
-                      Lorem Ipsum Dolor Set Amet titus</strong></h2>
-                  <div class="post-meta">
-                    <span class="meta-sub author-card">
-                      <em>Posted by</em> 
-                      Arthur <em>in</em> 
-                    </span>
-                    <span class="meta-sub">
-                      <ul class="ul-post-meta">
-                        <li><a href="#">Marketing</a></li>
-                        <li><a href="#">Advertising</a></li>
-                        <li><a href="#">Media</a></li>
-                      </ul>
-                    </span>
-                    <span class="clear-all"></span>
-                  </div> 
-                  <p class="mbr-text pb-3 mbr-fonts-style display-7">
-                      Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Ullamcorper velit sed ullamcorper morbi. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Enim blandit volutpat maecenas volutpat blandit aliquam. Elit pellentesque habitant morbi tristique senectus et...</p>
-                  <span class="read-more"><a href="#">READ MORE »</a></span>
-                </div>
-                
-                <div class="blog-entry">
-                  <div class="card-img">
-                      <img src="https://via.placeholder.com/1450x650/CCCCCC/808080" alt="" title="">
-                  </div>
-                  <span class="post-meta-date">June 2019</span>
-                  <h2 class="mbr-section-subtitle mbr-light pb-3 mbr-fonts-style display-5"><strong>
-                      Lorem Ipsum Dolor Set Amet titus</strong></h2>
-                  <div class="post-meta">
-                    <span class="meta-sub author-card">
-                      <em>Posted by</em> 
-                      Arthur <em>in</em> 
-                    </span>
-                    <span class="meta-sub">
-                      <ul class="ul-post-meta">
-                        <li><a href="#">Marketing</a></li>
-                        <li><a href="#">Advertising</a></li>
-                        <li><a href="#">Media</a></li>
-                      </ul>
-                    </span>
-                    <span class="clear-all"></span>
-                  </div> 
-                  <p class="mbr-text pb-3 mbr-fonts-style display-7">
-                      Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Ullamcorper velit sed ullamcorper morbi. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Enim blandit volutpat maecenas volutpat blandit aliquam. Elit pellentesque habitant morbi tristique senectus et...</p>
-                  <span class="read-more"><a href="#">READ MORE »</a></span>
-                </div>
-                
+                      Praesent elementum facilisis leo vel fringilla est ullamcorper eget. Ullamcorper velit sed ullamcorper morbi. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Enim blandit volutpat maecenas volutpat blandit aliquam. Elit pellentesque habitant morbi tristique senectus.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer vitae justo. Dignissim enim sit amet venenatis urna cursus. <br><br>Integer enim neque volutpat ac. Ullamcorper malesuada proin libero nunc consequat interdum varius sit. Facilisis sed odio morbi quis commodo odio aenean. Facilisi etiam dignissim diam quis enim lobortis. Eu turpis egestas pretium aenean pharetra magna ac. Justo nec ultrices dui sapien eget mi proin sed. Sit amet luctus venenatis lectus magna fringilla urna porttitor.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer vitae justo. Dignissim enim sit amet venenatis urna cursus. Integer enim neque volutpat ac. <br><br>Ullamcorper malesuada proin libero nunc consequat interdum varius sit. Facilisis sed odio morbi quis commodo odio aenean. Facilisi etiam dignissim diam quis enim lobortis. Eu turpis egestas pretium aenean pharetra magna ac. <br><br>Justo nec ultrices dui sapien eget mi proin sed. Sit amet luctus venenatis lectus magna fringilla urna porttitor.<br></p>
+                 
+                </div>        
+                         
                 
               </div>
               
@@ -351,7 +214,30 @@
 
 </section>
 
-<section class="cid-ruOL3ZXM6Q" id="footer5-o">
+<section class="mbr-section info2 cid-ruXIRFRxrA" id="info2-1n">
+
+    
+
+    
+
+    <div class="container">
+        <div class="row main justify-content-center">
+            <div class="media-container-column col-12 col-lg-3 col-md-4">
+                <div class="mbr-section-btn align-left py-4"><a class="btn btn-primary display-4" href="#">
+                    
+                    Get a Quote !</a></div>
+            </div>
+            <div class="media-container-column title col-12 col-lg-7 col-md-6">
+                <h2 class="align-right mbr-bold mbr-white pb-3 mbr-fonts-style display-2">
+                    Let us help grow your business !</h2>
+                <h3 class="mbr-section-subtitle align-right mbr-light mbr-white mbr-fonts-style display-5">
+                    Lorem ipsum dolor set amet titus malesuada proin libero.</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-ruXI5U4sXz" id="footer5-1m">
 
     
 
