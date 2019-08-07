@@ -36,6 +36,14 @@ $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 $headers .= 'From: <webmaster@example.com>' . "\r\n";
 //$headers .= 'Cc: myboss@example.com' . "\r\n";
 
-mail($to,$subject,$message,$headers);
+if(mail($to,$subject,$message,$headers)){
+    echo("
+    Message successfully sent!
+ ");
+} else {
+ echo("
+    Message delivery failed...
+ ");
+}
 
 ?>
