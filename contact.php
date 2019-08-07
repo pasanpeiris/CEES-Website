@@ -135,7 +135,8 @@
                 </div>
                 <div data-form-type="formoid">
                     <!---Formbuilder Form--->
-                    <form action="#" method="POST" class="mbr-form form-with-styler" data-form-title=" Form"><input type="hidden" name="email" data-form-email="true" value="jnnKn/ep5LrfG1+XiB2QI/meobVgqJWazxXWnGZGEmThchQqffk0+LXWDVoQH21LvOL853j5U1bHD2sg0TrHmqMJisSgC/zQMCuzrO3PUt/UB4uQNbW9RKLIofYPDXav">
+                    <form action="send_mail.php" method="POST" class="mbr-form form-with-styler" data-form-title=" Form">
+                        <!-- <input type="hidden" name="email" data-form-email="true" value="jnnKn/ep5LrfG1+XiB2QI/meobVgqJWazxXWnGZGEmThchQqffk0+LXWDVoQH21LvOL853j5U1bHD2sg0TrHmqMJisSgC/zQMCuzrO3PUt/UB4uQNbW9RKLIofYPDXav"> -->
                         <div class="row">
                             <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Thanks for filling out the form!</div>
                             <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
