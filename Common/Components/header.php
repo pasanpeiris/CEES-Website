@@ -15,17 +15,22 @@
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
-                    <a class="nav-link link text-black display-4" href="index.php">
-                        
-                        Home</a>
-                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="blog.html">Services</a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="post.html">Post</a></li>
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
                 <li class="nav-item">
-                    <a class="nav-link link text-black display-4" href="about.html">
-                        
-                        About Us
-                    </a>
-                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="contact.html">Contact</a></li></ul>
+                    <a class="nav-link link text-black display-4" href="index.php">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="blog.php">Services</a>
+                </li>
+                <li class="nav-item"><a class="nav-link link text-black display-4" href="post.php">Post</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="about.php">About Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="contact.php">Contact</a>
+                </li>
+            </ul>
             
         </div>
     </nav>
