@@ -9,7 +9,7 @@
             </div>
         </button>
         <div class="menu-logo">
-            <div class="navbar-brand">
+            <div class="navbar-brand"> 
                 
                 <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-5" href="https://webdesignvista.com">
                         CEES</a></span>
