@@ -30,14 +30,12 @@
 
   </section>
 
-<section class="cid-ruNtyUeTOv mbr-fullscreen mbr-parallax-background" id="header2-1">
+<section id="header2-1">
 
-    
+    <!-- <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(7, 59, 76);"></div> -->
 
-    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(7, 59, 76);"></div>
-
-    <div class="container align-center">
-        <!-- <div class="row justify-content-md-center">
+    <!-- <div class="container align-center">
+         <div class="row justify-content-md-center">
             <div class="mbr-white col-md-10">
                 <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1"><span style="font-weight: normal;">
                     Business Solutions</span></h1>
@@ -46,9 +44,51 @@
                     Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing. </p>
                 <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="#">Lorem ipsumn</a></div>
             </div>
-        </div> -->
+        </div> 
+    </div> -->
+
+    <div>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel"  style="">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active" >
+            <div class="parallax cid-ruNtyUeTOv1 mbr-fullscreen d-block w-100" src="assets/images/mbr-1920x1198.jpg" alt="First slide"></div>
+            <div class="carousel-caption">
+                <h5>Heading 1</h5>
+                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+            </div>
+            </div>
+            <div class="carousel-item">
+            <div class="parallax cid-ruNtyUeTOv2 mbr-fullscreen d-block w-100"  alt="Second slide"></div>
+            <div class="carousel-caption ">
+                <h5>Heading 1</h5>
+                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+            </div>
+            </div>
+            <div class="carousel-item">
+            <div class="parallax cid-ruNtyUeTOv3 mbr-fullscreen d-block w-100" alt="Third slide"></div>
+            <div class="carousel-caption">
+                <h5>Heading 1</h5>
+                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+            </div>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>
-    <div class="mbr-arrow hidden-sm-down" aria-hidden="true">
+    </div>
+
+    <div class="mbr-arrow hidden-sm-down" aria-hidden="true" style="margin-bottom:0px;">
         <a href="#next">
             <i class="mbri-down mbr-iconfont"></i>
         </a>
@@ -387,6 +427,14 @@
   <script src="assets/parallax/jarallax.min.js"></script>
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/theme/js/script.js"></script>
+
+  <script>
+    document.onready =  function(){
+        $('.carousel').carousel({
+        interval: 3000
+        })
+    }
+  </script>
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
   </body>
 </html>
