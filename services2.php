@@ -311,17 +311,16 @@
         </div>
         <!-- large-6 -->
 
-  </div>
+  
 </section>
   <!-- end section -->
 
-  <section class="menu cid-ruNsw1yRec"  once="menu" id="menu1-0" style="width:100%; position:fixed; z-index:9999;">
-    <?php require_once ('common/Components/footer.php'); ?>
-  </section>
-
+ <section class="cid-ruXI5U4sXz" id="footer5-1m" style="padding: 0;">
+<?php require_once ('common/Components/footer.php'); ?>
+</section>
   
 
-</body>
+
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
@@ -350,4 +349,7 @@
   <script src="assets/lib/jigowatt/jigowatt.js"></script>
   <script src="assets/lib/easypiechart/easypiechart.min.js"></script>
 
+  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
+
+</body>
 </html>
