@@ -135,8 +135,8 @@ include 'php/viewservices.inc.php';
                                                     <h4 class="dropdown-heading">Categories</h4>
                                                     <ul class="dropdown-list">
                                                         <li><a href="#">Lifestyle</a></li>
+                                                        <li><a href="services-talent.php">Technology</a></li>
                                                         <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Technology</a></li>
                                                         <li><a href="#">Health</a></li>
                                                         <li><a href="#">Travel</a></li>
                                                     </ul>
