@@ -325,7 +325,6 @@ include 'php/viewservices.inc.php';
 
 
 
-.dropdown-cont a {
 <!-- .dropdown-cont a {
   float: none;
   color: black;
