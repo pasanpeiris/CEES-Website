@@ -34,7 +34,7 @@ include 'php/viewservices.inc.php';
                             <?php
                             $services=new ViewServices();
                             $services->ShowAllServices();
-                            ?>
+                            ?> 
                         </div>
                 </div>
 
