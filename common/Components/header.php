@@ -53,7 +53,7 @@ include 'php/viewservices.inc.php';
                             <i class="fa fa-caret-down"></i>
                         </a>
                         <div class="dropdown-cont">
-                            <a href="#">Service 01</a>
+                            <a href="service_pages/sample.html">Sample service</a>
                             <a href="#">Service 02</a>
                             <a href="#">Service 03</a>  
                             <a href="#">Service 04</a>  
