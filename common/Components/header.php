@@ -1,6 +1,5 @@
 <?php
-include 'php/dbh.inc.php';
-include 'php/services.inc.php';
+
 include 'php/viewservices.inc.php';
 ?>
 <script type="text/javascript" src="https://use.fontawesome.com/20bf8ce7c9.js"></script>    

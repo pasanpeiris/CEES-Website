@@ -1,5 +1,6 @@
 <?php
 
+include 'php/services.inc.php';
 class ViewServices extends Services {
     
  
@@ -8,7 +9,7 @@ class ViewServices extends Services {
    { 
        $datas=$this->getAllServices();
        foreach($datas as $data){
-        echo '<a href="#">'. $data['service_name']."</a>";   
+        echo '<a value='. $data['idservices'].' id="idServices" href="services.php">'. $data['service_name']."</a>";   
        }
       
    }
