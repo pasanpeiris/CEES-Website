@@ -22,7 +22,7 @@
                 </li>
                 <li class="nav-item">
                     <div class="dropdown">                    
-                        <a class="nav-link link text-black display-4 dropdown">Services 
+                        <a class="nav-link link text-black display-4 dropdown">CEES Academy   
                             <i class="fa fa-caret-down"></i>
                         </a>
                         <div class="dropdown-cont">
@@ -32,10 +32,35 @@
                             <a href="#">Service 04</a>  
                         </div>
                 </div>
-
                 </li>
-                <li class="nav-item"><a class="nav-link link text-black display-4" href="post.php">Post</a>
+                <li class="nav-item">
+                    <div class="dropdown">                    
+                        <a class="nav-link link text-black display-4 dropdown">Technology Solutions   
+                            <i class="fa fa-caret-down"></i>
+                        </a>
+                        <div class="dropdown-cont">
+                            <a href="#">Service 01</a>
+                            <a href="#">Service 02</a>
+                            <a href="#">Service 03</a>  
+                            <a href="#">Service 04</a>  
+                        </div>
+                </div>
                 </li>
+                <li class="nav-item">
+                    <div class="dropdown">                    
+                        <a class="nav-link link text-black display-4 dropdown">Consultancy Services   
+                            <i class="fa fa-caret-down"></i>
+                        </a>
+                        <div class="dropdown-cont">
+                            <a href="#">Service 01</a>
+                            <a href="#">Service 02</a>
+                            <a href="#">Service 03</a>  
+                            <a href="#">Service 04</a>  
+                        </div>
+                </div>
+                </li>
+                <!-- <li class="nav-item"><a class="nav-link link text-black display-4" href="post.php">Post</a>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link link text-black display-4" href="about.php">About Us</a>
                 </li>
@@ -73,6 +98,7 @@ body {
   text-decoration: none;
   display: block;
   text-align: left;
+
 }
 
 .dropdown:hover .dropdown-cont {
