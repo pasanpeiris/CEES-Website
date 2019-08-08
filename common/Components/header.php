@@ -107,7 +107,7 @@ include 'php/viewservices.inc.php';
 
             <!-- Main Nav -->
             <div id="logo" style="display:none;">
-                <img src="cees2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:10%;">
+                <img src="cees2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:30%;">
              </div>
 
 			<div id="nav-bottom">
@@ -298,29 +298,18 @@ include 'php/viewservices.inc.php';
 			<div id="nav-aside">
 				<ul class="nav-aside-menu">
 					<li><a href="index.html">Home</a></li>
-					<li class="has-dropdown"><a class="side_a">Consultancy Services</a>
+					<li class="has-dropdown"><a>Categories</a>
 						<ul class="dropdown">
-							<li><a href="#">A</a></li>
-                            <li><a href="#">B</a></li>
-                            <li><a href="#">C</a></li>
+							<li><a href="#">Lifestyle</a></li>
+							<li><a href="#">Fashion</a></li>
+							<li><a href="#">Technology</a></li>
+							<li><a href="#">Travel</a></li>
+							<li><a href="#">Health</a></li>
 						</ul>
 					</li>
-                    <li class="has-dropdown"><a class="side_a">Technology Solutions</a>
-						<ul class="dropdown">
-							<li><a href="#">A</a></li>
-                            <li><a href="#">B</a></li>
-                            <li><a href="#">C</a></li>
-						</ul>
-					</li>
-                    <li class="has-dropdown"><a class="side_a">Research & Insights</a>
-						<ul class="dropdown">
-							<li><a href="#">A</a></li>
-                            <li><a href="#">B</a></li>
-                            <li><a href="#">C</a></li>
-						</ul>
-					</li>
-                    <li><a href="#">About</a></li>
-					<li><a href="#">Contact</a></li>
+					<li><a href="about.html">About Us</a></li>
+					<li><a href="contact.html">Contacts</a></li>
+					<li><a href="#">Advertise</a></li>
 				</ul>
 				<button class="nav-close nav-aside-close"><span></span></button>
 			</div>
