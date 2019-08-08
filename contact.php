@@ -97,7 +97,7 @@
                                 Phone:
                             </h5>
                             <p class="mbr-text align-left mbr-fonts-style display-7">
-                                +1 (0) 000 0000 001
+                            +94 778 241 664
                             </p>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                                 E-mail:
                             </h5>
                             <p class="mbr-text align-left mbr-fonts-style display-7">
-                                youremail@mail.com
+                            info@ceesinternational.org
                             </p>
                         </div>
                     </div>
@@ -145,8 +145,8 @@
                             Ready for offers and cooperation
                         </h5>
                         <p class="mbr-text align-left mbr-fonts-style display-7">
-                            Phone: +1 (0) 000 0000 001 <br>
-                            Email: youremail@mail.com
+                            Phone:  +94 778 241 664 <br>
+                            Email: info@ceesinternational.org
                         </p>
                     </div>
                 </div>
@@ -181,7 +181,7 @@
     </div>
 </section>
 
-<section class="cid-ruOT0L6rL9" id="footer5-14">
+<section class="cid-ruOTxA2tiD" id="footer5-16">
 
     
 
@@ -192,8 +192,8 @@
             <div class="col-md-3">
                 <div class="media-wrap">
                     <a href="#">
-                      </a><h2><a href="#"></a><a href="https://webdesignvista.com/">AAVAS</a></h2>
-                    
+                      <h2>CEES</h2>
+                    </a>
                 </div>
             </div>
             <div class="col-md-9">
@@ -214,23 +214,23 @@
             <div class="media-container-row mbr-white">
                 <div class="col-md-6 copyright">
                     <p class="mbr-text mbr-fonts-style display-7">
-                        © Copyright 2019 <a href="https://webdesignvista.com">Web Design Vista</a> - All Rights Reserved
+                        © Copyright 2019 <a href="https://www.gnexsolutions.com">gNEX Solutions</a> - All Rights Reserved
                     </p>
                 </div>
                 <div class="col-md-6">
                     <div class="social-list align-right">
                         <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
+                            <a href="https://www.facebook.com/gNEXsolutionsSL/" target="_blank">
                                 <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon"></span>
                             </a>
                         </div>
                         <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
+                            <a href="https://www.facebook.com/gNEXsolutionsSL/" target="_blank">
                                 <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
                             </a>
                         </div>
                         <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
+                            <a href="https://www.facebook.com/gNEXsolutionsSL/" target="_blank">
                                 <span class="mbr-iconfont mbr-iconfont-social socicon-youtube socicon"></span>
                             </a>
                         </div>
@@ -243,7 +243,6 @@
         </div>
     </div>
 </section>
-
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>

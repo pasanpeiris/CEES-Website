@@ -39,7 +39,7 @@
                     <!-- nav -->
                        <ul class="nav-menu" >
                                 <li>
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                 </li>
                                 <li class="has-dropdown megamenu" >
                                     <a href="#">Technology Solutions</a>
@@ -96,18 +96,14 @@
                                     </div>
                                 </li>
                                 <li class="has-dropdown megamenu">
-                                    <a href="#">Consultancy Services</a>
+                                    <a href="#">CEES Academy</a>
                                     <div class="dropdown">
                                         <div class="dropdown-body">
                                             <div class="row">
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Categories</h4>
+                                                    <h4 class="dropdown-heading">Programs</h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Technology</a></li>
-                                                        <li><a href="#">Health</a></li>
-                                                        <li><a href="#">Travel</a></li>
+                                                        <li><a href="Programs.php">CEES Academy Programs</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-3">
@@ -150,7 +146,7 @@
                                     </div>
                                 </li>
                                 <li class="has-dropdown megamenu">
-                                    <a href="#">Research & Insights</a>
+                                    <a href="#">Consultancy</a>
                                     <div class="dropdown">
                                         <div class="dropdown-body">
                                             <div class="row">
@@ -204,7 +200,7 @@
                                     </div>
                                 </li>
                                 <li><a href="#">About</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                             <!-- /nav -->
             
@@ -216,7 +212,7 @@
 			<!-- Aside Nav -->
 			<div id="nav-aside">
 				<ul class="nav-aside-menu">
-					<li><a href="index.html">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<li class="has-dropdown"><a class="side_a">Consultancy Services</a>
 						<ul class="dropdown">
 							<li><a href="#">A</a></li>
