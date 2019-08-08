@@ -6,7 +6,7 @@
     <div class="container">
      <div class="row"> <div class="widget col-lg-3 col-md-3 col-sm-12">
         <h4 class="title">About us</h4>
-        <p style="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry"s standard dummy text ever since the 1500s..</p>
+        <p class="a" style="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry"s standard dummy text ever since the 1500s..</p>
         <a class="button small" href="#">read more</a>
       </div>
       <!-- end widget -->
@@ -15,13 +15,13 @@
         <ul class="recent_posts">
           <li>
             <a href="home1.html#">
-						<img src="assets/images/img/recent_post_01.png" alt="" />Our New Dashboard Is Here</a>
-            <a class="readmore" href="#">read more</a>
+						<img src="assets/images/img/recent_post_01.png" alt="" /><p class="a">Our New Dashboard Is Here</p></a>
+            <a class="readmore" href="#"><p class="a">read more</p></a>
           </li>
           <li>
             <a href="home1.html#">
-						<img src="assets/images/img/recent_post_02.png" alt="" />Design Is In The Air</a>
-            <a class="readmore" href="#">read more</a>
+						<img src="assets/images/img/recent_post_02.png" alt="" /><p class="a">Design Is In The Air</p></a>
+            <a class="readmore" href="#"><p class="a">read more</p></a>
           </li>
         </ul>
         <!-- recent posts -->
@@ -33,7 +33,7 @@
           <li><i class="fa fa-envelope-o"></i> info@yoursite.com</li>
           <li><i class="fa fa-phone-square"></i> +34 5565 6555</li>
           <li><i class="fa fa-home"></i> Some Fine Address, 887, Madrid, Spain.</li>
-          <li><a href="#" style="color:#0056b3;"><i class="fa fa-map-marker"></i> View large map</a></li>
+          <li class="a"><a href="#"><i class="fa fa-map-marker"></i> View large map</a></li>
         </ul>
         <!-- contact_details -->
       </div>
@@ -55,8 +55,7 @@
     </div>
     <!-- end container -->
     </div>
-  </footer>
-  <div class="copyrights">
+    <div class="copyrights">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-12 columns footer-left" >
           <p >Copyright © 2019 - All rights reserved.</p>
@@ -66,6 +65,7 @@
         </div>
       </div>
     </div>
-</div>
+  </footer>
+
 
 <div class="dmtop">Scroll to Top</div>

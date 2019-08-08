@@ -1,7 +1,9 @@
 
 
 .footer {
-  background: rgb(255, 255, 255);
+  /* background: rgb(255, 255, 255); */
+  background-color:  #0e5082; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #023e75, #063d73, #074e85, #206775); /* Standard syntax (must be last) */
   padding: 70px 0 0;
   margin-top: 10px;
   margin-bottom: 40px;
@@ -17,7 +19,7 @@
 }
 
 .footer .title {
-  border-bottom: 1px solid #696E74;
+  border-bottom: 1px solid rgb(255, 255, 255);
 }
 
 .copyrights p {
@@ -56,13 +58,26 @@
 }
 
 .footer .widget h4 {
-  color: #223c79;
+  color: #ffffff;
   margin-bottom: 50px !important;
 }
 
+.a{
+  color: #ffffff;
+}
+
+.readmore{
+  color: #ffffff;
+}
+
+.contact_details{
+  color: #ffffff;
+}
+
+
 .copyrights {
-  background: #0e5082;
-  padding: 10px;
+  background: black;
+  padding: 5px;
   font-size: 12px;
   border-top: 1px solid rgb(255, 255, 255);
   color: #fff;
@@ -377,7 +392,7 @@ button.small, .button.small {
   padding-bottom: 0.6375rem;
   padding-left: 1.75rem;
   font-size: 1.3125rem;
-  background-color: #0e5082;
+  background-color: #0e827c;
 }
 
 .dmbutton:hover, .dmbutton:active, .dmbutton:focus {
