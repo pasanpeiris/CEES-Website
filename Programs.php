@@ -2,7 +2,7 @@
 <html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec"  >
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-      <title>Virtual Programs | Center for Creative Leadership | Learn More</title>
+      <title>CEES Academy Programs</title>
       <script type="text/javascript">var ajaxurl = "https://www.ccl.org/wp-admin/admin-ajax.php"</script>
       <link rel="alternate" hreflang="en" href="index.html" />
       <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
