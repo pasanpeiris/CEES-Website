@@ -37,7 +37,7 @@ include 'php/viewservices.inc.php';
                            // $services->ShowAllServices();
                             ?> 
                             <a href="Programs.php">Service 01</a>
-                            <a href="#">Service 02</a>
+                            <a href="services-talent.php">Service 02</a>
                             <a href="#">Service 03</a>  
                             <a href="#">Service 04</a>
 
