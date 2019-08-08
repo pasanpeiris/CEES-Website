@@ -4,7 +4,7 @@ $name=$_POST['name'];
 $phone=$_POST['phone'];
 $inquiry=$_POST['message'];
 $email=$_POST['email'];
-$to = "pasan1486381@gmail.com";
+$to = "test@gmail.com"; //replace this relevant emailID
 $subject = "Requesting Information";
 
 $message = "
