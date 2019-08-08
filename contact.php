@@ -20,6 +20,23 @@
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
+  <?php 
+  if(isset($_GET['contacted'])){
+      $contacted=$_GET['contacted'];
+      if($contacted=="true"){
+        $form_status="hidden";
+        $thanks="";
+      }else{
+        $form_status="";
+        $thanks="hidden";
+      }
+    
+  } else {
+      $form_status="";
+      $thanks="hidden";
+  }
+ 
+  ?>
   
   
 </head>
@@ -105,7 +122,7 @@
     
 
     
-    <div class="container">
+    <div class="container" id="section_form">
         <div class="row">
             <div class="col-md-6">
                 <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAEIpgj38KyLFELm2bK9Y7krBkz1K-cMq8&amp;q=place_id:ChIJn6wOs6lZwokRLKy1iqRcoKw" allowfullscreen=""></iframe></div>
@@ -133,23 +150,24 @@
                         </p>
                     </div>
                 </div>
-                <div data-form-type="formoid">
+                <div data-form-type="formoid" >
                     <!---Formbuilder Form--->
-                    <form action="#" method="POST" class="mbr-form form-with-styler" data-form-title=" Form"><input type="hidden" name="email" data-form-email="true" value="jnnKn/ep5LrfG1+XiB2QI/meobVgqJWazxXWnGZGEmThchQqffk0+LXWDVoQH21LvOL853j5U1bHD2sg0TrHmqMJisSgC/zQMCuzrO3PUt/UB4uQNbW9RKLIofYPDXav">
-                        <div class="row">
-                            <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Thanks for filling out the form!</div>
-                            <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
+                    <form action="send_mail.php" method="POST" class="mbr-form form-with-styler" data-form-title=" Form">
+                        <!-- <input type="hidden" name="email" data-form-email="true" value="jnnKn/ep5LrfG1+XiB2QI/meobVgqJWazxXWnGZGEmThchQqffk0+LXWDVoQH21LvOL853j5U1bHD2sg0TrHmqMJisSgC/zQMCuzrO3PUt/UB4uQNbW9RKLIofYPDXav"> -->
+                        <div class="row" <?php echo $thanks ?>>
+                            <div  data-form-alert="" class="alert alert-success col-12">Thanks for filling out the form!</div>
+                            <div  data-form-alert-danger="" class="alert alert-danger col-12">
                             </div>
                         </div>
-                        <div class="dragArea row">
+                        <div class="dragArea row" <?php echo $form_status ?>>
                             <div class="col-md-6  form-group" data-for="name">
                                 <input type="text" name="name" placeholder="Your Name" data-form-field="Name" required="required" class="form-control input display-7" id="name-form4-13">
                             </div>
                             <div class="col-md-6  form-group" data-for="phone">
-                                <input type="text" name="phone" placeholder="Phone" data-form-field="Phone" required="required" class="form-control input display-7" id="phone-form4-13">
+                                <input type="tel" size="10" name="phone" placeholder="Phone" data-form-field="Phone" required="required" class="form-control input display-7" id="phone-form4-13">
                             </div>
                             <div data-for="email" class="col-md-12  form-group">
-                                <input type="text" name="email" placeholder="Email" data-form-field="Email" class="form-control input display-7" required="required" id="email-form4-13">
+                                <input type="email" name="email" placeholder="Email" data-form-field="Email" class="form-control input display-7" required="required" id="email-form4-13">
                             </div>
                             <div data-for="message" class="col-md-12  form-group">
                                 <textarea name="message" placeholder="Message" data-form-field="Message" class="form-control input display-7" id="message-form4-13"></textarea>

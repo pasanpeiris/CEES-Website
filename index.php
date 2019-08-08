@@ -24,7 +24,7 @@
 </head>
 <body>
   <section class="menu cid-ruNsw1yRec" once="menu" id="menu1-0">
-    <?php require_once 'common/Components/header.php'; ?>
+    <?php require_once ('common/Components/header.php'); ?>
   </section>
 
 <section class="cid-ruNtyUeTOv mbr-fullscreen mbr-parallax-background" id="header2-1">
@@ -41,7 +41,7 @@
                 
                 <p class="mbr-text pb-3 mbr-fonts-style display-5">
                     Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing. </p>
-                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="#">Get a Quote</a></div>
+                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="#">Lorem ipsumn</a></div>
             </div>
         </div>
     </div>
@@ -134,7 +134,7 @@
                             <p class="mbr-text align-right mb-0 mbr-fonts-style display-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer vitae justo. Dignissim enim sit amet venenatis urna cursus. Integer enim neque volutpat ac. <br><br>Ullamcorper malesuada proin libero nunc consequat interdum varius sit. Facilisis sed odio morbi quis commodo odio aenean. Facilisi etiam dignissim diam quis enim lobortis.&nbsp;</p>                           
                         </div>
                       	<span class="vspacer"></span>
-                      	<div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="#">Get a Quote</a></div>
+                      	<div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="#">Lorem ipsum</a></div>
                     </div>
                     <div class="mbr-figure" style="width: 75%;">
                      <img src="assets/images/mbr-1-1036x1036.jpg" alt="" title="">  
@@ -299,7 +299,7 @@
         <div class="row main justify-content-center">
             <div class="media-container-column col-12 col-lg-3 col-md-4">
                 <div class="mbr-section-btn align-left py-4"><a class="btn btn-secondary display-4" href="#">
-                    Get a Quote</a></div>
+                    Lorem ipsum</a></div>
             </div>
             <div class="media-container-column title col-12 col-lg-7 col-md-6">
                 <h2 class="align-right mbr-bold mbr-white pb-3 mbr-fonts-style display-2"><span style="font-weight: normal;">
@@ -321,7 +321,7 @@
             <div class="col-md-3">
                 <div class="media-wrap">
                     <a href="#">
-                      <h2>AAVAS</h2>
+                      <h2>CEES</h2>
                     </a>
                 </div>
             </div>
@@ -343,23 +343,23 @@
             <div class="media-container-row mbr-white">
                 <div class="col-md-6 copyright">
                     <p class="mbr-text mbr-fonts-style display-7">
-                        © Copyright 2019 <a href="https://webdesignvista.com">Web Design Vista</a> - All Rights Reserved
+                        © Copyright 2019 <a href="https://www.gnexsolutions.com">gNEX Solutions</a> - All Rights Reserved
                     </p>
                 </div>
                 <div class="col-md-6">
                     <div class="social-list align-right">
                         <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
+                            <a href="https://www.facebook.com/gNEXsolutionsSL/" target="_blank">
                                 <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon"></span>
                             </a>
                         </div>
                         <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
+                            <a href="https://www.facebook.com/gNEXsolutionsSL/" target="_blank">
                                 <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
                             </a>
                         </div>
                         <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
+                            <a href="https://www.facebook.com/gNEXsolutionsSL/" target="_blank">
                                 <span class="mbr-iconfont mbr-iconfont-social socicon-youtube socicon"></span>
                             </a>
                         </div>
