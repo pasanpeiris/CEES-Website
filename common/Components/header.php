@@ -3,6 +3,9 @@
 include 'php/viewservices.inc.php';
 
 ?>
+
+
+<script type="text/javascript" src="https://use.fontawesome.com/20bf8ce7c9.js"></script>    
 <!-- <script type="text/javascript" src="https://use.fontawesome.com/20bf8ce7c9.js"></script>    
     <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -81,6 +84,7 @@ include 'php/viewservices.inc.php';
             </ul>
             
         </div>
+    </nav>
     </nav> -->
 
 
@@ -318,6 +322,7 @@ include 'php/viewservices.inc.php';
 		<!-- /NAV -->
 	</header>
 	<!-- /HEADER -->
+
 
 
 <!-- .dropdown-cont a {
