@@ -30,98 +30,59 @@
 
   </section>
 
-<!-- <section class="cid-ruNtyUeTOv mbr-fullscreen mbr-parallax-background" id="header2-1">
+<section id="header2-1">
+    <div>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active" >
+            <div class="parallax cid-ruNtyUeTOv1 mbr-fullscreen d-block w-100" src="assets/images/mbr-1920x1198.jpg" alt="First slide"></div>
+            <div class="carousel-caption">
+                <h5>Heading 1</h5>
+                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+            </div>
+            </div>
+            <div class="carousel-item">
+            <div class="parallax cid-ruNtyUeTOv2 mbr-fullscreen d-block w-100"  alt="Second slide"></div>
+            <div class="carousel-caption ">
+                <h5>Heading 1</h5>
+                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+            </div>
+            </div>
+            <div class="carousel-item">
+            <div class="parallax cid-ruNtyUeTOv3 mbr-fullscreen d-block w-100" alt="Third slide"></div>
+            <div class="carousel-caption">
+                <h5>Heading 1</h5>
+                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+            </div>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+    </div>
 
-    
+    <div class="mbr-arrow hidden-sm-down" aria-hidden="true" >
 
-    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(7, 59, 76);"></div>
-
-
-    <div class="mbr-arrow hidden-sm-down" aria-hidden="true">
         <a href="#next">
             <i class="mbri-down mbr-iconfont"></i>
         </a>
     </div>
-</section> -->
+</section> 
 
-
-
-<!-- <section class="engine"><a href="https://mobirise.info/s">free bootstrap theme</a></section> -->
-<section class="carousel slide cid-ryxgLa75pI" data-interval="false" id="slider1-4">
-    <div class="full-screen">
-      <div class="mbr-slider slide carousel" data-pause="true" data-keyboard="false" data-ride="carousel" data-interval="6000">
-        <ol class="carousel-indicators">
-          <li data-app-prevent-settings="" data-target="#slider1-4" data-slide-to="0"></li>
-          <li data-app-prevent-settings="" data-target="#slider1-4" data-slide-to="1"></li>
-          <li data-app-prevent-settings="" data-target="#slider1-4" class=" active" data-slide-to="2"></li>
-        </ol>
-        <div class="carousel-inner" role="listbox">
-          <div class="carousel-item slider-fullscreen-image" data-bg-video-slide="false" style="background-image: url(assets/images/background1.jpg);">
-            <div class="container container-slide">
-              <div class="image_wrapper">
-                <!-- <div class="mbr-overlay" style="opacity: 0.4; background-color: rgb(255, 255, 255);"></div> -->
-                <img src="assets/images/background1.jpg">
-                <div class="carousel-caption justify-content-center">
-                  <div class="col-10 align-left">
-                    <h2 class="mbr-fonts-style display-1">LOREM IPSUM</h2>
-                    <p class="lead mbr-text mbr-fonts-style display-5">Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing.</p>
-                    <div class="mbr-section-btn" buttons="0">
-                      <a class="btn btn-success display-4" >EXPLORE</a>
-                     </div>
-                   </div>
-                 </div>
-               </div>
-             </div>
-           </div>
-
-           <div class="carousel-item slider-fullscreen-image" data-bg-video-slide="false" style="background-image: url(assets/images/background2.jpg);">
-            <div class="container container-slide">
-              <div class="image_wrapper">
-                <!-- <div class="mbr-overlay"></div> -->
-                <img src="assets/images/background2.jpg">
-                <div class="carousel-caption justify-content-center">
-                  <div class="col-10 align-left">
-                    <h2 class="mbr-fonts-style display-1">LOREM IPSUM</h2>
-                    <p class="lead mbr-text mbr-fonts-style display-5">Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing.</p>
-                    <div class="mbr-section-btn" buttons="0">
-                      <a class="btn btn-primary display-4">EXPLORE</a> 
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="carousel-item slider-fullscreen-image active" data-bg-video-slide="false" style="background-image: url(assets/images/background3.jpg);">
-            <div class="container container-slide">
-              <div class="image_wrapper">
-                <!-- <div class="mbr-overlay"></div> -->
-                <img src="assets/images/background3.jpg">
-                <div class="carousel-caption justify-content-center">
-                  <div class="col-10 align-left">
-                    <h2 class="mbr-fonts-style display-1">LOREM IPSUM</h2>
-                    <p class="lead mbr-text mbr-fonts-style display-5">Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing.</p>
-                    <div class="mbr-section-btn" buttons="0">
-                      <a class="btn btn-info display-4">EXPLORE</a> 
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-</section>
 <section class="features1 cid-ruNBDZ0eEF" id="features1-8">
-    
-    
-
-    
     <div class="container">
         <div class="media-container-row">
-
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-img pb-3">
                     <span class="mbr-iconfont mbri-sale" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
@@ -169,19 +130,12 @@
                   </p>
                 </div>
             </div>
-
-            
-
         </div>
-
     </div>
-
 </section>
 
 <section class="mbr-section content7 cid-ruNvXuN71m" id="content7-2">
-          
-    
-
+        
     <div class="container">
         <div class="media-container-row">
             <div class="col-12 col-md-12">
@@ -446,4 +400,16 @@
   <script src="assets/parallax/jarallax.min.js"></script>
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/theme/js/script.js"></script>
+
+  <script>
+    document.onready =  function(){
+        $('.carousel').carousel({
+        interval: 3000
+        })
+    }
+  </script>
+  
+ <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
+  
+</body>
 </html>

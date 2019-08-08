@@ -2,7 +2,7 @@
 <html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec"  >
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-      <title>Virtual Programs | Center for Creative Leadership | Learn More</title>
+      <title>CEES Academy Programs</title>
       <script type="text/javascript">var ajaxurl = "https://www.ccl.org/wp-admin/admin-ajax.php"</script>
       <link rel="alternate" hreflang="en" href="index.html" />
       <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
@@ -37,12 +37,6 @@
       <meta property="og:image:secure_url" content="wp-content/uploads/2016/09/virtual-programs-center-for-creative-leadership.jpg" />
       <meta property="og:image:width" content="1920" />
       <meta property="og:image:height" content="480" />
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:description" content="Center for Creative Leadership uses virtual technology, instructional design, world-class content and faculty to create virtual programs. Learn more TODAY." />
-      <meta name="twitter:title" content="Virtual Programs | Center for Creative Leadership | Learn More" />
-      <meta name="twitter:site" content="@CCLdotORG" />
-      <meta name="twitter:image" content="wp-content/uploads/2016/09/virtual-programs-center-for-creative-leadership.jpg" />
-      <meta name="twitter:creator" content="@CCLdotORG" />
       <script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.ccl.org/#website","url":"https://www.ccl.org/","name":"Center for Creative Leadership","potentialAction":{"@type":"SearchAction","target":"https://www.ccl.org/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.ccl.org/lead-it-yourself-solutions/digital-learning/virtual-programs/#primaryimage","url":"wp-content/uploads/2016/09/virtual-programs-center-for-creative-leadership.jpg","width":1920,"height":480,"caption":"Virtual Programs"},{"@type":"WebPage","@id":"https://www.ccl.org/lead-it-yourself-solutions/digital-learning/virtual-programs/#webpage","url":"https://www.ccl.org/lead-it-yourself-solutions/digital-learning/virtual-programs/","inLanguage":"en-US","name":"Virtual Programs | Center for Creative Leadership | Learn More","isPartOf":{"@id":"https://www.ccl.org/#website"},"primaryImageOfPage":{"@id":"https://www.ccl.org/lead-it-yourself-solutions/digital-learning/virtual-programs/#primaryimage"},"datePublished":"2016-09-06T15:20:37+00:00","dateModified":"2019-04-10T13:06:41+00:00","description":"Center for Creative Leadership uses virtual technology, instructional design, world-class content and faculty to create virtual programs. Learn more TODAY.","breadcrumb":{"@id":"https://www.ccl.org/lead-it-yourself-solutions/digital-learning/virtual-programs/#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://www.ccl.org/lead-it-yourself-solutions/digital-learning/virtual-programs/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.ccl.org/","url":"https://www.ccl.org/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.ccl.org/lead-it-yourself-solutions/","url":"https://www.ccl.org/lead-it-yourself-solutions/","name":"Lead-It-Yourself Solutions"}},{"@type":"ListItem","position":3,"item":{"@type":"WebPage","@id":"https://www.ccl.org/lead-it-yourself-solutions/digital-learning/","url":"https://www.ccl.org/lead-it-yourself-solutions/digital-learning/","name":"Digital Learning"}},{"@type":"ListItem","position":4,"item":{"@type":"WebPage","@id":"https://www.ccl.org/lead-it-yourself-solutions/digital-learning/virtual-programs/","url":"https://www.ccl.org/lead-it-yourself-solutions/digital-learning/virtual-programs/","name":"Virtual Programs"}}]}]}</script>
       <!-- / Yoast SEO plugin. -->
       <link rel='dns-prefetch' href='//fonts.googleapis.com' />
