@@ -32,8 +32,8 @@
                         </a>
                         <div class="dropdown-cont">
                             <?php
-                            $services=new ViewServices();
-                            $services->ShowAllServices();
+                            //$services=new ViewServices();
+                            //$services->ShowAllServices();
                             ?>
                         </div>
                 </div>
