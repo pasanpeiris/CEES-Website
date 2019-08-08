@@ -7,7 +7,7 @@
      <div class="row"> <div class="widget col-lg-3 col-md-3 col-sm-12">
         <h4 class="title">About us</h4>
         <p style="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry"s standard dummy text ever since the 1500s..</p>
-        <a class="button small" href="#">read more</a>
+        <a class="button small" style="color:white" href="#">read more</a>
       </div>
       <!-- end widget -->
       <div class="widget col-lg-3 col-md-3 col-sm-12">

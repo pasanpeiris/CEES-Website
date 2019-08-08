@@ -632,7 +632,7 @@ textarea.input {
 .nav-aside-menu li.has-dropdown>.dropdown {
   display: none;
   margin-left: 30px;
-  border-left: 1px solid #3063c8;
+  border-left: 1px solid #7e7e7e;
 }
 
 .nav-aside-menu li.has-dropdown.active>.dropdown {

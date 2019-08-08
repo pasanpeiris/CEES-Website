@@ -17,7 +17,7 @@
 				<div class="container">
 					<!-- search & aside toggle -->
                     <div class="nav-btns" >
-						<button class="aside-btn"><i class="fa fa-bars"></i></button>
+						<button class="aside-btn" style="color:#0e5082"><i class="fa fa-bars"></i></button>
 					</div>
 					<!-- /search & aside toggle -->
 				</div>

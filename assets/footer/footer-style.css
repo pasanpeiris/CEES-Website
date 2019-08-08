@@ -346,7 +346,6 @@ button, .button {
   padding: 0.5em 1em;
   font-size: 1.3rem;
   border-color: #696E74;
-  color: white;
   -webkit-transition: background-color 300ms ease-out;
   -moz-transition: background-color 300ms ease-out;
   transition: background-color 300ms ease-out;
@@ -355,13 +354,6 @@ button, .button {
   font-weight: normal !important;
 }
 
-button:hover, button:focus, .button:hover, .button:focus {
-  background-color: #3E4246;
-}
-
-button:hover, button:focus, .button:hover, .button:focus {
-  color: white;
-}
 
 button.large, .button.large {
   padding-top: 1.125rem;
@@ -382,7 +374,6 @@ button.small, .button.small {
 
 .dmbutton:hover, .dmbutton:active, .dmbutton:focus {
   color: #ffffff;
-  background-color: #222222;
   border-color: #ffffff;
 }
 
