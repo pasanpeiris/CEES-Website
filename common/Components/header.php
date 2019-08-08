@@ -1,93 +1,8 @@
 <?php
-
-include 'php/viewservices.inc.php';
-
+//include 'php/dbh.inc.php';
+//include 'php/services.inc.php';
+//include 'php/viewservices.inc.php';
 ?>
-
-
-<script type="text/javascript" src="https://use.fontawesome.com/20bf8ce7c9.js"></script>    
-<!-- <script type="text/javascript" src="https://use.fontawesome.com/20bf8ce7c9.js"></script>    
-    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
-        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <div class="hamburger">
-                <span></span>
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </button>
-        <div class="menu-logo">
-            <div class="navbar-brand"> 
-                
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-black display-5" href="https://webdesignvista.com">
-                        CEES</a></span>
-            </div>
-        </div>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav  nav-right" data-app-modern-menu="true">
-                <li class="nav-item">
-                    <a class="nav-link link text-black display-4" href="index.php">Home</a>
-                </li>
-                <li class="nav-item">
-                    <div class="dropdown">                    
-                        <a class="nav-link link text-black display-4 dropdown">CEES Academy   
-                            <i class="fa fa-caret-down"></i>
-                        </a>
-                        <div class="dropdown-cont">
-                            <?php
-
-                           // $services=new ViewServices();
-                           // $services->ShowAllServices();
-                            ?> 
-                            <a href="Programs.php">Service 01</a>
-                            <a href="services-talent.php">Service 02</a>
-                            <a href="#">Service 03</a>  
-                            <a href="#">Service 04</a>
-
-                        </div>
-                </div>
-                </li>
-                <li class="nav-item">
-                    <div class="dropdown">                    
-                        <a class="nav-link link text-black display-4 dropdown">Technology Solutions   
-                            <i class="fa fa-caret-down"></i>
-                        </a>
-                        <div class="dropdown-cont">
-                            <a href="service_pages/sample.html">Sample service</a>
-                            <a href="#">Service 02</a>
-                            <a href="#">Service 03</a>  
-                            <a href="#">Service 04</a>  
-                        </div>
-                </div>
-                </li>
-                <li class="nav-item">
-                    <div class="dropdown">                    
-                        <a class="nav-link link text-black display-4 dropdown">Consultancy Services   
-                            <i class="fa fa-caret-down"></i>
-                        </a>
-                        <div class="dropdown-cont">
-                            <a href="#">Service 01</a>
-                            <a href="#">Service 02</a>
-                            <a href="#">Service 03</a>  
-                            <a href="#">Service 04</a>  
-                        </div>
-                </div>
-                </li>
-                <!-- <li class="nav-item"><a class="nav-link link text-black display-4" href="post.php">Post</a>
-                </li> -->
-<!--                 <li class="nav-item">
-                    <a class="nav-link link text-black display-4" href="about.php">About Us</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link link text-black display-4" href="contact.php">Contact</a>
-                </li>
-            </ul>
-            
-        </div>
-    </nav>
-    </nav> -->
-
-
 
 	<link rel="stylesheet" href="https://technext.github.io/callie/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="assets/navbar/navcss.css" />
@@ -111,7 +26,7 @@ include 'php/viewservices.inc.php';
 
             <!-- Main Nav -->
             <div id="logo" style="display:none;">
-                <img src="cees2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:30%;">
+                <img src="cees2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:10%;">
              </div>
 
 			<div id="nav-bottom">
@@ -302,18 +217,29 @@ include 'php/viewservices.inc.php';
 			<div id="nav-aside">
 				<ul class="nav-aside-menu">
 					<li><a href="index.html">Home</a></li>
-					<li class="has-dropdown"><a>Categories</a>
+					<li class="has-dropdown"><a class="side_a">Consultancy Services</a>
 						<ul class="dropdown">
-							<li><a href="#">Lifestyle</a></li>
-							<li><a href="#">Fashion</a></li>
-							<li><a href="#">Technology</a></li>
-							<li><a href="#">Travel</a></li>
-							<li><a href="#">Health</a></li>
+							<li><a href="#">A</a></li>
+                            <li><a href="#">B</a></li>
+                            <li><a href="#">C</a></li>
 						</ul>
 					</li>
-					<li><a href="about.html">About Us</a></li>
-					<li><a href="contact.html">Contacts</a></li>
-					<li><a href="#">Advertise</a></li>
+                    <li class="has-dropdown"><a class="side_a">Technology Solutions</a>
+						<ul class="dropdown">
+							<li><a href="#">A</a></li>
+                            <li><a href="#">B</a></li>
+                            <li><a href="#">C</a></li>
+						</ul>
+					</li>
+                    <li class="has-dropdown"><a class="side_a">Research & Insights</a>
+						<ul class="dropdown">
+							<li><a href="#">A</a></li>
+                            <li><a href="#">B</a></li>
+                            <li><a href="#">C</a></li>
+						</ul>
+					</li>
+                    <li><a href="#">About</a></li>
+					<li><a href="#">Contact</a></li>
 				</ul>
 				<button class="nav-close nav-aside-close"><span></span></button>
 			</div>
@@ -322,19 +248,6 @@ include 'php/viewservices.inc.php';
 		<!-- /NAV -->
 	</header>
 	<!-- /HEADER -->
-
-
-
-<!-- .dropdown-cont a {
-  float: none;
-  color: black;
-  text-decoration: none;
-  display: block;
-  text-align: left;
-
-} -->
-
-
 	<!-- jQuery Plugins -->
 	<script src="assets/navbar/jquery.min.js"></script>
     <!-- <script src="js/bootstrap.min.js"></script> -->
