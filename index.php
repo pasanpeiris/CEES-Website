@@ -37,7 +37,7 @@
     <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(7, 59, 76);"></div>
 
     <div class="container align-center">
-        <div class="row justify-content-md-center">
+        <!-- <div class="row justify-content-md-center">
             <div class="mbr-white col-md-10">
                 <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1"><span style="font-weight: normal;">
                     Business Solutions</span></h1>
@@ -46,7 +46,7 @@
                     Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing. </p>
                 <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="#">Lorem ipsumn</a></div>
             </div>
-        </div>
+        </div> -->
     </div>
     <div class="mbr-arrow hidden-sm-down" aria-hidden="true">
         <a href="#next">
