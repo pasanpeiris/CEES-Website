@@ -4,7 +4,6 @@
 //include 'php/viewservices.inc.php';
 ?>
 
-
 	<link rel="stylesheet" href="https://technext.github.io/callie/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="assets/navbar/navcss.css" />
     
@@ -51,8 +50,8 @@
                                                     <h4 class="dropdown-heading">Categories</h4>
                                                     <ul class="dropdown-list">
                                                         <li><a href="#">Lifestyle</a></li>
+                                                        <li><a href="services-talent.php">Technology</a></li>
                                                         <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Technology</a></li>
                                                         <li><a href="#">Health</a></li>
                                                         <li><a href="#">Travel</a></li>
                                                     </ul>
@@ -249,8 +248,6 @@
 		<!-- /NAV -->
 	</header>
 	<!-- /HEADER -->
-
-
 	<!-- jQuery Plugins -->
 	<script src="assets/navbar/jquery.min.js"></script>
     <!-- <script src="js/bootstrap.min.js"></script> -->
