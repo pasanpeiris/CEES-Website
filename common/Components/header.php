@@ -6,6 +6,7 @@ include 'php/viewservices.inc.php';
 
 
 <script type="text/javascript" src="https://use.fontawesome.com/20bf8ce7c9.js"></script>    
+<!-- <script type="text/javascript" src="https://use.fontawesome.com/20bf8ce7c9.js"></script>    
     <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <div class="hamburger">
@@ -74,7 +75,7 @@ include 'php/viewservices.inc.php';
                 </li>
                 <!-- <li class="nav-item"><a class="nav-link link text-black display-4" href="post.php">Post</a>
                 </li> -->
-                <li class="nav-item">
+<!--                 <li class="nav-item">
                     <a class="nav-link link text-black display-4" href="about.php">About Us</a>
                 </li>
                 <li class="nav-item">
@@ -84,6 +85,7 @@ include 'php/viewservices.inc.php';
             
         </div>
     </nav>
+    </nav> -->
 
 
 
@@ -324,13 +326,14 @@ include 'php/viewservices.inc.php';
 
 
 .dropdown-cont a {
+<!-- .dropdown-cont a {
   float: none;
   color: black;
   text-decoration: none;
   display: block;
   text-align: left;
 
-}
+} -->
 
 
 	<!-- jQuery Plugins -->
