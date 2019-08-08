@@ -155,7 +155,7 @@
                                                     <ul class="dropdown-list">
                                                         <li><a href="#">Lifestyle</a></li>
                                                         <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Technology</a></li>
+                                                        <li><a href="services2.php">Technology</a></li>
                                                         <li><a href="#">Health</a></li>
                                                         <li><a href="#">Travel</a></li>
                                                     </ul>
