@@ -31,7 +31,7 @@
 
 			<div id="nav-bottom">
                 <div class = "row" >
-                    <div class="col-md-2" style="margin:auto">
+                    <div class="col-md-2" style="margin:auto" id="logo-desktop">
                         <img src="cees2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:30%;">
                     </div>
                 
@@ -47,48 +47,43 @@
                                         <div class="dropdown-body">
                                             <div class="row">
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Categories</h4>
+                                                    <h4 class="dropdown-heading"><a href="services-talent.php">Technology (Active)</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="services-talent.php">Technology (Active)</a></li>
-                                                        <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Health</a></li>
-                                                        <li><a href="#">Travel</a></li>
+                                                        <li> Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat iLorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i
+                                                        </li>
+                                                    </ul>
+                                                    <h4 class="dropdown-heading"><a href="#">Main 5</a></h4>
+                                                    <ul class="dropdown-list">
+                                                        <li>Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i
+                                                        Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i
+                                                        <br>
+                                                        <img src="assets/images/development-icon-3335977-1920-736x559.jpg" width="200px" heigth="auto" style="margin:20px;">
+                                                    </li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Lifestyle</h4>
+                                                    <h4 class="dropdown-heading"><a href="#">Main 1</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Health</a></li>
-                                                    </ul>
-                                                    <h4 class="dropdown-heading">Technology</h4>
-                                                    <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="#">Travel</a></li>
+                                                        <li>Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i</li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Fashion</h4>
+                                                    <h4 class="dropdown-heading"><a href="#">Main 2</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Technology</a></li>
-                                                    </ul>
-                                                    <h4 class="dropdown-heading">Travel</h4>
-                                                    <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="#">Healtth</a></li>
-                                                        <li><a href="#">Fashion</a></li>
+                                                        <li>Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i</li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Health</h4>
+                                                    <h4 class="dropdown-heading"><a href="#">Main 3</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Technology</a></li>
-                                                        <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Health</a></li>
-                                                        <li><a href="#">Travel</a></li>
+                                                        <li>Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i</li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -101,44 +96,38 @@
                                         <div class="dropdown-body">
                                             <div class="row">
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Programs</h4>
+                                                    <h4 class="dropdown-heading"><a href="Programs.php">CEES Academy Programs(Active)</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="Programs.php">CEES Academy Programs(Active)</a></li>
+                                                        <li> Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat iLorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i
+                                                        </li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Lifestyle</h4>
+                                                    <h4 class="dropdown-heading"><a href="#">Main 1</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Health</a></li>
+                                                        <li>Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i</li>
                                                     </ul>
-                                                    <h4 class="dropdown-heading">Technology</h4>
+                                                    <h4 class="dropdown-heading"><a href="#">Main 4</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="#">Travel</a></li>
-                                                    </ul>
-                                                </div>
-                                                <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Fashion</h4>
-                                                    <ul class="dropdown-list">
-                                                        <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Technology</a></li>
-                                                    </ul>
-                                                    <h4 class="dropdown-heading">Travel</h4>
-                                                    <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="#">Healtth</a></li>
-                                                        <li><a href="#">Fashion</a></li>
+                                                        <li>Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i</li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Health</h4>
+                                                    <h4 class="dropdown-heading"><a href="#">Main 2</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Technology</a></li>
-                                                        <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Health</a></li>
-                                                        <li><a href="#">Travel</a></li>
+                                                        <li>Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i</li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <h4 class="dropdown-heading"><a href="#">Main 3</a></h4>
+                                                    <ul class="dropdown-list">
+                                                        <li>Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i</li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -151,48 +140,34 @@
                                         <div class="dropdown-body">
                                             <div class="row">
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Categories</h4>
+                                                    <h4 class="dropdown-heading"><a href="#">Areas</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="#">Fashion</a></li>
+                                                        <li><a href="#">Sub 1</a></li>
+                                                        <li><a href="#">Sub 1</a></li>
                                                         <li><a href="services2.php">Technology(Active)</a></li>
-                                                        <li><a href="#">Health</a></li>
-                                                        <li><a href="#">Travel</a></li>
+                                                        <li><a href="#">Sub 2</a></li>
+                                                        <li><a href="#">Sub 3</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Lifestyle</h4>
+                                                    <h4 class="dropdown-heading"><a href="#">Main 3</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Health</a></li>
-                                                    </ul>
-                                                    <h4 class="dropdown-heading">Technology</h4>
-                                                    <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="#">Travel</a></li>
+                                                        <li>Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i</li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Fashion</h4>
+                                                    <h4 class="dropdown-heading"><a href="#">Main 3</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Technology</a></li>
-                                                    </ul>
-                                                    <h4 class="dropdown-heading">Travel</h4>
-                                                    <ul class="dropdown-list">
-                                                        <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="#">Healtth</a></li>
-                                                        <li><a href="#">Fashion</a></li>
+                                                        <li>Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i</li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading">Health</h4>
+                                                    <h4 class="dropdown-heading"><a href="#">Main 3</a></h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="#">Technology</a></li>
-                                                        <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Health</a></li>
-                                                        <li><a href="#">Travel</a></li>
+                                                        <li>Lorem ipsum dolor sit amet consectetur adipiscing.
+                                                        Adipiscing tristique risus nec feugiat i</li>
                                                     </ul>
                                                 </div>
                                             </div>
