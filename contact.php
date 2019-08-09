@@ -50,7 +50,7 @@
 
     
 
-  <div class="mbr-overlay" > 
+  <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(85, 180, 212);" > 
     </div>
 
     <div class="container">
@@ -83,32 +83,32 @@
             <div class="col-12">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-4">
-                        <div class="b b-adress" style="align-content: center;">
+                        <div class="b b-adress" style="align-items: center;">
                       
-                               <img src="assets/images/img/Group 53.png" style="align-content:center;"/>
+                               <img src="assets/images/img/Group 53.png" style=" display: block; margin-left: auto; margin-right: auto;"/>
                          
-                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black;align-content: enter;">
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black; text-align: center;">
                                 350 5th Ave, New York, NY 10118, USA
                             </p>
                         </div>
                     </div>
                     <div class="col-12 col-md-4">
-                        <div class="b b-phone" style="align-content:center;">
+                        <div class="b b-phone" >
                       
                       
-                            <img src="assets/images/img/Group 40.png"/>
+                            <img src="assets/images/img/Group 40.png" style=" display: block; margin-left: auto; margin-right: auto;"/>
                          
-                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold; color: black;align-content:center;">
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold; color: black; text-align: center;">
                             +94 778 241 664
                             </p>
                         </div>
                     </div>
                     <div class="col-12 col-md-4">
-                        <div class="b b-mail" style="align-content:center;">
+                        <div class="b b-mail" >
                       
-                            <img src="assets/images/img/Group 38.png"/>
+                            <img src="assets/images/img/Group 38.png" style=" display: block; margin-left: auto; margin-right: auto;"/>
                          
-                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black;">
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black; text-align: center;">
                             info@ceesinternational.org
                             </p>
                         </div>
