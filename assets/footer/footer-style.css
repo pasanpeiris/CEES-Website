@@ -1,6 +1,7 @@
 
 
 .footer {
+
   /* background: rgb(235, 235, 235); */
   background: rgba(240,240,240,1);
   background: -moz-linear-gradient(top, rgba(240,240,240,1) 0%, rgba(255,255,255,1) 52%, rgba(235,235,235,1) 100%);
@@ -12,6 +13,14 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f0f0', endColorstr='#ebebeb', GradientType=0 );padding: 50px 0 20px;
   margin-top: 50px;
   margin-bottom: 0px;
+
+  /* background: rgb(255, 255, 255);
+  background-color:  #0e5082; 
+  background-image: linear-gradient(to right, #023e75, #063d73, #074e85, #206775); 
+  padding: 70px 0 0;
+  margin-top: 10px;
+  margin-bottom: 40px; */
+
   position: relative;
   overflow: hidden;
   display: block;
@@ -31,7 +40,7 @@
 }
 
 .footer .title {
-  border-bottom: 1px solid #696E74;
+  border-bottom: 1px solid rgb(255, 255, 255);
 }
 
 .copyrights p {
@@ -70,14 +79,27 @@
 }
 
 .footer .widget h4 {
-  color: #223c79;
+  color: #ffffff;
   margin-bottom: 50px !important;
   font-size: 15px;
 }
 
+.a{
+  color: #ffffff;
+}
+
+.readmore{
+  color: #ffffff;
+}
+
+.contact_details{
+  color: #ffffff;
+}
+
+
 .copyrights {
-  background: #0e5082;
-  padding: 10px;
+  background: black;
+  padding: 5px;
   font-size: 12px;
   border-top: 1px solid rgb(255, 255, 255);
   color: #fff;
@@ -384,7 +406,7 @@ button.small, .button.small {
   padding-bottom: 0.6375rem;
   padding-left: 1.75rem;
   font-size: 1.3125rem;
-  background-color: #0e5082;
+  background-color: #0e827c;
 }
 
 .dmbutton:hover, .dmbutton:active, .dmbutton:focus {

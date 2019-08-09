@@ -280,7 +280,10 @@
             $this.height($this.height());}
             var $window=$(window);var container=document.getElementById('mk-theme-container');$('.equal-columns').each(function(){dynamicHeight.bind(this);$window.on('load',dynamicHeight.bind(this));$window.on('resize',dynamicHeight.bind(this));window.addResizeListener(container,dynamicHeight.bind(this));});}(jQuery));
          </script>
-      </footer>
+	  </footer>
+	  <section class="cid-ruXI5U4sXz" id="footer5-1m">
+<?php require_once ('common/Components/footer.php'); ?>
+</section>
    </body>
 </html>
 
