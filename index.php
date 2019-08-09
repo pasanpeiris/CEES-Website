@@ -135,7 +135,6 @@
 </section>
 
 <section class="mbr-section content7 cid-ruNvXuN71m" id="content7-2">
-        
     <div class="container">
         <div class="media-container-row">
             <div class="col-12 col-md-12">
@@ -143,9 +142,6 @@
                     <div class="media-content">
                       
                       <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">Hire us for your business needs!</h2>
-                      
-                      
-                      	
                         <div class="mbr-section-text">
                             <p class="mbr-text align-right mb-0 mbr-fonts-style display-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer vitae justo. Dignissim enim sit amet venenatis urna cursus. Integer enim neque volutpat ac. <br><br>Ullamcorper malesuada proin libero nunc consequat interdum varius sit. Facilisis sed odio morbi quis commodo odio aenean. Facilisi etiam dignissim diam quis enim lobortis.&nbsp;</p>                           
                         </div>
@@ -162,11 +158,6 @@
 </section>
 
 <section class="features11 cid-ruXpPiazmW" id="features11-19">
-
-    
-
-    
-
     <div class="container">   
         <div class="col-md-12">
             <div class="media-container-row">
@@ -221,10 +212,6 @@
 
 <section class="progress-bars2 cid-ruXscj5IY2" id="progress-bars2-1b">
     
-     
-
-    
-
     <div class="container">
         <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
             Our Expertise</h2>
@@ -286,27 +273,13 @@
                     <progress class="progress progress-primary" max="100" value="80">
                     </progress>
                 </div>
-                
-                
-            
-                
             </div>
         </div>
     </div>
 </section>
 
-<section class="mbr-section" id="witsec-custom-html-block-1c" data-rv-view="269" style="background-color: rgb(255, 255, 255);">
- 
- <div class="witsec-custom-html-container elements-content" style="padding-top: 3rem; padding-bottom: 3rem;">
-     
-    <div class="mbr-section__container block" style="width: 100%;"></div>
- </div>
-
-</section>
 
 <section class="mbr-section info2 cid-ruOTHzyksn" id="info2-17">
-
-    
 
     <div class="mbr-overlay" style="opacity: 0.7; background-color: rgb(7, 59, 76);">
     </div>
