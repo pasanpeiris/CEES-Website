@@ -1855,7 +1855,7 @@ body {
 }
 .cid-ruNvXuN71m {
   padding-top: 60px;
-  padding-bottom: 120px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-ruNvXuN71m .media-container-row {
@@ -1888,8 +1888,8 @@ body {
   text-align: left;
 }
 .cid-ruXpPiazmW {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  /* padding-top: 90px; */
+  /* padding-bottom: 90px; */
   background-color: #ffffff;
 }
 .cid-ruXpPiazmW h2 {
@@ -2046,7 +2046,7 @@ body {
   }
 }
 .cid-ruOTHzyksn {
-  padding-top: 120px;
+  padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-7-1920x1280.jpg");
 }
