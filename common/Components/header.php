@@ -4,6 +4,7 @@
 //include 'php/viewservices.inc.php';
 ?>
 
+
 	<link rel="stylesheet" href="https://technext.github.io/callie/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="assets/navbar/navcss.css" />
     
@@ -82,8 +83,19 @@
                                                 <div class="col-md-3">
                                                     <h4 class="dropdown-heading"><a href="#">Main 3</a></h4>
                                                     <ul class="dropdown-list">
+
+                                                       <?php
+                                                        //$services=new ViewServices();
+                                                        // $services->ShowAllServices();
+                                                        ?> 
+                                                        <li><a href="#">Technology</a></li>
+                                                        <li><a href="#">Fashion</a></li>
+                                                        <li><a href="#">Health</a></li>
+                                                        <li><a href="#">Travel</a></li>
+
                                                         <li>Lorem ipsum dolor sit amet consectetur adipiscing.
                                                         Adipiscing tristique risus nec feugiat i</li>
+
                                                     </ul>
                                                 </div>
                                             </div>
