@@ -50,7 +50,7 @@
                                                     <h4 class="dropdown-heading">Categories</h4>
                                                     <ul class="dropdown-list">
                                                         <li><a href="#">Lifestyle</a></li>
-                                                        <li><a href="services-talent.php">Technology</a></li>
+                                                        <li><a href="services-talent.php">Technology (Active)</a></li>
                                                         <li><a href="#">Fashion</a></li>
                                                         <li><a href="#">Health</a></li>
                                                         <li><a href="#">Travel</a></li>
@@ -103,7 +103,7 @@
                                                 <div class="col-md-3">
                                                     <h4 class="dropdown-heading">Programs</h4>
                                                     <ul class="dropdown-list">
-                                                        <li><a href="Programs.php">CEES Academy Programs</a></li>
+                                                        <li><a href="Programs.php">CEES Academy Programs(Active)</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="col-md-3">
@@ -155,7 +155,7 @@
                                                     <ul class="dropdown-list">
                                                         <li><a href="#">Lifestyle</a></li>
                                                         <li><a href="#">Fashion</a></li>
-                                                        <li><a href="#">Technology</a></li>
+                                                        <li><a href="services2.php">Technology(Active)</a></li>
                                                         <li><a href="#">Health</a></li>
                                                         <li><a href="#">Travel</a></li>
                                                     </ul>
@@ -199,7 +199,7 @@
                                         </div>
                                     </div>
                                 </li>
-                                <li><a href="#">About</a></li>
+                                <li><a href="about.php">About</a></li>
                                 <li><a href="contact.php">Contact</a></li>
                             </ul>
                             <!-- /nav -->
