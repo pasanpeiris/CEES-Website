@@ -49,13 +49,13 @@
 
     
 
-    <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(85, 180, 212);">
+  <div class="mbr-overlay" > 
     </div>
 
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center mbr-bold mbr-white pb-3 mbr-fonts-style display-2">
+                <h2 class="align-right mbr-bold mbr-white pb-3 mbr-fonts-style display-2">
                     Contact Us</h2>
                 
                 
