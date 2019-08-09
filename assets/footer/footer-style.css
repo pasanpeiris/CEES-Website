@@ -3,7 +3,7 @@
 .footer {
   /* background: rgb(255, 255, 255); */
   background-color:  #0e5082; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, #023e75, #063d73, #074e85, #206775); /* Standard syntax (must be last) */
+  background-image: linear-gradient(to right,black, #0a3255, #114274, #03487e, #0d5475); /* Standard syntax (must be last) */
   padding: 70px 0 0;
   margin-top: 10px;
   margin-bottom: 40px;
