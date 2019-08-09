@@ -50,7 +50,7 @@
 
     
 
-  <div class="mbr-overlay" > 
+  <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(85, 180, 212);" > 
     </div>
 
     <div class="container">
@@ -58,9 +58,9 @@
             <div class="title col-12 col-md-8">
                 <h2 class="align-center mbr-bold mbr-white pb-3 mbr-fonts-style display-2">
                     Get in touch</h2>
-                
-                
-                
+                <p class="align-center mbr-bold mbr-white pb-3 mbr-fonts-style display-4">Want to find out how CEES can solve problems specific to your business? Let's talk.</p>
+
+                     
             </div>
         </div>
     </div>
@@ -83,32 +83,32 @@
             <div class="col-12">
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-4">
-                        <div class="b b-adress">
-                            <h5 class="align-left mbr-fonts-style m-0 display-3">
-                               <span class="mbri-map-pin"></span>
-                            </h5>
-                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black;">
+                        <div class="b b-adress" style="align-items: center;">
+                      
+                               <img src="assets/images/img/Group 53.png" style=" display: block; margin-left: auto; margin-right: auto;"/>
+                         
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black; text-align: center;">
                                 350 5th Ave, New York, NY 10118, USA
                             </p>
                         </div>
                     </div>
                     <div class="col-12 col-md-4">
-                        <div class="b b-phone">
+                        <div class="b b-phone" >
                       
-                            <h5 class="align-left mbr-fonts-style m-0 display-3">
-                               <span class="mbri-mobile2"></span>
-                            </h5>
-                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold; color: black;">
+                      
+                            <img src="assets/images/img/Group 40.png" style=" display: block; margin-left: auto; margin-right: auto;"/>
+                         
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold; color: black; text-align: center;">
                             +94 778 241 664
                             </p>
                         </div>
                     </div>
                     <div class="col-12 col-md-4">
-                        <div class="b b-mail">
-                            <h5 class="align-left mbr-fonts-style m-0 display-3">
-                              <span class="mbri-letter"></span>
-                            </h5>
-                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black;">
+                        <div class="b b-mail" >
+                      
+                            <img src="assets/images/img/Group 38.png" style=" display: block; margin-left: auto; margin-right: auto;"/>
+                         
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black; text-align: center;">
                             info@ceesinternational.org
                             </p>
                         </div>
