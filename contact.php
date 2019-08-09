@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
@@ -83,30 +84,31 @@
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-4">
                         <div class="b b-adress">
-                            <h5 class="align-left mbr-fonts-style m-0 display-5">
-                                Address:
+                            <h5 class="align-left mbr-fonts-style m-0 display-3">
+                               <span class="mbri-map-pin"></span>
                             </h5>
-                            <p class="mbr-text align-left mbr-fonts-style display-7">
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black;">
                                 350 5th Ave, New York, NY 10118, USA
                             </p>
                         </div>
                     </div>
                     <div class="col-12 col-md-4">
                         <div class="b b-phone">
-                            <h5 class="align-left mbr-fonts-style m-0 display-5">
-                                Phone:
+                      
+                            <h5 class="align-left mbr-fonts-style m-0 display-3">
+                               <span class="mbri-mobile2"></span>
                             </h5>
-                            <p class="mbr-text align-left mbr-fonts-style display-7">
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold; color: black;">
                             +94 778 241 664
                             </p>
                         </div>
                     </div>
                     <div class="col-12 col-md-4">
                         <div class="b b-mail">
-                            <h5 class="align-left mbr-fonts-style m-0 display-5">
-                                E-mail:
+                            <h5 class="align-left mbr-fonts-style m-0 display-3">
+                              <span class="mbri-letter"></span>
                             </h5>
-                            <p class="mbr-text align-left mbr-fonts-style display-7">
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black;">
                             info@ceesinternational.org
                             </p>
                         </div>
@@ -140,7 +142,7 @@
                             Don't hesitate to contact us
                         </h4>
                     </div>
-                    <div class="icon-contacts pb-3">
+                    <div class="icon-contacts pb-3" style=" font-weight: bold;"> 
                         <h5 class="align-left mbr-fonts-style display-7">
                             Ready for offers and cooperation
                         </h5>
