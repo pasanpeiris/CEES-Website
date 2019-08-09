@@ -4,7 +4,8 @@
 
 <footer class="footer">
     <div class="container">
-     <div class="row"> <div class="widget col-lg-3 col-md-3 col-sm-12">
+     <div class="row"> 
+       <div class="widget col-lg-3 col-md-3 col-sm-12">
         <h4 class="title">About us</h4>
 
         <p class="footer_p" style="">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry"s standard dummy text ever since the 1500s..</p>
