@@ -65,7 +65,7 @@
     <div class="copyrights">
       <div class="container">
         <div class="col-lg-6 col-md-6 col-sm-12 columns footer-left" >
-          <p >Copyright © 2019 - All rights reserved.</p>
+          <p >Copyright © 2019 CEES Internatonal - All rights reserved.</p>
           <div class="credits">
             Designed and Developed by <a href="http://gnexsolutions.com/">gNEX Solutions</a>
           </div>

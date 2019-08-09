@@ -186,8 +186,8 @@
                                         </div>
                                     </div>
                                 </li>
-                                <li><a href="about.php">About</a></li>
-                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="about.php">About CEES</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                             <!-- /nav -->
             
@@ -226,8 +226,8 @@
                             <li><a href="#">Main 3</a></li>
                             <li><a href="#">Main 5</a></li>
 					</li>
-                    <li><a href="about.php">About</a></li>
-					<li><a href="contact.php">Contact</a></li>
+                    <li><a href="about.php">About CEES</a></li>
+					<li><a href="contact.php">Contact Us</a></li>
 				</ul>
 				<button class="nav-close nav-aside-close"><span></span></button>
 			</div>
