@@ -1,7 +1,6 @@
 
 
 .footer {
-
   /* background: rgb(235, 235, 235); */
   background: rgba(240,240,240,1);
   background: -moz-linear-gradient(top, rgba(240,240,240,1) 0%, rgba(255,255,255,1) 52%, rgba(235,235,235,1) 100%);
@@ -18,9 +17,7 @@
   /* background: rgb(255, 255, 255);
   background-color:  #0e5082; 
   background-image: linear-gradient(to right, #023e75, #063d73, #074e85, #206775); 
-  padding: 70px 0 0;
-  margin-top: 10px;
-  margin-bottom: 40px; */
+  /* background: rgb(255, 255, 255); */
   position: relative;
   overflow: hidden;
   display: block;
