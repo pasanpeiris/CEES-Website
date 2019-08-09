@@ -20,7 +20,11 @@
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
-  
+
+
+  <meta name="generator" content="Mobirise v4.10.7, mobirise.com">
+  <link rel="shortcut icon" href="assets/images/logo4.png" type="image/x-icon">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional2.css" type="text/css">
   
 </head>
 <body>
@@ -60,7 +64,6 @@
         </div>
     </div>
 </section>
-
 <section class="team1 cid-ruXEWX5uJh" id="team1-1g">
     
     
@@ -170,6 +173,72 @@
     </div>
 </section>
 
+<section class="carousel slide testimonials-slider cid-ryEUu17Rx5" data-interval="false" id="testimonials-slider1-0">
+    
+    
+
+    
+
+    <div class="container text-center">
+        <h2 class="pb-5 mbr-fonts-style display-2">
+            WHAT OUR FANTASTIC USERS SAY
+        </h2>
+
+        <div class="carousel slide" role="listbox" data-pause="true" data-keyboard="false" data-ride="carousel" data-interval="5000">
+            <div class="carousel-inner">
+                
+                
+            <div class="carousel-item">
+                    <div class="user col-md-8">
+                        <div class="user_image">
+                            <img src="assets/images/face3.jpg">
+                        </div>
+                        <div class="user_text pb-3">
+                            <p class="mbr-fonts-style display-7">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae nostrum, quos voluptas fugiat blanditiis, temporibus expedita cumque doloribus ea, officiis consequuntur repellat minus ad veritatis? Facere similique accusamus, accusantium sunt!
+                            </p>
+                        </div>
+                        <div class="user_name mbr-bold pb-2 mbr-fonts-style display-7">
+                            Alex
+                        </div>
+                        <div class="user_desk mbr-light mbr-fonts-style display-7">
+                            DESIGNER
+                        </div>
+                    </div>
+                </div><div class="carousel-item">
+                    <div class="user col-md-8">
+                        <div class="user_image">
+                            <img src="assets/images/face2.jpg">
+                        </div>
+                        <div class="user_text pb-3">
+                            <p class="mbr-fonts-style display-7">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae nostrum, quos voluptas fugiat blanditiis, temporibus expedita cumque doloribus ea, officiis consequuntur repellat minus ad veritatis? Facere similique accusamus, accusantium sunt!
+                            </p>
+                        </div>
+                        <div class="user_name mbr-bold pb-2 mbr-fonts-style display-7">
+                            Linda
+                        </div>
+                        <div class="user_desk mbr-light mbr-fonts-style display-7">
+                            DEVELOPER
+                        </div>
+                    </div>
+                </div></div>
+
+            <div class="carousel-controls">
+                <a class="carousel-control-prev" role="button" data-slide="prev">
+                  <span aria-hidden="true" class="mbri-arrow-prev mbr-iconfont"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                
+                <a class="carousel-control-next" role="button" data-slide="next">
+                  <span aria-hidden="true" class="mbri-arrow-next mbr-iconfont"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="timeline1 cid-ruXCHpDgJI" id="timeline1-1e">
 
     
@@ -267,66 +336,7 @@
 </section>
 
 <section class="cid-ruOQWZUvF9" id="footer5-w">
-
-    
-
-    
-
-    <div class="container">
-        <div class="media-container-row">
-            <div class="col-md-3">
-                <div class="media-wrap">
-                    <a href="#">
-                      <h2>AAVAS</h2>
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-9">
-                <p class="mbr-text align-right links mbr-fonts-style display-7">
-                    <a href="#" class="text-black">ABOUT</a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="#" class="text-black">TERMS</a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="#" class="text-black">CAREERS</a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="#" class="text-black">CONTACT</a>
-                </p>
-            </div>
-        </div>
-        <div class="footer-lower">
-            <div class="media-container-row">
-                <div class="col-md-12">
-                    <hr>
-                </div>
-            </div>
-            <div class="media-container-row mbr-white">
-                <div class="col-md-6 copyright">
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        © Copyright 2019 <a href="https://webdesignvista.com">Web Design Vista</a> - All Rights Reserved
-                    </p>
-                </div>
-                <div class="col-md-6">
-                    <div class="social-list align-right">
-                        <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon"></span>
-                            </a>
-                        </div>
-                        <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
-                            </a>
-                        </div>
-                        <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-youtube socicon"></span>
-                            </a>
-                        </div>
-                        
-                        
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<?php require_once ('common/Components/footer.php'); ?>
 </section>
 
 
@@ -339,6 +349,10 @@
   <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/parallax/jarallax.min.js"></script>
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  <section class="engine"><a href="https://mobirise.info/x">free css templates</a></section><script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
+  <script src="assets/mbr-testimonials-slider/mbr-testimonials-slider.js"></script>
   <script src="assets/theme/js/script.js"></script>
   
   

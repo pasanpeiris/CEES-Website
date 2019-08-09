@@ -23,43 +23,66 @@
   
 </head>
 <body>
-  <section class="menu cid-ruNsw1yRec" once="menu" id="menu1-0">
-    <?php require_once ('common/Components/header.php'); ?>
+  <section class="menu cid-ruNsw1yRec"  once="menu" id="menu1-0" style="width:100%; position:fixed; z-index:9999;">
+
+        <?php require_once ('common/Components/header.php'); ?>
+
+
   </section>
 
-<section class="cid-ruNtyUeTOv mbr-fullscreen mbr-parallax-background" id="header2-1">
-
-    
-
-    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(7, 59, 76);"></div>
-
-    <div class="container align-center">
-        <div class="row justify-content-md-center">
-            <div class="mbr-white col-md-10">
-                <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1"><span style="font-weight: normal;">
-                    Business Solutions</span></h1>
-                
-                <p class="mbr-text pb-3 mbr-fonts-style display-5">
-                    Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing. </p>
-                <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="#">Lorem ipsumn</a></div>
+<section id="header2-1">
+    <div>
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active" >
+            <div class="parallax cid-ruNtyUeTOv1 mbr-fullscreen d-block w-100" src="assets/images/mbr-1920x1198.jpg" alt="First slide"></div>
+            <div class="carousel-caption">
+                <h5>Heading 1</h5>
+                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+            </div>
+            </div>
+            <div class="carousel-item">
+            <div class="parallax cid-ruNtyUeTOv2 mbr-fullscreen d-block w-100"  alt="Second slide"></div>
+            <div class="carousel-caption ">
+                <h5>Heading 1</h5>
+                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+            </div>
+            </div>
+            <div class="carousel-item">
+            <div class="parallax cid-ruNtyUeTOv3 mbr-fullscreen d-block w-100" alt="Third slide"></div>
+            <div class="carousel-caption">
+                <h5>Heading 1</h5>
+                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+            </div>
             </div>
         </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
     </div>
-    <div class="mbr-arrow hidden-sm-down" aria-hidden="true">
+    </div>
+
+    <div class="mbr-arrow hidden-sm-down" aria-hidden="true" >
+
         <a href="#next">
             <i class="mbri-down mbr-iconfont"></i>
         </a>
     </div>
-</section>
+</section> 
 
 <section class="features1 cid-ruNBDZ0eEF" id="features1-8">
-    
-    
-
-    
     <div class="container">
         <div class="media-container-row">
-
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-img pb-3">
                     <span class="mbr-iconfont mbri-sale" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
@@ -107,19 +130,11 @@
                   </p>
                 </div>
             </div>
-
-            
-
         </div>
-
     </div>
-
 </section>
 
 <section class="mbr-section content7 cid-ruNvXuN71m" id="content7-2">
-          
-    
-
     <div class="container">
         <div class="media-container-row">
             <div class="col-12 col-md-12">
@@ -127,9 +142,6 @@
                     <div class="media-content">
                       
                       <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">Hire us for your business needs!</h2>
-                      
-                      
-                      	
                         <div class="mbr-section-text">
                             <p class="mbr-text align-right mb-0 mbr-fonts-style display-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer vitae justo. Dignissim enim sit amet venenatis urna cursus. Integer enim neque volutpat ac. <br><br>Ullamcorper malesuada proin libero nunc consequat interdum varius sit. Facilisis sed odio morbi quis commodo odio aenean. Facilisi etiam dignissim diam quis enim lobortis.&nbsp;</p>                           
                         </div>
@@ -146,11 +158,6 @@
 </section>
 
 <section class="features11 cid-ruXpPiazmW" id="features11-19">
-
-    
-
-    
-
     <div class="container">   
         <div class="col-md-12">
             <div class="media-container-row">
@@ -205,10 +212,6 @@
 
 <section class="progress-bars2 cid-ruXscj5IY2" id="progress-bars2-1b">
     
-     
-
-    
-
     <div class="container">
         <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
             Our Expertise</h2>
@@ -270,27 +273,13 @@
                     <progress class="progress progress-primary" max="100" value="80">
                     </progress>
                 </div>
-                
-                
-            
-                
             </div>
         </div>
     </div>
 </section>
 
-<section class="mbr-section" id="witsec-custom-html-block-1c" data-rv-view="269" style="background-color: rgb(255, 255, 255);">
- 
- <div class="witsec-custom-html-container elements-content" style="padding-top: 3rem; padding-bottom: 3rem;">
-     
-    <div class="mbr-section__container block" style="width: 100%;"></div>
- </div>
-
-</section>
 
 <section class="mbr-section info2 cid-ruOTHzyksn" id="info2-17">
-
-    
 
     <div class="mbr-overlay" style="opacity: 0.7; background-color: rgb(7, 59, 76);">
     </div>
@@ -312,65 +301,8 @@
 
 <section class="cid-ruOTxA2tiD" id="footer5-16">
 
-    
-
-    
-
-    <div class="container">
-        <div class="media-container-row">
-            <div class="col-md-3">
-                <div class="media-wrap">
-                    <a href="#">
-                      <h2>CEES</h2>
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-9">
-                <p class="mbr-text align-right links mbr-fonts-style display-7">
-                    <a href="#" class="text-black">ABOUT</a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="#" class="text-black">TERMS</a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="#" class="text-black">CAREERS</a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="#" class="text-black">CONTACT</a>
-                </p>
-            </div>
-        </div>
-        <div class="footer-lower">
-            <div class="media-container-row">
-                <div class="col-md-12">
-                    <hr>
-                </div>
-            </div>
-            <div class="media-container-row mbr-white">
-                <div class="col-md-6 copyright">
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        © Copyright 2019 <a href="https://www.gnexsolutions.com">gNEX Solutions</a> - All Rights Reserved
-                    </p>
-                </div>
-                <div class="col-md-6">
-                    <div class="social-list align-right">
-                        <div class="soc-item">
-                            <a href="https://www.facebook.com/gNEXsolutionsSL/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon"></span>
-                            </a>
-                        </div>
-                        <div class="soc-item">
-                            <a href="https://www.facebook.com/gNEXsolutionsSL/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
-                            </a>
-                        </div>
-                        <div class="soc-item">
-                            <a href="https://www.facebook.com/gNEXsolutionsSL/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-youtube socicon"></span>
-                            </a>
-                        </div>
-                        
-                        
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<?php require_once ('common/Components/footer.php'); ?>
+        
 </section>
 
 
@@ -378,14 +310,22 @@
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/dropdown/js/nav-dropdown.js"></script>
-  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
+  <!-- <script src="assets/dropdown/js/nav-dropdown.js"></script>
+  <script src="assets/dropdown/js/navbar-dropdown.js"></script> -->
   <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/parallax/jarallax.min.js"></script>
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/theme/js/script.js"></script>
-  
+
+  <script>
+    document.onready =  function(){
+        $('.carousel').carousel({
+        interval: 3000
+        })
+    }
+  </script>
   
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
-  </body>
+  
+</body>
 </html>

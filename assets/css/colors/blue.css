@@ -1,0 +1,135 @@
+	.pagination > li > a:hover,
+	.pagination > li > span:hover,
+	.pagination > li > a:focus,
+	.pagination > li > span:focus,
+	.list-group-item.active,
+	.list-group-item.active:hover,
+	.list-group-item.active:focus,
+	.panel-primary > .panel-heading,
+	.breadcrumb,
+	blockquote,
+	blockquote.pull-right,
+	.open > a,
+	.open > a:hover,
+	.open > a:focus,
+	.form-control:focus,
+	.open > a,
+	.open > a:hover,
+	a.thumbnail:hover,
+	a.thumbnail:focus,
+	.post-wrapper-top h2,
+	 .open > a:focus,
+	#volume,
+	.title:before,
+	.post-meta a:hover,
+	 .title:after{
+		border-color:#17b9eb
+	}
+
+	.panel-primary > .panel-heading + .panel-collapse .panel-body,
+	.navbar-default .navbar-nav > .active > a,
+	.navbar-inverse .navbar-nav > .active > a,
+	.navbar-default .navbar-nav > .active > a:hover,
+	.navbar-inverse .navbar-nav > .active > a:hover,
+	.navbar-default .navbar-nav > .active > a:focus,
+	.navbar-inverse .navbar-nav > .active > a:focus,
+	.nav .caret {
+	  border-bottom-color: #17b9eb;
+	}
+
+	.panel-primary > .panel-heading + .panel-collapse .panel-body,
+	.caret,
+	.blue > li:hover > a, .blue > li.active > a,
+	.top-bar-section ,
+	 .top-bar-section  > a:after {
+		border-top-color:#17b9eb
+	}
+	
+	.dm-icon-effect-1 .dm-icon:after {
+		box-shadow: 0 0 0 5px #17b9eb;
+	}
+	.site-title span,
+	.text-primary,
+	.panel-primary > .panel-heading,
+	.accordion-heading .accordion-toggle > em,
+	.message span,
+	.services_lists_boxes_icon:after,
+	a.list-group-item.active > .badge,
+	 .active > a > .badge,
+	a,
+	.rating i,
+	.btn-link,
+	.check li:before,
+	.highlight,
+	.required,
+	.pricing li:before,
+	.theme_details h3,
+	.theme_overviews .icon-container i,
+	.jetmenu li > .megamenu i,
+	.top-bar-section ul li:hover > a,
+	.top-bar-section ul li.active > a,
+	.recent_posts li a.readmore {
+		color:#000000;
+	}
+
+	.pagination > .active > a,
+	.pagination > .active > span,
+	.pagination > .active > a:hover,
+	.pagination > .active > span:hover,
+	.pagination > .active > a:focus,
+	.pagination > .active > span:focus,
+	.pagination > li > a:hover,
+	.pagination > li > span:hover,
+	.pagination > li > a:focus,
+	.pagination > li > span:focus,
+	.pager li > a:hover,
+	.pager li > a:focus,
+	.label-primary,
+	.list-group-item.active,
+	.list-group-item.active:hover,
+	.list-group-item.active:focus,
+	.panel-success > .panel-heading,
+	.btn-primary,
+	.tagcloud a,
+	.btn-primary.disabled,
+	.btn-primary[disabled],
+	fieldset[disabled] .btn-primary,
+	.btn-primary.disabled:hover,
+	.btn-primary[disabled]:hover,
+	fieldset[disabled] .btn-primary:hover,
+	.btn-primary.disabled:focus,
+	.btn-primary[disabled]:focus,
+	fieldset[disabled] .btn-primary:focus,
+	.btn-primary.disabled:active,
+	.btn-primary[disabled]:active,
+	fieldset[disabled] .btn-primary:active,
+	.btn-primary.disabled.active,
+	.btn-primary[disabled].active,
+	fieldset[disabled] .btn-primary.active,
+	.topbar,
+	.progress-bar-danger,
+	.servicetitle hr,
+	.icn-container,
+	.no-touch .dm-icon-effect-1 .dm-icon.active,
+	.no-touch .dm-icon-effect-1 .dm-icon:hover,
+	.naver .naver-handle:before,
+	button, .button,
+	.owl-theme .owl-controls .owl-page.active span,
+	.owl-theme .owl-controls.clickable .owl-page:hover span,
+	.title:before,
+	.owl-carousel .item i,
+	#volume,
+	mark,
+	#bbpress-forums li.bbp-body ul.forum li.bbp-forum-topic-count,
+	#bbpress-forums li.bbp-body ul.forum li.bbp-forum-reply-count,
+	.dmtop {
+		background-color:#000000;
+	}
+	
+	.services_lists_boxes_icon_none i:hover,
+	.services_lists_boxes_icon i:hover {
+		background:#000000 !important;
+	}
+	.transparent-wrap {
+		background-color: rgba(17, 19, 19, 0.6);
+	}

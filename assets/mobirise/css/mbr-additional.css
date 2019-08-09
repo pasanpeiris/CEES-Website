@@ -2,9 +2,15 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
 
-
-
-
+.parallax {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.carousel-caption{
+  margin-bottom: 100px !important;
+}
 
 body {
   font-style: normal;
@@ -839,6 +845,7 @@ pre {
 .header14 .form-inline button {
   border-radius: 100px !important;
 }
+
 .offset-1 {
   margin-left: 8.33333%;
 }
@@ -1817,12 +1824,20 @@ body {
 .cid-ruNsw1yRec .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-ruNtyUeTOv {
+
+.cid-ruNtyUeTOv1 {
   background-image: url("../../../assets/images/mbr-1920x1198.jpg");
 }
+.cid-ruNtyUeTOv2 {
+  background-image: url("../../../assets/images/background2.jpg");
+}
+.cid-ruNtyUeTOv3 {
+  background-image: url("../../../assets/images/background3.jpg");
+}
+
 .cid-ruNBDZ0eEF {
-  padding-top: 90px;
-  padding-bottom: 75px;
+  padding-top: 150px;
+  padding-bottom: 50px;
   background-color: #ffffff;
 }
 .cid-ruNBDZ0eEF .mbr-text {
@@ -1840,7 +1855,7 @@ body {
 }
 .cid-ruNvXuN71m {
   padding-top: 60px;
-  padding-bottom: 120px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-ruNvXuN71m .media-container-row {
@@ -1873,8 +1888,8 @@ body {
   text-align: left;
 }
 .cid-ruXpPiazmW {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  /* padding-top: 90px; */
+  /* padding-bottom: 90px; */
   background-color: #ffffff;
 }
 .cid-ruXpPiazmW h2 {
@@ -2031,7 +2046,7 @@ body {
   }
 }
 .cid-ruOTHzyksn {
-  padding-top: 120px;
+  padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-7-1920x1280.jpg");
 }
@@ -2047,7 +2062,6 @@ body {
 }
 .cid-ruOTxA2tiD {
   padding-top: 45px;
-  padding-bottom: 45px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
@@ -3276,7 +3290,8 @@ body {
 .cid-ruXJBlWiZf {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1920x1277.jpg");
+  height: 300px;
+  background-image: url("../../../assets/images/Contact-Us-Hero-Image1.jpg") /*url("../../../assets/images/mbr-1920x1277.jpg");*/
 }
 .cid-ruXJBlWiZf H2 {
   color: #efefef;
@@ -3699,7 +3714,9 @@ body {
 .cid-ruOSWCqLJZ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #d4e7ec;
+  background-image: url("../../../assets/images/online-mobile-checkin.jpg");
+  /* background-color: #d4e7ec; */
+
 }
 .cid-ruOSWCqLJZ .mbr-iconfont {
   font-size: 48px;

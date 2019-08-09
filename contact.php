@@ -15,6 +15,7 @@
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/socicon/css/styles.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
@@ -49,13 +50,13 @@
 
     
 
-    <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(85, 180, 212);">
+  <div class="mbr-overlay" > 
     </div>
 
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center mbr-bold mbr-white pb-3 mbr-fonts-style display-2">
+                <h2 class="align-right mbr-bold mbr-white pb-3 mbr-fonts-style display-2">
                     Contact Us</h2>
                 
                 
@@ -83,31 +84,32 @@
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-4">
                         <div class="b b-adress">
-                            <h5 class="align-left mbr-fonts-style m-0 display-5">
-                                Address:
+                            <h5 class="align-left mbr-fonts-style m-0 display-3">
+                               <span class="mbri-map-pin"></span>
                             </h5>
-                            <p class="mbr-text align-left mbr-fonts-style display-7">
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black;">
                                 350 5th Ave, New York, NY 10118, USA
                             </p>
                         </div>
                     </div>
                     <div class="col-12 col-md-4">
                         <div class="b b-phone">
-                            <h5 class="align-left mbr-fonts-style m-0 display-5">
-                                Phone:
+                      
+                            <h5 class="align-left mbr-fonts-style m-0 display-3">
+                               <span class="mbri-mobile2"></span>
                             </h5>
-                            <p class="mbr-text align-left mbr-fonts-style display-7">
-                                +1 (0) 000 0000 001
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold; color: black;">
+                            +94 778 241 664
                             </p>
                         </div>
                     </div>
                     <div class="col-12 col-md-4">
                         <div class="b b-mail">
-                            <h5 class="align-left mbr-fonts-style m-0 display-5">
-                                E-mail:
+                            <h5 class="align-left mbr-fonts-style m-0 display-3">
+                              <span class="mbri-letter"></span>
                             </h5>
-                            <p class="mbr-text align-left mbr-fonts-style display-7">
-                                youremail@mail.com
+                            <p class="mbr-text align-left mbr-fonts-style display-4" style=" font-weight: bold;color: black;">
+                            info@ceesinternational.org
                             </p>
                         </div>
                     </div>
@@ -140,13 +142,13 @@
                             Don't hesitate to contact us
                         </h4>
                     </div>
-                    <div class="icon-contacts pb-3">
+                    <div class="icon-contacts pb-3" style=" font-weight: bold;"> 
                         <h5 class="align-left mbr-fonts-style display-7">
                             Ready for offers and cooperation
                         </h5>
-                        <p class="mbr-text align-left mbr-fonts-style display-7">
-                            Phone: +1 (0) 000 0000 001 <br>
-                            Email: youremail@mail.com
+                        <p class="align-left mbr-fonts-style display-7">
+                            Phone:  +94 778 241 664 <br>
+                            Email: info@ceesinternational.org
                         </p>
                     </div>
                 </div>
@@ -181,69 +183,9 @@
     </div>
 </section>
 
-<section class="cid-ruOT0L6rL9" id="footer5-14">
-
-    
-
-    
-
-    <div class="container">
-        <div class="media-container-row">
-            <div class="col-md-3">
-                <div class="media-wrap">
-                    <a href="#">
-                      </a><h2><a href="#"></a><a href="https://webdesignvista.com/">AAVAS</a></h2>
-                    
-                </div>
-            </div>
-            <div class="col-md-9">
-                <p class="mbr-text align-right links mbr-fonts-style display-7">
-                    <a href="#" class="text-black">ABOUT</a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="#" class="text-black">TERMS</a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="#" class="text-black">CAREERS</a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="#" class="text-black">CONTACT</a>
-                </p>
-            </div>
-        </div>
-        <div class="footer-lower">
-            <div class="media-container-row">
-                <div class="col-md-12">
-                    <hr>
-                </div>
-            </div>
-            <div class="media-container-row mbr-white">
-                <div class="col-md-6 copyright">
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        © Copyright 2019 <a href="https://webdesignvista.com">Web Design Vista</a> - All Rights Reserved
-                    </p>
-                </div>
-                <div class="col-md-6">
-                    <div class="social-list align-right">
-                        <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon"></span>
-                            </a>
-                        </div>
-                        <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
-                            </a>
-                        </div>
-                        <div class="soc-item">
-                            <a href="https://webdesignvista.com/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-youtube socicon"></span>
-                            </a>
-                        </div>
-                        
-                        
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+<section class="cid-ruOTxA2tiD" id="footer5-16">
+<?php require_once ('common/Components/footer.php'); ?>
 </section>
-
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
