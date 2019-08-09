@@ -17,7 +17,7 @@
 				<div class="container">
 					<!-- search & aside toggle -->
                     <div class="nav-btns" >
-						<button class="aside-btn" style="color:#0e5082"><i class="fa fa-bars"></i></button>
+						<button class="aside-btn" style="color:#0e5082" id="ham_icon"><i class="fa fa-bars"></i></button>
 					</div>
 					<!-- /search & aside toggle -->
 				</div>
@@ -248,4 +248,5 @@
 	<script src="assets/navbar/jquery.min.js"></script>
     <!-- <script src="js/bootstrap.min.js"></script> -->
 	<script src="assets/navbar/jquery.stellar.min.js"></script>
-	<script src="assets/navbar/main.js"></script>
+    <script src="assets/navbar/main.js"></script>
+    
