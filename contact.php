@@ -144,7 +144,7 @@
                         <h5 class="align-left mbr-fonts-style display-7">
                             Ready for offers and cooperation
                         </h5>
-                        <p class="mbr-text align-left mbr-fonts-style display-7">
+                        <p class="align-left mbr-fonts-style display-7">
                             Phone:  +94 778 241 664 <br>
                             Email: info@ceesinternational.org
                         </p>
