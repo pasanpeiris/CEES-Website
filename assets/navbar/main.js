@@ -1,6 +1,9 @@
 (function($) {
 	"use strict"
 
+    var ham_icon = document.getElementById("ham_icon");
+	var nav_aside = document.getElementById("nav-aside");
+	
 	// Mobile dropdown
 	$('.has-dropdown>a').on('click', function() {
 		$(this).parent().toggleClass('active');
@@ -18,12 +21,16 @@
 					$('#nav').addClass('shadow-active');
 				}
 			}
+			if($('#nav-aside').hasClass('active')){
+				ham_icon.style.visibility = "hidden";
+			}
 		}
 	});
 
 	$('.nav-aside-close').on('click', function () {
 		$('#nav-aside').removeClass('active');
 		$('#nav').removeClass('shadow-active');
+		ham_icon.style.visibility = "visible";
 	});
 
 
