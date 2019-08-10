@@ -6,8 +6,6 @@
 
 	<link rel="stylesheet" href="https://technext.github.io/callie/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="assets/navbar/navcss.css" />
-    
-
 	<!-- HEADER -->
 	<header id="header" style="background-color:white">
 		<!-- NAV -->

@@ -401,6 +401,7 @@ textarea.input {
   text-align: center;
   border: none;
   background: transparent;
+  z-index: 9999;
 }
 
 #nav-search {
