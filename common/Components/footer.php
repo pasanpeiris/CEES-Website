@@ -64,17 +64,15 @@
     </div>
     <div class="copyrights">
       <div class="container">
-        <div class="col-lg-6 col-md-6 col-sm-12 columns footer-left" >
-          <p >Copyright © 2019 CEES Internatonal - All rights reserved.</p>
-          <div class="credits">
+        <div class="col-lg-12 col-md-12 col-sm-12 columns footer-left" >
+          <p>Copyright © 2019 CEES Internatonal - All rights reserved.</p>
+            <div class="credits">
             Designed and Developed by <a href="http://gnexsolutions.com/">gNEX Solutions</a>
           </div>
         </div>
       </div>
     </div>
   </footer>
-
-
 <div class="dmtop">Scroll to Top</div>
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v4.0&appId=2237923799773954&autoLogAppEvents=1"></script>

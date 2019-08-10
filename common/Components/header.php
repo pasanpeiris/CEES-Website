@@ -7,8 +7,6 @@
 
 	<link rel="stylesheet" href="https://technext.github.io/callie/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="assets/navbar/navcss.css" />
-    
-
 	<!-- HEADER -->
 	<header id="header" style="background-color:white">
 		<!-- NAV -->
@@ -16,10 +14,15 @@
 			<!-- Top Nav -->
 			<div id="nav-top">
 				<div class="container">
-					<!-- search & aside toggle -->
-                    <div class="nav-btns" >
-						<button class="aside-btn" style="color:#0e5082" id="ham_icon"><i class="fa fa-bars"></i></button>
-					</div>
+					<!-- search & aside toggle --> 
+                    <div  class="nav-btns" >
+                        <div class="aside-btn" id="nav-icon1" >
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+
 					<!-- /search & aside toggle -->
 				</div>
 			</div>
@@ -225,11 +228,11 @@
                             <li><a href="#">Main 2</a></li>
                             <li><a href="#">Main 3</a></li>
                             <li><a href="#">Main 5</a></li>
+                        </ul>
 					</li>
                     <li><a href="about.php">About CEES</a></li>
 					<li><a href="contact.php">Contact Us</a></li>
-				</ul>
-				<button class="nav-close nav-aside-close"><span></span></button>
+				<!-- <button class="nav-close nav-aside-close"><span></span></button> -->
 			</div>
 			<!-- /Aside Nav -->
 		</div>
@@ -241,4 +244,5 @@
     <!-- <script src="js/bootstrap.min.js"></script> -->
 	<script src="assets/navbar/jquery.stellar.min.js"></script>
     <script src="assets/navbar/main.js"></script>
+
     
