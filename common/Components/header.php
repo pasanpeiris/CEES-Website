@@ -4,6 +4,7 @@
 //include 'php/viewservices.inc.php';
 ?>
 
+
 	<link rel="stylesheet" href="https://technext.github.io/callie/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="assets/navbar/navcss.css" />
 	<!-- HEADER -->
@@ -80,8 +81,19 @@
                                                 <div class="col-md-3">
                                                     <h4 class="dropdown-heading"><a href="#">Main 3</a></h4>
                                                     <ul class="dropdown-list">
+
+                                                       <?php
+                                                        //$services=new ViewServices();
+                                                        // $services->ShowAllServices();
+                                                        ?> 
+                                                        <li><a href="#">Technology</a></li>
+                                                        <li><a href="#">Fashion</a></li>
+                                                        <li><a href="#">Health</a></li>
+                                                        <li><a href="#">Travel</a></li>
+
                                                         <li>Lorem ipsum dolor sit amet consectetur adipiscing.
                                                         Adipiscing tristique risus nec feugiat i</li>
+
                                                     </ul>
                                                 </div>
                                             </div>
@@ -172,8 +184,8 @@
                                         </div>
                                     </div>
                                 </li>
-                                <li><a href="about.php">About</a></li>
-                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="about.php">About CEES</a></li>
+                                <li><a href="contact.php">Contact Us</a></li>
                             </ul>
                             <!-- /nav -->
             
@@ -186,29 +198,34 @@
 			<div id="nav-aside">
 				<ul class="nav-aside-menu">
 					<li><a href="index.php">Home</a></li>
-					<li class="has-dropdown"><a class="side_a">Consultancy Services</a>
+					<li class="has-dropdown"><a class="side_a">Technology Solutions</a>
 						<ul class="dropdown">
-							<li><a href="#">A</a></li>
-                            <li><a href="#">B</a></li>
-                            <li><a href="#">C</a></li>
+							<li><a href="services-talent.php">Technology (Active)</a></li>
+                            <li><a href="#">Main 1</a></li>
+                            <li><a href="#">Main 2</a></li>
+                            <li><a href="#">Main 3</a></li>
+                            <li><a href="#">Main 5</a></li>
 						</ul>
 					</li>
-                    <li class="has-dropdown"><a class="side_a">Technology Solutions</a>
+                    <li class="has-dropdown"><a class="side_a">CEES Academy</a>
 						<ul class="dropdown">
-							<li><a href="#">A</a></li>
-                            <li><a href="#">B</a></li>
-                            <li><a href="#">C</a></li>
+							<li><a href="Programs.php">CEES Academy Pragrams (Active)</a></li>
+                            <li><a href="#">Main 1</a></li>
+                            <li><a href="#">Main 2</a></li>
+                            <li><a href="#">Main 3</a></li>
+                            <li><a href="#">Main 5</a></li>
 						</ul>
 					</li>
-                    <li class="has-dropdown"><a class="side_a">Research & Insights</a>
+                    <li class="has-dropdown"><a class="side_a">Consultancy</a>
 						<ul class="dropdown">
-							<li><a href="#">A</a></li>
-                            <li><a href="#">B</a></li>
-                            <li><a href="#">C</a></li>
-						</ul>
+							<li><a href="services2.php">Technology (Active)</a></li>
+                            <li><a href="#">Main 1</a></li>
+                            <li><a href="#">Main 2</a></li>
+                            <li><a href="#">Main 3</a></li>
+                            <li><a href="#">Main 5</a></li>
 					</li>
-                    <li><a href="#">About</a></li>
-					<li><a href="#">Contact</a></li>
+                    <li><a href="about.php">About CEES</a></li>
+					<li><a href="contact.php">Contact Us</a></li>
 				</ul>
 				<button class="nav-close nav-aside-close"><span></span></button>
 			</div>
