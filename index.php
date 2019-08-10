@@ -19,15 +19,12 @@
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+
 </head>
 <body>
   <section class="menu cid-ruNsw1yRec"  once="menu" id="menu1-0" style="width:100%; position:fixed; z-index:9999;">
-
         <?php require_once ('common/Components/header.php'); ?>
-
-
   </section>
 
 <section id="header2-1">
@@ -320,10 +317,18 @@
   <script>
     document.onready =  function(){
         $('.carousel').carousel({
-        interval: 5000
-        })
+            interval: 5000
+        });
     }
   </script>
+
+    <script>
+        document.onready =  function(){
+            $('#nav-icon1').click(function(){
+                $(this).toggleClass('open');
+            });
+        }
+    </script>
   
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
   

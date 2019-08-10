@@ -14,10 +14,15 @@
 			<!-- Top Nav -->
 			<div id="nav-top">
 				<div class="container">
-					<!-- search & aside toggle -->
-                    <div class="nav-btns" >
-						<button class="aside-btn" style="color:#0e5082" id="ham_icon"><i class="fa fa-bars"></i></button>
-					</div>
+					<!-- search & aside toggle --> 
+                    <div  class="nav-btns" >
+                        <div class="aside-btn" id="nav-icon1" >
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+
 					<!-- /search & aside toggle -->
 				</div>
 			</div>
@@ -227,7 +232,7 @@
 					</li>
                     <li><a href="about.php">About CEES</a></li>
 					<li><a href="contact.php">Contact Us</a></li>
-				<button class="nav-close nav-aside-close"><span></span></button>
+				<!-- <button class="nav-close nav-aside-close"><span></span></button> -->
 			</div>
 			<!-- /Aside Nav -->
 		</div>
@@ -239,4 +244,5 @@
     <!-- <script src="js/bootstrap.min.js"></script> -->
 	<script src="assets/navbar/jquery.stellar.min.js"></script>
     <script src="assets/navbar/main.js"></script>
+
     
