@@ -1308,6 +1308,14 @@ a.img{
     display: block !important;
     text-align: center !important;
   }
+  .copyrights {
+    font-size: 12px !important;
+    text-align: center
+  }
+  .copyrights p {
+    font-size: 10px !important;
+    text-align: center
+  }
 }
 
 @media only screen and (min-width: 40.063em) {
