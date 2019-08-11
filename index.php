@@ -19,7 +19,11 @@
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <link rel="stylesheet" href="assets/theme/research-section.css">
+  <link rel="stylesheet" href="assets/slider-home/slider.css">
+
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
+
 
 </head>
 <body>
@@ -82,7 +86,7 @@
     <div class="container">
         <div class="media-container-row">
             <div class="card p-3 col-12 col-md-6 col-lg-4">
-               <h3 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Enlighten You</a></h4>
+               <h3>Enlighten You</h3>
                 <div class="card-img pb-3">
                     <span class="mbr-iconfont mbri-sale" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
@@ -99,7 +103,7 @@
             </div>
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
-            <h3 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Transform You</a></h4>
+            <h3>Transform You</h3>
                 <div class="card-img pb-3">
                     <span class="mbr-iconfont mbri-speed" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
@@ -116,7 +120,7 @@
             </div>
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
-            <h3 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Amplify You</a></h4>
+            <h3>Amplify You</h3>
                 <div class="card-img pb-3">
                     <span class="mbr-iconfont mbri-gift" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
@@ -295,121 +299,6 @@
         </div>
     </div> -->
 
-    <style>
-     #research-section p{
-        word-wrap: break-word;
-     }
-
-     #research-section .left-part{
-        padding:0px;
-        width:100%;
-        height:400px;
-        background-image: url("assets/images/mbr-3-1460x973.jpg");
-        background-size: auto 100%;
-      }
-      
-     #research-section .right-part{
-        width:100%;
-        height:400px;
-      }
-      
-      #research-section .right-part .row{
-        width:100%;
-        height:25%;
-        margin:auto;
-        border-style: dashed;
-        border-width: 0px 0px 0px 2px;
-        border-color:#e6e6e6;
-        padding:5px;
-        padding-left:15px;
-        overflow:scroll;
-      }
-
-      #research-section .right-part .row::-webkit-scrollbar-thumb {
-        background: #ebebeb !important; 
-        border-radius: 20px !important; 
-        }
-
-        #research-section .right-part .row::-webkit-scrollbar {
-        width: 5px;
-        }
-
-      #research-section .right-part p{
-        font-size:12px;
-        margin-bottom:0px;
-      }
-
-      #research-section .right-part h5{
-        margin-top:5px;
-        font-size:15px;
-        line-height: 13pt;
-      }
-      #research-section .left-part div:nth-child(1){
-        width:100%;
-        padding: 20px;
-        z-index:9999 !important;
-        background-image: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,1));
-        background-size:auto 300px ;
-        background-repeat: no-repeat;
-        background-position: bottom;
-        margin:auto;
-      }
-
-      #research-section .left-part div h4{
-          margin-top:40%;
-      }
-
-      /* #research-section .left-part div:nth-child(2){
-
-        /* overflow:hidden; */
-     
-    #title-text{
-        text-align:center !important;
-        width: 100%;
-        margin-bottom:20px;
-        border-style: solid;
-        border-width: 0px 0px 4px 0px;
-        margin:10px;
-        padding:10px;
-        border-color:#1a91ae;
-        color:#0f5384;
-    }
-    #research-section img{
-       /* height:"auto" */
-
-    }
-    #date-section{
-
-        font-size:10px;
-        color:#01516b;
-    }
-
-    .image1{
-        background-image: url("assets/images/mbr-3-1460x973.jpg");
-        background-size:  100% auto;
-        background-repeat:no-repeat;
-
-    }
-    .image2{
-        background-image: url("assets/images/mbr-1620x1080.jpg");
-        background-size:  100% auto;
-        background-repeat:no-repeat;
-    }
-
-    .image3{
-        background-image: url("assets/images/mbr-3-1460x973.jpg");
-        background-size: auto 100%;
-        background-repeat:no-repeat;
-    }
-
-    .image4{
-        background-image: url("assets/images/mbr-1620x1080.jpg");
-        background-size: auto 100%;
-        background-repeat:no-repeat;
-    }
-
-
-    </style>
     <div class="container">
          <div class="row" > 
              <h2 id="title-text">
