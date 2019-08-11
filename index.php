@@ -39,22 +39,22 @@
             <div class="carousel-item active" >
             <div class="parallax cid-ruNtyUeTOv1 mbr-fullscreen d-block w-100" src="assets/images/mbr-1920x1198.jpg" alt="First slide"></div>
             <div class="carousel-caption">
-                <h5>Heading 1</h5>
-                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+                <h5>Get enlightened</h5>
+                <p>Feel the Original taste of enterprise excellence tools and techniques</p>
             </div>
             </div>
             <div class="carousel-item">
             <div class="parallax cid-ruNtyUeTOv2 mbr-fullscreen d-block w-100"  alt="Second slide"></div>
             <div class="carousel-caption ">
-                <h5>Heading 1</h5>
-                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+                <h5>Transform to be strong</h5>
+                <p>Transformation will be painful. But it’ll be the best work you’ll ever do </p>
             </div>
             </div>
             <div class="carousel-item">
             <div class="parallax cid-ruNtyUeTOv3 mbr-fullscreen d-block w-100" alt="Third slide"></div>
             <div class="carousel-caption">
-                <h5>Heading 1</h5>
-                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+             <h5>Amplify the future</h5>
+             <p>Be equipped for technology tsunami. Yes you can surf on it </p>
             </div>
             </div>
         </div>
@@ -78,16 +78,18 @@
 </section> 
 
 <section class="features1 cid-ruNBDZ0eEF" id="features1-8">
+    <h1 style="text-align:center">We Will</h1>
     <div class="container">
         <div class="media-container-row">
             <div class="card p-3 col-12 col-md-6 col-lg-4">
+               <h3 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Enlighten You</a></h4>
                 <div class="card-img pb-3">
                     <span class="mbr-iconfont mbri-sale" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
+                <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">CEES Academy</a></h4>
                 <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Advertising</a></h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing. 
+                    CEES Academy is dedicated for training and development on Enterprise Excellence tools including Lean, Six Sigma and Industry 4.0 to enlighten business executives to successfully transform themselves, respective teams and organizations  
                     </p>
                   <span class="vspacer"></span>
                   <p class="py-3 mbr-fonts-style">
@@ -97,13 +99,14 @@
             </div>
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
+            <h3 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Transform You</a></h4>
                 <div class="card-img pb-3">
                     <span class="mbr-iconfont mbri-speed" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
                 <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Data&nbsp;</a></h4>
+                    <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Consulting Services&nbsp;</a></h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing. 
+                    Our expert consultants to visit organizations and deeply understand the Strategic problems and improvement opportunities and tactfully guide, coach and mentor business leaders on managing Enterprise Excellence transformation effectively 
                     </p>
                   <span class="vspacer"></span>
                   <p class="py-3 mbr-fonts-style">
@@ -113,13 +116,14 @@
             </div>
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
+            <h3 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Amplify You</a></h4>
                 <div class="card-img pb-3">
                     <span class="mbr-iconfont mbri-gift" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
                 <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Solutions</a></h4>
+                    <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Solutions LAB</a></h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing. 
+                    Dedicated set of engineers and scientists who are working on cutting edge technologies and develop integrated solutions considering Lean, Automation and Digitization initiatives to create quantum leaps in the Enterprise Excellence practices. 
                     </p>
                   <span class="vspacer"></span>
                   <p class="py-3 mbr-fonts-style">
@@ -131,7 +135,7 @@
     </div>
 </section>
 
-<section class="mbr-section content7 cid-ruNvXuN71m" id="content7-2">
+<!-- <section class="mbr-section content7 cid-ruNvXuN71m" id="content7-2">
     <div class="container">
         <div class="media-container-row">
             <div class="col-12 col-md-12">
@@ -152,7 +156,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="features11 cid-ruXpPiazmW" id="features11-19">
     <div class="container">   
@@ -163,43 +167,61 @@
                 </div>
                 <div class=" align-left aside-content">
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
-                        Why Choose Us</h2>
+                        Why Us?</h2>
                     <div class="mbr-section-text">
                         
                     </div>
 
                     <div class="block-content">
-                        <div class="card p-3 pr-3">
+                        <div class="card p-2 pr-2">
                             <div class="media">
                                 <div class=" align-self-center card-img pb-3">
                                     <span class="mbr-iconfont mbri-like"></span>
                                 </div>     
                                 <div class="media-body">
-                                    <h4 class="card-title mbr-fonts-style display-7">Lorem ipsum dolor sit amet</h4>
+                                    <h4 class="card-title mbr-fonts-style display-7">Academically & Professionally Qualified</h4>
                                 </div>
                             </div>                
-
                             <div class="card-box">
                                 <p class="block-text mbr-fonts-style display-7">
-                                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer vitae justo. Dignissim enim sit amet.</p>
+                                We are set of academically and professionally qualified business leaders with hands on experience on Enterprise transformation in various countries and industries
                             </div>
                         </div>
 
-                        <div class="card p-3 pr-3">
+                        <div class="card p-2 pr-2">
                             <div class="media">
                                 <div class="align-self-center card-img pb-3">
                                     <span class="mbr-iconfont mbri-apple"></span>
                                 </div>     
                                 <div class="media-body">
-                                    <h4 class="card-title mbr-fonts-style display-7">Lorem ipsum dolor sit amet</h4>
+                                    <h4 class="card-title mbr-fonts-style display-7">International Exposure</h4>
                                 </div>
                             </div>                
 
                             <div class="card-box">
                                 <p class="block-text mbr-fonts-style display-7">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer vitae justo.&nbsp;</p>
+                                We have been exposed to latest and original enterprise excellence tools and methodologies from Japan, USA and Singapore 
                             </div>
                         </div>
+
+
+                        <div class="card p-2 pr-2">
+                            <div class="media">
+                                <div class="align-self-center card-img pb-3">
+                                    <span class="mbr-iconfont mbri-apple"></span>
+                                </div>     
+                                <div class="media-body">
+                                    <h4 class="card-title mbr-fonts-style display-7">Tested & Proven Methodologis</h4>
+                                </div>
+                            </div>                
+
+                            <div class="card-box">
+                                <p class="block-text mbr-fonts-style display-7">
+                                And we have tested & proven home grown expertise and access to original worldwide enterprise excellence knowledge sources to guide you in the journey of business transformation. 
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
@@ -208,8 +230,7 @@
 </section>
 
 <section class="progress-bars2 cid-ruXscj5IY2" id="progress-bars2-1b">
-    
-    <div class="container">
+    <!-- <div class="container">
         <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
             Our Expertise</h2>
 
@@ -272,7 +293,200 @@
                 </div>
             </div>
         </div>
+    </div> -->
+
+    <style>
+     #research-section p{
+        word-wrap: break-word;
+     }
+
+     #research-section .left-part{
+        padding:0px;
+        width:100%;
+        height:400px;
+        background-image: url("assets/images/mbr-3-1460x973.jpg");
+        background-size: auto 100%;
+      }
+      
+     #research-section .right-part{
+        width:100%;
+        height:400px;
+      }
+      
+      #research-section .right-part .row{
+        width:100%;
+        height:25%;
+        margin:auto;
+        border-style: dashed;
+        border-width: 0px 0px 0px 2px;
+        border-color:#e6e6e6;
+        padding:5px;
+        padding-left:15px;
+        overflow:scroll;
+      }
+
+      #research-section .right-part .row::-webkit-scrollbar-thumb {
+        background: #ebebeb !important; 
+        border-radius: 20px !important; 
+        }
+
+        #research-section .right-part .row::-webkit-scrollbar {
+        width: 5px;
+        }
+
+      #research-section .right-part p{
+        font-size:12px;
+        margin-bottom:0px;
+      }
+
+      #research-section .right-part h5{
+        margin-top:5px;
+        font-size:15px;
+        line-height: 13pt;
+      }
+      #research-section .left-part div:nth-child(1){
+        width:100%;
+        padding: 20px;
+        z-index:9999 !important;
+        background-image: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,1), rgba(255,255,255,1));
+        background-size:auto 300px ;
+        background-repeat: no-repeat;
+        background-position: bottom;
+        margin:auto;
+      }
+
+      #research-section .left-part div h4{
+          margin-top:40%;
+      }
+
+      /* #research-section .left-part div:nth-child(2){
+
+        /* overflow:hidden; */
+     
+    #title-text{
+        text-align:center !important;
+        width: 100%;
+        margin-bottom:20px;
+        border-style: solid;
+        border-width: 0px 0px 4px 0px;
+        margin:10px;
+        padding:10px;
+        border-color:#1a91ae;
+        color:#0f5384;
+    }
+    #research-section img{
+       /* height:"auto" */
+
+    }
+    #date-section{
+
+        font-size:10px;
+        color:#01516b;
+    }
+
+    .image1{
+        background-image: url("assets/images/mbr-3-1460x973.jpg");
+        background-size:  100% auto;
+        background-repeat:no-repeat;
+
+    }
+    .image2{
+        background-image: url("assets/images/mbr-1620x1080.jpg");
+        background-size:  100% auto;
+        background-repeat:no-repeat;
+    }
+
+    .image3{
+        background-image: url("assets/images/mbr-3-1460x973.jpg");
+        background-size: auto 100%;
+        background-repeat:no-repeat;
+    }
+
+    .image4{
+        background-image: url("assets/images/mbr-1620x1080.jpg");
+        background-size: auto 100%;
+        background-repeat:no-repeat;
+    }
+
+
+    </style>
+    <div class="container">
+         <div class="row" > 
+             <h2 id="title-text">
+                INSIGHTS & RESEARCH
+            </h2>
+        </div>
+        <br>
+        <div class="row" id="research-section">
+
+            <div class="left-part col-md-6">
+                    <div> 
+                        <h4>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            <br>
+                            <span id="date-section">
+                                July 17, 2019  Change & Crisis Leadership, Creativity & Innovation
+                            </span>
+                        </h4>
+
+                        <p>
+                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer vitae justo.                      
+                        </p>
+                    </div>
+            </div>
+
+            <div class="right-part col-md-6">
+                <div  class="row" >
+                    <div class="col-md-3 col-sm-3 col-lg-3 image1">
+
+                    </div>
+                    <div class="col-md-9 col-sm-9 col-lg-9" style="background-color: #f5f2f2;">
+                        <h5> Lorem ipsum dolor sit amet, consectetur adipiscing elit, scing elit, sed do eiusmod tempor incididunt ut labore </h5>
+                        <p>
+                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        </p>  
+                    </div>  
+                </div >
+
+                <div class="row">
+                    <div class="col-md-3 col-sm-3 col-lg-3 image2">
+
+                    </div>
+                    <div class="col-md-9 col-sm-9 col-lg-9" >
+                    <h5> Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h5>
+                    <p>
+                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        </p>  
+                    </div> 
+                </div>
+
+                <div class="row" >
+                    <div class="col-md-3 col-sm-3 col-lg-3 image3">
+
+                    </div>
+                    <div class="col-md-9 col-sm-9 col-lg-9" style="background-color: #f5f2f2;">
+                    <h5> Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h5>
+                    <p>
+                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        </p>  
+                    </div> 
+                </div>
+
+                <div class="row" >
+                    <div class="col-md-3 col-sm-3 col-lg-3 image4" >
+
+                    </div>
+                    <div class="col-md-9 col-sm-9 col-lg-9" >
+                    <h5> Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h5>
+                    <p>
+                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        </p>  
+                    </div> 
+                </div>
+            </div>
+        </div>
     </div>
+
 </section>
 
 
