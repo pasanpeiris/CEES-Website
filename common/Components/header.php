@@ -3,8 +3,6 @@
 //include 'php/services.inc.php';
 //include 'php/viewservices.inc.php';
 ?>
-
-
 	<link rel="stylesheet" href="https://technext.github.io/callie/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="assets/navbar/navcss.css" />
 	<!-- HEADER -->
@@ -30,13 +28,13 @@
 
             <!-- Main Nav -->
             <div id="logo" style="display:none;">
-                <img src="cees2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:10%;">
+                <img src="assets/images/wef2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:10%;">
              </div>
 
 			<div id="nav-bottom">
                 <div class = "row" >
                     <div class="col-md-2" style="margin:auto" id="logo-desktop">
-                        <img src="cees2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:30%;">
+                        <img src="assets/images/wef2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:30%;">
                     </div>
                 
                     <div class="col-md-10"  style="padding-top:7px;padding-bottom:7px;padding-right:5%;" >
@@ -46,7 +44,7 @@
                                     <a href="index.php">Home</a>
                                 </li>
                                 <li class="has-dropdown megamenu" >
-                                    <a href="#">Technology Solutions</a>
+                                    <a href="#">CEES Academy</a>
                                     <div class="dropdown">
                                         <div class="dropdown-body">
                                             <div class="row">
@@ -106,7 +104,7 @@
                                     </div>
                                 </li>
                                 <li class="has-dropdown megamenu">
-                                    <a href="#">CEES Academy</a>
+                                    <a href="#">Consulting Services</a>
                                     <div class="dropdown">
                                         <div class="dropdown-body">
                                             <div class="row">
@@ -150,7 +148,7 @@
                                     </div>
                                 </li>
                                 <li class="has-dropdown megamenu">
-                                    <a href="#">Consultancy</a>
+                                    <a href="#">Solutions Lab</a>
                                     <div class="dropdown">
                                         <div class="dropdown-body">
                                             <div class="row">
