@@ -21,6 +21,7 @@
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   <link rel="stylesheet" href="assets/theme/research-section.css">
   <link rel="stylesheet" href="assets/slider-home/slider.css">
+  <link rel="stylesheet" href="assets/logo slider/style.css">
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
 
@@ -453,6 +454,59 @@
 
 </section>
 
+<div class="container">
+    <div class="row" > 
+        <h2 id="title-text">
+            OUR CLIENTS
+        </h2>
+    </div>
+    <div class="slider">
+    	<div class="slide-track">
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+    		</div>
+    	</div>
+    </div>
+</div>
 
 <section class="mbr-section info2 cid-ruOTHzyksn" id="info2-17">
 
