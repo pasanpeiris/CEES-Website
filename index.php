@@ -80,6 +80,22 @@
         </a>
     </div>
 </section> 
+    
+<section>
+    <!-- <div class="container" id="post-slider">
+        <div class="row">
+            <div class="col-md-7" id="post-slider-image">
+            
+            </div>
+            <div class="col-md-5" id="post-slider-content">
+
+            </div>
+        </div>
+    </div> -->
+
+</section>
+
+
 
 <section class="features1 cid-ruNBDZ0eEF" id="features1-8">
     <h1 style="text-align:center">We Will</h1>
@@ -232,6 +248,62 @@
         </div> 
     </div>          
 </section>
+
+<div id="post-slider-container">
+    <div class="glide" id="Glide" >
+                    <div class="glide__wrapper">
+                        <h4 id="program-title">Program Schedule</h4>
+                        <ul class="glide__track">
+                            <li class="glide__slide">
+                                <div class="container" id="post-slider">
+                                <div class="row">
+                                    <div class="col-md-7" id="post-slider-image">
+                                    
+                                    </div>
+                                    <div class="col-md-5" id="post-slider-content">
+                                        <h4>Lorem ipsum dolor Course name</h4>
+                                        <p>Date:</p>
+                                        <p>Time:</p>
+                                        <p>Venue:</p>
+                                    </div>
+                                </div>
+                             </div>
+                            </li>
+                            <li class="glide__slide">
+                            <div class="container" id="post-slider">
+                                <div class="row">
+                                    <div class="col-md-7" id="post-slider-image">
+                                    
+                                    </div>
+                                    <div class="col-md-5" id="post-slider-content">
+                                    <h4>Lorem ipsum dolor Course name</h4>
+                                        <p>Date:</p>
+                                        <p>Time:</p>
+                                        <p>Venue:</p>
+                                    </div>
+                                </div>
+                             </div>
+                            </li>
+                            <li class="glide__slide">
+                            <div class="container" id="post-slider">
+                                <div class="row">
+                                    <div class="col-md-7" id="post-slider-image">
+                                    
+                                    </div>
+                                    <div class="col-md-5" id="post-slider-content">
+                                    <h4>Lorem ipsum dolor Course name</h4>
+                                        <p>Date:</p>
+                                        <p>Time:</p>
+                                        <p>Venue:</p>
+                                    </div>
+                                </div>
+                             </div>
+                        </li>
+                        </ul>
+                    </div>
+                <ul class="glide__bullets"></ul>
+         </div>
+</div>
 
 <section class="progress-bars2 cid-ruXscj5IY2" id="progress-bars2-1b">
     <!-- <div class="container">
@@ -405,8 +477,9 @@
         
 </section>
 
+<div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
 
-  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+<script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
@@ -416,6 +489,11 @@
   <script src="assets/parallax/jarallax.min.js"></script>
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/theme/js/script.js"></script>
+  
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jedrzejchalubek/glidejs/8eabfbb9/dist/css/glide.core.min.css" >
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jedrzejchalubek/glidejs/8eabfbb9/dist/css/glide.theme.min.css" >
+  
+  <script src="https://cdn.rawgit.com/jedrzejchalubek/glidejs/8eabfbb9/dist/glide.min.js"></script>
 
   <script>
     document.onready =  function(){
@@ -433,7 +511,33 @@
         }
     </script>
   
- <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
   
+  <script>
+            window.addEventListener('load', function(){
+            function coverflow(i, el) {
+                el.removeClass('pre following')
+                    .nextAll()
+                        .removeClass('pre following')
+                        .addClass('following')
+                    .end()
+                    .prevAll()
+                        .removeClass('pre following')
+                        .addClass('pre');
+            }
+                $('#Glide').glide({
+                        type: 'slider',
+                        startAt: 2,
+                        animationDuration: 500,
+                        paddings: '15%',
+                        afterInit: function (event) {
+                            coverflow(event.index, event.current);
+                        },
+                        afterTransition: function (event) {
+                            coverflow(event.index, event.current);
+                        }
+                    });
+                });
+      </script>
+
 </body>
 </html>
