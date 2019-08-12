@@ -19,15 +19,20 @@
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
+  <link rel="stylesheet" href="assets/theme/research-section.css">
+  <link rel="stylesheet" href="assets/slider-home/slider.css">
+  <link rel="stylesheet" href="assets/logo slider/style.css">
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+
+
 </head>
 <body>
+<div id="preloader">
+  <div id="status">&nbsp;</div>
+</div>
   <section class="menu cid-ruNsw1yRec"  once="menu" id="menu1-0" style="width:100%; position:fixed; z-index:9999;">
-
         <?php require_once ('common/Components/header.php'); ?>
-
-
   </section>
 
 <section id="header2-1">
@@ -42,22 +47,22 @@
             <div class="carousel-item active" >
             <div class="parallax cid-ruNtyUeTOv1 mbr-fullscreen d-block w-100" src="assets/images/mbr-1920x1198.jpg" alt="First slide"></div>
             <div class="carousel-caption">
-                <h5>Heading 1</h5>
-                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+                <h5>Get enlightened</h5>
+                <p>Feel the Original taste of enterprise excellence tools and techniques</p>
             </div>
             </div>
             <div class="carousel-item">
             <div class="parallax cid-ruNtyUeTOv2 mbr-fullscreen d-block w-100"  alt="Second slide"></div>
             <div class="carousel-caption ">
-                <h5>Heading 1</h5>
-                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+                <h5>Transform to be strong</h5>
+                <p>Transformation will be painful. But it’ll be the best work you’ll ever do </p>
             </div>
             </div>
             <div class="carousel-item">
             <div class="parallax cid-ruNtyUeTOv3 mbr-fullscreen d-block w-100" alt="Third slide"></div>
             <div class="carousel-caption">
-                <h5>Heading 1</h5>
-                <p>Adipiscing tristique risus nec feugiat in fermentum posuere urn</p>
+             <h5>Amplify the future</h5>
+             <p>Be equipped for technology tsunami. Yes you can surf on it </p>
             </div>
             </div>
         </div>
@@ -79,18 +84,36 @@
         </a>
     </div>
 </section> 
+    
+<section>
+    <!-- <div class="container" id="post-slider">
+        <div class="row">
+            <div class="col-md-7" id="post-slider-image">
+            
+            </div>
+            <div class="col-md-5" id="post-slider-content">
+
+            </div>
+        </div>
+    </div> -->
+
+</section>
+
+
 
 <section class="features1 cid-ruNBDZ0eEF" id="features1-8">
+    <h1 style="text-align:center">We Will</h1>
     <div class="container">
         <div class="media-container-row">
             <div class="card p-3 col-12 col-md-6 col-lg-4">
+               <h3>Enlighten You</h3>
                 <div class="card-img pb-3">
                     <span class="mbr-iconfont mbri-sale" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
+                <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">CEES Academy</a></h4>
                 <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Advertising</a></h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing. 
+                    CEES Academy is dedicated for training and development on Enterprise Excellence tools including Lean, Six Sigma and Industry 4.0 to enlighten business executives to successfully transform themselves, respective teams and organizations  
                     </p>
                   <span class="vspacer"></span>
                   <p class="py-3 mbr-fonts-style">
@@ -100,13 +123,14 @@
             </div>
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
+            <h3>Transform You</h3>
                 <div class="card-img pb-3">
                     <span class="mbr-iconfont mbri-speed" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
                 <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Data&nbsp;</a></h4>
+                    <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Consulting Services&nbsp;</a></h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing. 
+                    Our expert consultants to visit organizations and deeply understand the Strategic problems and improvement opportunities and tactfully guide, coach and mentor business leaders on managing Enterprise Excellence transformation effectively 
                     </p>
                   <span class="vspacer"></span>
                   <p class="py-3 mbr-fonts-style">
@@ -116,13 +140,14 @@
             </div>
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
+            <h3>Amplify You</h3>
                 <div class="card-img pb-3">
                     <span class="mbr-iconfont mbri-gift" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
                 <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Solutions</a></h4>
+                    <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Solutions LAB</a></h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                        Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Lorem ipsum dolor sit amet consectetur adipiscing. 
+                    Dedicated set of engineers and scientists who are working on cutting edge technologies and develop integrated solutions considering Lean, Automation and Digitization initiatives to create quantum leaps in the Enterprise Excellence practices. 
                     </p>
                   <span class="vspacer"></span>
                   <p class="py-3 mbr-fonts-style">
@@ -134,7 +159,7 @@
     </div>
 </section>
 
-<section class="mbr-section content7 cid-ruNvXuN71m" id="content7-2">
+<!-- <section class="mbr-section content7 cid-ruNvXuN71m" id="content7-2">
     <div class="container">
         <div class="media-container-row">
             <div class="col-12 col-md-12">
@@ -155,7 +180,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <section class="features11 cid-ruXpPiazmW" id="features11-19">
     <div class="container">   
@@ -166,43 +191,61 @@
                 </div>
                 <div class=" align-left aside-content">
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
-                        Why Choose Us</h2>
+                        Why Us?</h2>
                     <div class="mbr-section-text">
                         
                     </div>
 
                     <div class="block-content">
-                        <div class="card p-3 pr-3">
+                        <div class="card p-2 pr-2">
                             <div class="media">
                                 <div class=" align-self-center card-img pb-3">
                                     <span class="mbr-iconfont mbri-like"></span>
                                 </div>     
                                 <div class="media-body">
-                                    <h4 class="card-title mbr-fonts-style display-7">Lorem ipsum dolor sit amet</h4>
+                                    <h4 class="card-title mbr-fonts-style display-7">Academically & Professionally Qualified</h4>
                                 </div>
                             </div>                
-
                             <div class="card-box">
                                 <p class="block-text mbr-fonts-style display-7">
-                                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer vitae justo. Dignissim enim sit amet.</p>
+                                We are set of academically and professionally qualified business leaders with hands on experience on Enterprise transformation in various countries and industries
                             </div>
                         </div>
 
-                        <div class="card p-3 pr-3">
+                        <div class="card p-2 pr-2">
                             <div class="media">
                                 <div class="align-self-center card-img pb-3">
                                     <span class="mbr-iconfont mbri-apple"></span>
                                 </div>     
                                 <div class="media-body">
-                                    <h4 class="card-title mbr-fonts-style display-7">Lorem ipsum dolor sit amet</h4>
+                                    <h4 class="card-title mbr-fonts-style display-7">International Exposure</h4>
                                 </div>
                             </div>                
 
                             <div class="card-box">
                                 <p class="block-text mbr-fonts-style display-7">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer vitae justo.&nbsp;</p>
+                                We have been exposed to latest and original enterprise excellence tools and methodologies from Japan, USA and Singapore 
                             </div>
                         </div>
+
+
+                        <div class="card p-2 pr-2">
+                            <div class="media">
+                                <div class="align-self-center card-img pb-3">
+                                    <span class="mbr-iconfont mbri-apple"></span>
+                                </div>     
+                                <div class="media-body">
+                                    <h4 class="card-title mbr-fonts-style display-7">Tested & Proven Methodologis</h4>
+                                </div>
+                            </div>                
+
+                            <div class="card-box">
+                                <p class="block-text mbr-fonts-style display-7">
+                                And we have tested & proven home grown expertise and access to original worldwide enterprise excellence knowledge sources to guide you in the journey of business transformation. 
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
@@ -210,9 +253,64 @@
     </div>          
 </section>
 
+<div id="post-slider-container">
+    <div class="glide" id="Glide" >
+                    <div class="glide__wrapper">
+                        <h4 id="program-title">Program Schedule</h4>
+                        <ul class="glide__track">
+                            <li class="glide__slide">
+                                <div class="container" id="post-slider">
+                                <div class="row">
+                                    <div class="col-md-7" id="post-slider-image">
+                                    
+                                    </div>
+                                    <div class="col-md-5" id="post-slider-content">
+                                        <h4>Lorem ipsum dolor Course name</h4>
+                                        <p>Date:</p>
+                                        <p>Time:</p>
+                                        <p>Venue:</p>
+                                    </div>
+                                </div>
+                             </div>
+                            </li>
+                            <li class="glide__slide">
+                            <div class="container" id="post-slider">
+                                <div class="row">
+                                    <div class="col-md-7" id="post-slider-image">
+                                    
+                                    </div>
+                                    <div class="col-md-5" id="post-slider-content">
+                                    <h4>Lorem ipsum dolor Course name</h4>
+                                        <p>Date:</p>
+                                        <p>Time:</p>
+                                        <p>Venue:</p>
+                                    </div>
+                                </div>
+                             </div>
+                            </li>
+                            <li class="glide__slide">
+                            <div class="container" id="post-slider">
+                                <div class="row">
+                                    <div class="col-md-7" id="post-slider-image">
+                                    
+                                    </div>
+                                    <div class="col-md-5" id="post-slider-content">
+                                    <h4>Lorem ipsum dolor Course name</h4>
+                                        <p>Date:</p>
+                                        <p>Time:</p>
+                                        <p>Venue:</p>
+                                    </div>
+                                </div>
+                             </div>
+                        </li>
+                        </ul>
+                    </div>
+                <ul class="glide__bullets"></ul>
+         </div>
+</div>
+
 <section class="progress-bars2 cid-ruXscj5IY2" id="progress-bars2-1b">
-    
-    <div class="container">
+    <!-- <div class="container">
         <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
             Our Expertise</h2>
 
@@ -275,9 +373,140 @@
                 </div>
             </div>
         </div>
+    </div> -->
+
+    <div class="container">
+         <div class="row" > 
+             <h2 id="title-text">
+                INSIGHTS & RESEARCH
+            </h2>
+        </div>
+        <br>
+        <div class="row" id="research-section">
+
+            <div class="left-part col-md-6">
+                    <div> 
+                        <h4>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                            <br>
+                            <span id="date-section">
+                                July 17, 2019  Change & Crisis Leadership, Creativity & Innovation
+                            </span>
+                        </h4>
+
+                        <p>
+                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed velit dignissim sodales ut eu sem integer vitae justo.                      
+                        </p>
+                    </div>
+            </div>
+
+            <div class="right-part col-md-6">
+                <div  class="row" >
+                    <div class="col-md-3 col-sm-3 col-lg-3 image1">
+
+                    </div>
+                    <div class="col-md-9 col-sm-9 col-lg-9" style="background-color: #f5f2f2;">
+                        <h5> Lorem ipsum dolor sit amet, consectetur adipiscing elit, scing elit, sed do eiusmod tempor incididunt ut labore </h5>
+                        <p>
+                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        </p>  
+                    </div>  
+                </div >
+
+                <div class="row">
+                    <div class="col-md-3 col-sm-3 col-lg-3 image2">
+
+                    </div>
+                    <div class="col-md-9 col-sm-9 col-lg-9" >
+                    <h5> Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h5>
+                    <p>
+                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        </p>  
+                    </div> 
+                </div>
+
+                <div class="row" >
+                    <div class="col-md-3 col-sm-3 col-lg-3 image3">
+
+                    </div>
+                    <div class="col-md-9 col-sm-9 col-lg-9" style="background-color: #f5f2f2;">
+                    <h5> Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h5>
+                    <p>
+                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        </p>  
+                    </div> 
+                </div>
+
+                <div class="row" >
+                    <div class="col-md-3 col-sm-3 col-lg-3 image4" >
+
+                    </div>
+                    <div class="col-md-9 col-sm-9 col-lg-9" >
+                    <h5> Lorem ipsum dolor sit amet, consectetur adipiscing elit, </h5>
+                    <p>
+                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        </p>  
+                    </div> 
+                </div>
+            </div>
+        </div>
     </div>
+
 </section>
 
+<div class="container">
+    <div class="row" > 
+        <h2 id="title-text">
+            OUR CLIENTS
+        </h2>
+    </div>
+    <div class="slider">
+    	<div class="slide-track">
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+    		</div>
+    	</div>
+    </div>
+</div>
 
 <section class="mbr-section info2 cid-ruOTHzyksn" id="info2-17">
 
@@ -305,8 +534,9 @@
         
 </section>
 
+<div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
 
-  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+<script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
@@ -316,16 +546,99 @@
   <script src="assets/parallax/jarallax.min.js"></script>
   <script src="assets/smoothscroll/smooth-scroll.js"></script>
   <script src="assets/theme/js/script.js"></script>
+  
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jedrzejchalubek/glidejs/8eabfbb9/dist/css/glide.core.min.css" >
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jedrzejchalubek/glidejs/8eabfbb9/dist/css/glide.theme.min.css" >
+  
+  <script src="https://cdn.rawgit.com/jedrzejchalubek/glidejs/8eabfbb9/dist/glide.min.js"></script>
 
   <script>
     document.onready =  function(){
         $('.carousel').carousel({
-        interval: 3000
-        })
+            interval: 5000
+        });
     }
   </script>
+
+    <script>
+        document.onready =  function(){
+            $('#nav-icon1').click(function(){
+                $(this).toggleClass('open');
+            });
+        }
+    </script>
   
- <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
   
+  <script>
+            $(window).on('load', function() { // makes sure the whole site is loaded 
+            $('#status').fadeOut(); // will first fade out the loading animation 
+            $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website. 
+            $('body').delay(350).css({'overflow':'visible'});
+            })
+            
+            window.addEventListener('load', function(){
+            function coverflow(i, el) {
+                el.removeClass('pre following')
+                    .nextAll()
+                        .removeClass('pre following')
+                        .addClass('following')
+                    .end()
+                    .prevAll()
+                        .removeClass('pre following')
+                        .addClass('pre');
+            }
+                $('#Glide').glide({
+                        type: 'slider',
+                        startAt: 2,
+                        animationDuration: 500,
+                        paddings: '15%',
+                        afterInit: function (event) {
+                            coverflow(event.index, event.current);
+                        },
+                        afterTransition: function (event) {
+                            coverflow(event.index, event.current);
+                        }
+                    });
+                });
+      </script>
+
 </body>
 </html>
+
+
+<style>
+body {
+  overflow: hidden;
+}
+
+
+/* Preloader */
+
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #fff;
+  /* change if the mask should have another color then white */
+  z-index: 99;
+  /* makes sure it stays on top */
+}
+
+#status {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 50%;
+  /* centers the loading animation horizontally one the screen */
+  top: 50%;
+  /* centers the loading animation vertically one the screen */
+  background-image: url(assets/cees.gif);
+  /* path to your loading animation */
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: -100px 0 0 -100px;
+  /* is width and height divided by two */
+}
+</style>

@@ -3,12 +3,8 @@
 //include 'php/services.inc.php';
 //include 'php/viewservices.inc.php';
 ?>
-
-
 	<link rel="stylesheet" href="https://technext.github.io/callie/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="assets/navbar/navcss.css" />
-    
-
 	<!-- HEADER -->
 	<header id="header" style="background-color:white">
 		<!-- NAV -->
@@ -16,10 +12,15 @@
 			<!-- Top Nav -->
 			<div id="nav-top">
 				<div class="container">
-					<!-- search & aside toggle -->
-                    <div class="nav-btns" >
-						<button class="aside-btn" style="color:#0e5082" id="ham_icon"><i class="fa fa-bars"></i></button>
-					</div>
+					<!-- search & aside toggle --> 
+                    <div  class="nav-btns" >
+                        <div class="aside-btn" id="nav-icon1" >
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+
 					<!-- /search & aside toggle -->
 				</div>
 			</div>
@@ -27,13 +28,13 @@
 
             <!-- Main Nav -->
             <div id="logo" style="display:none;">
-                <img src="cees2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:10%;">
+                <img src="assets/images/wef2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:10%;">
              </div>
 
 			<div id="nav-bottom">
                 <div class = "row" >
                     <div class="col-md-2" style="margin:auto" id="logo-desktop">
-                        <img src="cees2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:30%;">
+                        <img src="assets/images/wef2.png" alt="cees-logo" style="width:auto;height:50px;margin-left:30%;">
                     </div>
                 
                     <div class="col-md-10"  style="padding-top:7px;padding-bottom:7px;padding-right:5%;" >
@@ -43,7 +44,7 @@
                                     <a href="index.php">Home</a>
                                 </li>
                                 <li class="has-dropdown megamenu" >
-                                    <a href="#">Technology Solutions</a>
+                                    <a href="#">CEES Academy</a>
                                     <div class="dropdown">
                                         <div class="dropdown-body">
                                             <div class="row">
@@ -103,7 +104,7 @@
                                     </div>
                                 </li>
                                 <li class="has-dropdown megamenu">
-                                    <a href="#">CEES Academy</a>
+                                    <a href="#">Consulting Services</a>
                                     <div class="dropdown">
                                         <div class="dropdown-body">
                                             <div class="row">
@@ -147,7 +148,7 @@
                                     </div>
                                 </li>
                                 <li class="has-dropdown megamenu">
-                                    <a href="#">Consultancy</a>
+                                    <a href="#">Solutions Lab</a>
                                     <div class="dropdown">
                                         <div class="dropdown-body">
                                             <div class="row">
@@ -225,11 +226,11 @@
                             <li><a href="#">Main 2</a></li>
                             <li><a href="#">Main 3</a></li>
                             <li><a href="#">Main 5</a></li>
+                        </ul>
 					</li>
                     <li><a href="about.php">About CEES</a></li>
 					<li><a href="contact.php">Contact Us</a></li>
-				</ul>
-				<button class="nav-close nav-aside-close"><span></span></button>
+				<!-- <button class="nav-close nav-aside-close"><span></span></button> -->
 			</div>
 			<!-- /Aside Nav -->
 		</div>
@@ -241,4 +242,5 @@
     <!-- <script src="js/bootstrap.min.js"></script> -->
 	<script src="assets/navbar/jquery.stellar.min.js"></script>
     <script src="assets/navbar/main.js"></script>
+
     
