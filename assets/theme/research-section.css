@@ -49,12 +49,15 @@ width: 5px;
 #research-section .right-part p{
 font-size:12px;
 margin-bottom:0px;
+color:rgb(93, 93, 93);
 }
 
 #research-section .right-part h5{
 margin-top:5px;
-font-size:15px;
+font-size:16px;
 line-height: 13pt;
+font-family: 'Open Sans', sans-serif !important;
+font-weight:500;
 }
 
 
@@ -70,6 +73,8 @@ background-position: bottom;
 
 #research-section .left-part div h4{
 margin-top:40%;
+font-size: 26px !important;
+font-family: 'Open Sans', sans-serif !important;
 }
 
 #research-section .left-part{
@@ -122,3 +127,55 @@ background-image: url("../images/mbr-1620x1080.jpg");
 background-size: auto 100%;
 background-repeat:no-repeat;
 }
+
+
+.pr-2 p{
+ border-style: solid;
+ border-width: 0px 0px 0px 2px;
+ border-color:#1a91ae;
+ padding-left:10px;
+
+}
+
+.why-us-image{
+    position: absolute;
+    top:50px;
+    width:  100%;
+    height: 100%;
+    background-image: url("../images/person-mountain-top_1160-904.jpg") ;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.aside-content{
+    z-index: 3 !important;
+    width:50% !important;
+   
+}
+
+.block-content{
+    background-image: linear-gradient(to left,rgba(255,255,255,0), rgb(255, 255, 255), rgb(255, 255, 255));
+    background-size:auto 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    width:100%;
+}
+
+.block-content p{
+    padding-right: 50%;
+}
+
+@media only screen and (max-width: 991px) {
+    .block-content p{
+        padding-right: 0% !important;
+    }
+    .aside-content{
+        z-index: 3 !important;
+        width:100% !important;
+       
+    }
+
+    .why-us-image{
+        background-image: url("") ;
+    }
+} 

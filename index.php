@@ -99,10 +99,8 @@
 
 </section>
 
-
-
 <section class="features1 cid-ruNBDZ0eEF" id="features1-8">
-    <h1 style="text-align:center">We Will</h1>
+    <h1  class="mbr-title pt-2 mbr-fonts-style display-2"  style="text-align:center">We Will</h1>
     <div class="container">
         <div class="media-container-row">
             <div class="card p-3 col-12 col-md-6 col-lg-4">
@@ -186,24 +184,17 @@
     <div class="container">   
         <div class="col-md-12">
             <div class="media-container-row">
-                <div class="mbr-figure m-auto" style="width: 40%;">
-                    <img src="assets/images/development-icon-3335977-1920-736x559.jpg" alt="" title="">
-                </div>
                 <div class=" align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2" style="margin-bottom:50px;">
                         Why Us?</h2>
-                    <div class="mbr-section-text">
-                        
-                    </div>
-
                     <div class="block-content">
                         <div class="card p-2 pr-2">
                             <div class="media">
-                                <div class=" align-self-center card-img pb-3">
+                                <!-- <div class=" align-self-center card-img pb-3">
                                     <span class="mbr-iconfont mbri-like"></span>
-                                </div>     
+                                </div>      -->
                                 <div class="media-body">
-                                    <h4 class="card-title mbr-fonts-style display-7">Academically & Professionally Qualified</h4>
+                                    <h4 class="card-title mbr-fonts-style display-7"  style="font-size:30px;font-wight:100">Academically & Professionally Qualified</h4>
                                 </div>
                             </div>                
                             <div class="card-box">
@@ -214,11 +205,11 @@
 
                         <div class="card p-2 pr-2">
                             <div class="media">
-                                <div class="align-self-center card-img pb-3">
+                                <!-- <div class="align-self-center card-img pb-3">
                                     <span class="mbr-iconfont mbri-apple"></span>
-                                </div>     
+                                </div>      -->
                                 <div class="media-body">
-                                    <h4 class="card-title mbr-fonts-style display-7">International Exposure</h4>
+                                    <h4 class="card-title mbr-fonts-style display-7" style="font-size:30px;font-wight:100">International Exposure</h4>
                                 </div>
                             </div>                
 
@@ -229,13 +220,13 @@
                         </div>
 
 
-                        <div class="card p-2 pr-2">
+                        <div class="card p-2 pr-2" >
                             <div class="media">
-                                <div class="align-self-center card-img pb-3">
+                                <!-- <div class="align-self-center card-img pb-3">
                                     <span class="mbr-iconfont mbri-apple"></span>
-                                </div>     
+                                </div>      -->
                                 <div class="media-body">
-                                    <h4 class="card-title mbr-fonts-style display-7">Tested & Proven Methodologis</h4>
+                                    <h4 class="card-title mbr-fonts-style display-7" style="font-size:30px;font-wight:100">Tested & Proven Methodologis</h4>
                                 </div>
                             </div>                
 
@@ -244,9 +235,9 @@
                                 And we have tested & proven home grown expertise and access to original worldwide enterprise excellence knowledge sources to guide you in the journey of business transformation. 
                             </div>
                         </div>
-
-
                     </div>
+                </div>
+                <div class="why-us-image">
                 </div>
             </div>
         </div> 
@@ -256,7 +247,7 @@
 <div id="post-slider-container">
     <div class="glide" id="Glide" >
                     <div class="glide__wrapper">
-                        <h4 id="program-title">Program Schedule</h4>
+                        <h2 id="program-title">PROGRAM SCHEDULE</h2>
                         <ul class="glide__track">
                             <li class="glide__slide">
                                 <div class="container" id="post-slider">
@@ -269,7 +260,8 @@
                                     </div>
 
                                     <div class="col-md-5" id="post-slider-content">
-                                        <h4>Lorem ipsum dolor Course name</h4>
+                                        <h4 class="card-title mbr-fonts-style display-7" >Lorem ipsum dolor Course name</h4>
+                                        
                                         <p>Date:</p>
                                         <p>Time:</p>
                                         <p>Venue:</p>
@@ -287,7 +279,7 @@
                                          </a>                                    </div> 
                                     </div>
                                     <div class="col-md-5" id="post-slider-content">
-                                    <h4>Lorem ipsum dolor Course name</h4>
+                                    <h4  class="card-title mbr-fonts-style display-7">Lorem ipsum dolor Course name</h4>
                                         <p>Date:</p>
                                         <p>Time:</p>
                                         <p>Venue:</p>
@@ -306,8 +298,8 @@
                                         </div> 
                                     </div>
                                     <div class="col-md-5" id="post-slider-content">
-                                    <h4>Lorem ipsum dolor Course name</h4>
-                                        <p>Date:</p>
+                                    <h4  class="card-title mbr-fonts-style display-7">Lorem ipsum dolor Course name</h4>
+                                        <p class="block-text mbr-fonts-style display-7">Date:</p>
                                         <p>Time:</p>
                                         <p>Venue:</p>
                                     </div>
@@ -397,7 +389,7 @@
 
             <div class="left-part col-md-6">
                     <div> 
-                        <h4>
+                        <h4 >
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                             <br>
                             <span id="date-section">
@@ -471,8 +463,8 @@
             OUR CLIENTS
         </h2>
     </div>
-    <div class="slider">
-    	<div class="slide-track">
+    <div id="slider-logo">
+    	<div id="slider-logo-track">
     		<div class="slide">
     			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
     		</div>
