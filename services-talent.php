@@ -9,7 +9,7 @@
   <link rel="shortcut icon" href="assets/images/logo2.png" type="image/x-icon">
   <meta name="description" content="Post page">
   
-  <title>Post</title>
+  <title>Consulting Services</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -29,8 +29,12 @@
         <?php require_once 'common/Components/header.php'; ?>
       </section>
 
-<div class="col-12 col-md-8">
-    <img src="assets\images\service talent.jpg" alt="" title="">
+<div class="carousel-inner">
+    <img style="  height: 100%;background-position: center;background-repeat: no-repeat;background-size: cover;" src="assets\images\service talent.jpg" alt="" title="">
+    <div class="carousel-caption">
+                <h5>Consulting Services</h5>
+                <p>Feel the Original taste of enterprise excellence tools and techniques</p>
+            </div>
 </div>
 
 <section class="header1 cid-ruXI5S6ubv" id="header16-1l">
@@ -120,23 +124,15 @@
     <div class="mask">
       <ul>
         <li class="anim1">
-          <div class="quote">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+          <div class="quote">Enterprise Diagnosis Tool 1.0</div>
           <div class="source"> Lorem Ipsum has been the industry"s standard dummy text ever since..</div>
         </li>
         <li class="anim2">
-          <div class="quote">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+          <div class="quote">Focused Business Improvement</div>
           <div class="source"> Lorem Ipsum has been the industry"s standard dummy text ever since..</div>
         </li>
         <li class="anim3">
-          <div class="quote">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
-          <div class="source"> Lorem Ipsum has been the industry"s standard dummy text ever since..</div>
-        </li>
-        <li class="anim4">
-          <div class="quote">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
-          <div class="source"> Lorem Ipsum has been the industry"s standard dummy text ever since..</div>
-        </li>
-        <li class="anim5">
-          <div class="quote">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+          <div class="quote">Management System Development</div>
           <div class="source"> Lorem Ipsum has been the industry"s standard dummy text ever since..</div>
         </li>
       </ul>
@@ -201,23 +197,21 @@
   </div>
 </section>
 
-<section class="cid-ruXI5U4sXz" id="footer5-1m">
+<section class="cid-ruOTxA2tiD" id="footer5-16">
 <?php require_once ('common/Components/footer.php'); ?>
 </section>
 
+<script src="assets/web/assets/jquery/jquery.min.js"></script>
+<script src="assets/popper/popper.min.js"></script>
+<script src="assets/tether/tether.min.js"></script>
+<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/dropdown/js/nav-dropdown.js"></script>
+<script src="assets/dropdown/js/navbar-dropdown.js"></script>
+<script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+<script src="assets/parallax/jarallax.min.js"></script>
+<script src="assets/smoothscroll/smooth-scroll.js"></script>
+<script src="assets/theme/js/script.js"></script>
 
-  <script src="assets/web/assets/jquery/jquery.min.js"></script>
-  <script src="assets/popper/popper.min.js"></script>
-  <script src="assets/tether/tether.min.js"></script>
-  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-  <script src="assets/dropdown/js/nav-dropdown.js"></script>
-  <script src="assets/dropdown/js/navbar-dropdown.js"></script>
-  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
-  <script src="assets/parallax/jarallax.min.js"></script>
-  <script src="assets/smoothscroll/smooth-scroll.js"></script>
-  <script src="assets/theme/js/script.js"></script>
-  
-  
- <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
-  </body>
+<div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
+</body>
 </html>
