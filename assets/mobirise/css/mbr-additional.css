@@ -2106,12 +2106,12 @@ body {
   margin: 0 0 .5rem 0;
 }
 .cid-ruOTxA2tiD {
-  padding-top: 45px;
+  /* padding-top: 45px; */
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
   .cid-ruOTxA2tiD .media-wrap {
-    margin-bottom: 1rem;
+    /* margin-bottom: 1rem; */
     text-align: center;
   }
 }
@@ -2127,7 +2127,7 @@ body {
 }
 @media (max-width: 767px) {
   .cid-ruOTxA2tiD .footer-lower .copyright {
-    margin-bottom: 1rem;
+    /* margin-bottom: 1rem; */
     text-align: center;
   }
 }
