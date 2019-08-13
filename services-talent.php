@@ -38,85 +38,59 @@
 </div>
 
 <section class="header1 cid-ruXI5S6ubv" id="header16-1l">
-    <div class="container">
-        <div class="row ">
-          <div class="col-12 general-title text-center">
-            <h3>WHY BUY WITH US?</h3>
-            <p>We have the best value for you</p>
-            <hr>
-          </div>
-          <div class="col-lg-3 col-md-3 col-sm-12">
-        <div class="servicebox text-center">
-          <div class="service-icon">
-            <div class="dm-icon-effect-1" data-effect="slide-left">
-              <a href="#" class=""> <i class="dm-icon fa fa-money fa-3x"></i> </a>
-            </div>
-            <div class="servicetitle">
-              <h4>Affordable Price</h4>
-              <hr>
-            </div>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry"s standard dummy text ever since..</p>
-          </div>
-          <!-- service-icon -->
-        </div>
-        <!-- servicebox -->
-      </div>
-      <!-- large-3 -->
-
-      <div class="col-lg-3 col-md-3 col-sm-12">
-        <div class="servicebox text-center">
-          <div class="service-icon">
-            <div class="dm-icon-effect-1" data-effect="slide-bottom">
-              <a href="#" class=""> <i class="dm-icon fa fa-trophy fa-3x"></i> </a>
-            </div>
-            <div class="servicetitle">
-              <h4>Best Quality</h4>
-              <hr>
-            </div>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry"s standard dummy text ever since..</p>
-          </div>
-          <!-- service-icon -->
-        </div>
-        <!-- servicebox -->
-      </div><div class="col-lg-3 col-md-3 col-sm-12">
-        <div class="servicebox text-center">
-          <div class="service-icon">
-            <div class="dm-icon-effect-1" data-effect="slide-bottom">
-              <a href="#" class=""> <i class="dm-icon fa fa-heart-o fa-3x"></i> </a>
-            </div>
-            <div class="servicetitle">
-              <h4>24/7 Support</h4>
-              <hr>
-            </div>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry"s standard dummy text ever since..</p>
-          </div>
-          <!-- service-icon -->
-        </div>
-        <!-- servicebox -->
-      </div>
-      <!-- large-3 -->
-
-      <div class="col-lg-3 col-md-3 col-sm-12">
-        <div class="servicebox text-center">
-          <div class="service-icon">
-            <div class="dm-icon-effect-1" data-effect="slide-right">
-              <a href="#" class=""> <i class="dm-icon fa fa-book fa-3x"></i> </a>
-            </div>
-            <div class="servicetitle">
-              <h4>Lifetime Warranty</h4>
-              <hr>
-            </div>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry"s standard dummy text ever since..</p>
-          </div>
-          <!-- service-icon -->
-        </div>
-        <!-- servicebox -->
-      </div>
-      <!-- large-3 -->
-
-      <div class="divider"></div>
+<!--Griglia alternata testo e immagine, resposive con flexbox.-->
+  <div class="grid-flex">
+    <div class="col col-image">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Imac_alu.png" alt="" class="w-100" />
     </div>
-    <!-- end container -->
+    <div class="col col-text">
+    
+      <div class="Aligner-item">
+      <h3>Enterprise Diagnosis Tool 1.0</h3>
+        <p>Comprehensive tool to diagnosis KPIs system alignment, process stability, people capability, management system and lean cultural aspects of an organization.
+
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="grid-flex">
+    <div class="col col-image">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Imac_alu.png" alt="" class="w-100" />
+    </div>
+    <div class="col col-text col-left">
+      <div class="Aligner-item">
+        <h3>Focused Business Improvement</h3>
+        <p>Focus on biggest problems in the business and rapid implementation of  
+        countermeasures through cross functional team approach</p>
+        <ul style="list-style-type:disc;">
+            <li>Product development support</li>
+            <li>Cost of quality reduction</li>
+            <li>Changeover loss reduction</li>
+            <li>Material Leadtime reduction</li>
+            <li>Machine downtime and spare part cost reduction</li>
+            <li>Work life improvement for support services</li>
+        </ul>  
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-flex">
+    <div class="col col-image">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Imac_alu.png" alt="" class="w-100" />
+    </div>
+    <div class="col col-text">
+      <div class="Aligner-item">
+      <h3>Management System Development</h3>
+        <p>Develop sustainable management systems to align the leadership direction 
+        while cultivating the lean culture across the organization</p>
+        <ul style="list-style-type:disc;">
+          <li>Establish sustainable management systems</li>
+          <li>Lean behavior cultivation</li>
+        </ul>
+      </div>
+    </div>
+  </div>
   </section>
 
   <div class="content-slider col-12">
