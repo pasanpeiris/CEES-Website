@@ -274,10 +274,10 @@ body {
     
     <!-- end container -->
 <h1 style="text-align: center;">What Will the Program Experience Include?</h1>
-    <h2>The program has a 3-phased approach:</h2>
-
+    <h2>The program has 3 phased approach:</h2>
+<hr size="50%">
   <div class="media-container-row">
-    <div class="card p-3 col-12 col-md-6 col-lg-4">
+    <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="widget" data-effect="slide-left">
            <!--  <h3 class="title"><i class="fa fa-laptop"></i> Web Design Service</h3> -->
             <div class="card text-white  mb-3" style="background-image: linear-gradient(-90deg, #00c464 ,#006e63);">
