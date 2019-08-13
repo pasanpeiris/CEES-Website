@@ -39,97 +39,89 @@
     <?php require_once ('common/Components/header.php'); ?>
   </section>
 
-  <section class="features1 cid-ruNBDZ0eEF" style="padding-right: 150px; padding-left: 150px;">
-    <div class="container clearfix">
-    <div class="media-container-row">
-      <!-- <div class="content col-lg-12 col-md-12 col-sm-12 clearfix"> -->
-
-          
-        
-        <div class="col-lg-3 col-md-3 col-sm-3">
-          <div class="servicebox text-center">
-            <div class="service-icon">
-              <div class="dm-icon-effect-1" data-effect="slide-bottom">
-                <a href="#" class=""> <i class="active dm-icon fa fa-eye fa-3x"></i> </a>
-              </div>
-              <div class="servicetitle">
-                <h4>Branding</h4>
-                <hr>
-              </div>
-              <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+  
+<section class="features11 cid-ruNBDZ0eEF">
+    <h1  class="mbr-title pt-2 mbr-fonts-style display-2"  style="text-align:center">We Will</h1>
+    <div class="container">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-img pb-3">
+                <div class="dm-icon-effect-1" data-effect="slide-bottom">
+                   <a href="#" class=""> <i class="active dm-icon fa fa-eye fa-3x"></i> </a>
+                </div>
+                </div>
+                <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Branding</a></h4>
+                <div class="card-box">
+                    <p class="mbr-text mbr-fonts-style display-7">It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                  <span class="vspacer"></span>
+                  <p class="py-3 mbr-fonts-style">
+                    <a href="#">READ MORE » </a>
+                  </p>
+                </div>
             </div>
-            <!-- service-icon -->
-          </div>
-          <!-- servicebox -->
-        </div>
-        <!-- large-3 -->
 
-        <div class="col-lg-3 col-md-3 col-sm-3">
-          <div class="servicebox text-center">
-            <div class="service-icon">
-              <div class="dm-icon-effect-1" data-effect="slide-bottom">
-                <a href="#" class=""> <i class="active dm-icon fa fa-cogs fa-3x"></i> </a>
-              </div>
-              <div class="servicetitle">
-                <h4>Development Services</h4>
-                <hr>
-              </div>
-              <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-img pb-3">
+                <div class="dm-icon-effect-1" data-effect="slide-bottom">
+                   <a href="#" class=""> <i class="active dm-icon fa fa-cogs fa-3x"></i> </a>
+                </div>
+                </div>
+                <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Branding</a></h4>
+                <div class="card-box">
+                    <p class="mbr-text mbr-fonts-style display-7">It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                  <span class="vspacer"></span>
+                  <p class="py-3 mbr-fonts-style">
+                    <a href="#">READ MORE » </a>
+                  </p>
+                </div>
             </div>
-            <!-- service-icon -->
-          </div>
-          <!-- servicebox -->
-        </div>
-        <!-- large-3 -->
 
-        <div class="col-lg-3 col-md-3 col-sm-3">
-          <div class="servicebox text-center">
-            <div class="service-icon">
-              <div class="dm-icon-effect-1" data-effect="slide-bottom">
-                <a href="#" class=""> <i class="active dm-icon fa fa-print fa-3x"></i> </a>
-              </div>
-              <div class="servicetitle">
-                <h4>Print Design</h4>
-                <hr>
-              </div>
-              <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-img pb-3">
+                <div class="dm-icon-effect-1" data-effect="slide-bottom">
+                   <a href="#" class=""> <i class="active dm-icon fa fa-print fa-3x"></i> </a>
+                </div>
+                </div>
+                <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Branding</a></h4>
+                <div class="card-box">
+                    <p class="mbr-text mbr-fonts-style display-7">It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                  <span class="vspacer"></span>
+                  <p class="py-3 mbr-fonts-style">
+                    <a href="#">READ MORE » </a>
+                  </p>
+                </div>
             </div>
-            <!-- service-icon -->
-          </div>
-          <!-- servicebox -->
-        </div>
-        <!-- large-3 -->
 
-        <div class="col-lg-3 col-md-3 col-sm-3">
-          <div class="servicebox text-center">
-            <div class="service-icon">
-              <div class="dm-icon-effect-1" data-effect="slide-bottom">
-                <a href="#" class=""> <i class="active dm-icon fa fa-desktop fa-3x"></i> </a>
-              </div>
-              <div class="servicetitle">
-                <h4>Web Design</h4>
-                <hr>
-              </div>
-              <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-img pb-3">
+                <div class="dm-icon-effect-1" data-effect="slide-bottom">
+                   <a href="#" class=""> <i class="active dm-icon fa fa-desktop fa-3x"></i> </a>
+                </div>
+                </div>
+                <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Branding</a></h4>
+                <div class="card-box">
+                    <p class="mbr-text mbr-fonts-style display-7">It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                  <span class="vspacer"></span>
+                  <p class="py-3 mbr-fonts-style">
+                    <a href="#">READ MORE » </a>
+                  </p>
+                </div>
             </div>
-            <!-- service-icon -->
-          </div>
-          <!-- servicebox -->
-        </div>
-        <!-- large-3 -->
-</div>
+      </div>
+    </div>
+    <hr>
+</section>
 
-
-        <div class="clearfix"></div>
-        <div class="divider"></div>
-
-        <div class="tabbable servicetab tabs-left">
+<section class="features1 cid-ruNBDZ0eEF" id="features1-8">
+<div class="container">
+          <div class="tabbable servicetab tabs-left">
            <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">Specialist Areas</h2>
-          <ul class="nav nav-tabs">
-            <li class="nav-item active"><a href="#webdesign" data-toggle="tab"><i class="fa fa-laptop"></i> Web Design</a></li>
-            <li><a href="#webdevelopment" data-toggle="tab"><i class="fa fa-cogs"></i> Web Development</a></li>
-            <li><a href="#seoservices" data-toggle="tab"><i class="fa fa-print"></i> Print Design</a></li>
-          </ul>
+            <ul class="nav nav-tabs">
+              <li class="nav-item active"><a href="#webdesign" data-toggle="tab"><i class="fa fa-laptop"></i> Web Design</a></li>
+              <li><a href="#webdevelopment" data-toggle="tab"><i class="fa fa-cogs"></i> Web Development</a></li>
+              <li><a href="#seoservices" data-toggle="tab"><i class="fa fa-print"></i> Print Design</a></li>
+            </ul>
           <div class="tab-content">
 
             <div class="tab-pane active" id="webdesign">
@@ -235,15 +227,15 @@
         <!-- large-6 -->
 </div>
 
-      </div>
+      
       <!-- end content -->
     
     <!-- end container -->
-<h1>What Will the Program Experience Include?</h1>
+<h1 style="text-align: center;">What Will the Program Experience Include?</h1>
     <h2>The program has a 3-phased approach:</h2>
 
   <div class="media-container-row">
-    <div class="col-lg-4 col-md-4 col-sm-12">
+    <div class="card p-3 col-12 col-md-6 col-lg-4">
           <div class="widget" data-effect="slide-left">
            <!--  <h3 class="title"><i class="fa fa-laptop"></i> Web Design Service</h3> -->
             <div class="card text-white  mb-3" style="background-image: linear-gradient(-90deg, #00c464 ,#006e63);">
@@ -310,6 +302,9 @@
           <!-- end widget -->
         </div>
         <!-- large-6 -->
+    </div>
+  </section></div>
+</section>
 
   
 </section>

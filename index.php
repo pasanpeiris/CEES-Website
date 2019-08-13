@@ -106,7 +106,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                <h3>Enlighten You</h3>
                 <div class="card-img pb-3">
-                    <span class="mbr-iconfont mbri-sale" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
+                    <span class="mbr-iconfont mbri-idea" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
                 <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">CEES Academy</a></h4>
                 <div class="card-box">
@@ -123,7 +123,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
             <h3>Transform You</h3>
                 <div class="card-img pb-3">
-                    <span class="mbr-iconfont mbri-speed" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
+                    <span class="mbr-iconfont mbri-update" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Consulting Services&nbsp;</a></h4>
@@ -140,7 +140,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
             <h3>Amplify You</h3>
                 <div class="card-img pb-3">
-                    <span class="mbr-iconfont mbri-gift" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
+                    <span class="mbr-iconfont mbri-growing-chart" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Solutions LAB</a></h4>
