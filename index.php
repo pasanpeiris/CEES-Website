@@ -21,12 +21,16 @@
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   <link rel="stylesheet" href="assets/theme/research-section.css">
   <link rel="stylesheet" href="assets/slider-home/slider.css">
+  <link rel="stylesheet" href="assets/logo slider/style.css">
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
 
 
 </head>
 <body>
+<div id="preloader">
+  <div id="status">&nbsp;</div>
+</div>
   <section class="menu cid-ruNsw1yRec"  once="menu" id="menu1-0" style="width:100%; position:fixed; z-index:9999;">
         <?php require_once ('common/Components/header.php'); ?>
   </section>
@@ -461,6 +465,59 @@
 
 </section>
 
+<div class="container">
+    <div class="row" > 
+        <h2 id="title-text">
+            OUR CLIENTS
+        </h2>
+    </div>
+    <div class="slider">
+    	<div class="slide-track">
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+    		</div>
+    		<div class="slide">
+    			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+    		</div>
+    	</div>
+    </div>
+</div>
 
 <section class="mbr-section info2 cid-ruOTHzyksn" id="info2-17">
 
@@ -524,6 +581,12 @@
   
   
   <script>
+            $(window).on('load', function() { // makes sure the whole site is loaded 
+            $('#status').fadeOut(); // will first fade out the loading animation 
+            $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website. 
+            $('body').delay(350).css({'overflow':'visible'});
+            })
+            
             window.addEventListener('load', function(){
             function coverflow(i, el) {
                 el.removeClass('pre following')
@@ -552,3 +615,41 @@
 
 </body>
 </html>
+
+
+<style>
+body {
+  overflow: hidden;
+}
+
+
+/* Preloader */
+
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #fff;
+  /* change if the mask should have another color then white */
+  z-index: 99;
+  /* makes sure it stays on top */
+}
+
+#status {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 50%;
+  /* centers the loading animation horizontally one the screen */
+  top: 50%;
+  /* centers the loading animation vertically one the screen */
+  background-image: url(assets/cees.gif);
+  /* path to your loading animation */
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: -100px 0 0 -100px;
+  /* is width and height divided by two */
+}
+</style>
