@@ -29,6 +29,8 @@ figure {
   margin-bottom: 0; }
 
 body {
+  max-width: 100%;
+  overflow-x:hidden !important;
   color: #232323; }
 
 h1, h2, h3, h4, h5, h6,
