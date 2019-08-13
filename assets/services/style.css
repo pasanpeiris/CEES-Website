@@ -398,7 +398,8 @@
     justify-content: center;
   }
   .Aligner-item {
-    width: 60%;
+    width: 85%;
+    font-family: "Comfortaa", sans-serif;
   }
   .col-image {
     background-size: cover;
@@ -428,6 +429,7 @@
       width: 90%;
     }
   }
+  
   
   
   

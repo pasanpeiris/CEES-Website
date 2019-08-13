@@ -41,13 +41,13 @@
 <!--Griglia alternata testo e immagine, resposive con flexbox.-->
   <div class="grid-flex">
     <div class="col col-image">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Imac_alu.png" alt="" class="w-100" />
+    <img src="assets\images\consultancy\01.png" alt="" class="mx-auto d-block" />
     </div>
     <div class="col col-text">
     
-      <div class="Aligner-item">
-      <h3>Enterprise Diagnosis Tool 1.0</h3>
-        <p>Comprehensive tool to diagnosis KPIs system alignment, process stability, people capability, management system and lean cultural aspects of an organization.
+      <div class="Aligner-item text-left">
+      <h3 class="text-left">Enterprise Diagnosis Tool 1.0</h3>
+        <p class="text-left">Comprehensive tool to diagnosis KPIs system alignment, process stability, people capability, management system and lean cultural aspects of an organization.
 
         </p>
       </div>
@@ -56,14 +56,14 @@
   
   <div class="grid-flex">
     <div class="col col-image">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Imac_alu.png" alt="" class="w-100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Imac_alu.png" alt="" class="mx-auto d-block" />
     </div>
     <div class="col col-text col-left">
       <div class="Aligner-item">
-        <h3>Focused Business Improvement</h3>
-        <p>Focus on biggest problems in the business and rapid implementation of  
+        <h3 class="text-left" >Focused Business Improvement</h3>
+        <p class="text-left">Focus on biggest problems in the business and rapid implementation of  
         countermeasures through cross functional team approach</p>
-        <ul style="list-style-type:disc;">
+        <ul style="list-style-type:disc;" class="text-left">
             <li>Product development support</li>
             <li>Cost of quality reduction</li>
             <li>Changeover loss reduction</li>
@@ -77,14 +77,14 @@
 
   <div class="grid-flex">
     <div class="col col-image">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Imac_alu.png" alt="" class="w-100" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Imac_alu.png" alt="" class="mx-auto d-block" />
     </div>
     <div class="col col-text">
       <div class="Aligner-item">
-      <h3>Management System Development</h3>
-        <p>Develop sustainable management systems to align the leadership direction 
+      <h3 class="text-left">Management System Development</h3>
+        <p class="text-left">Develop sustainable management systems to align the leadership direction 
         while cultivating the lean culture across the organization</p>
-        <ul style="list-style-type:disc;">
+        <ul style="list-style-type:disc;" class="text-left">
           <li>Establish sustainable management systems</li>
           <li>Lean behavior cultivation</li>
         </ul>
@@ -113,6 +113,7 @@
     </div>
   </div>
 </div>
+
 
 <section class="mbr-section info2 cid-ruXIRFRxrA" id="info2-1n">
     <div class="container">
