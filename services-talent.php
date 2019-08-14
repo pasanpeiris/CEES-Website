@@ -39,29 +39,30 @@
 
 <section class="header1 cid-ruXI5S6ubv" id="header16-1l">
 <!--Griglia alternata testo e immagine, resposive con flexbox.-->
-  <div class="grid-flex">
+<div class="container">
+  <div class="grid-flex"  id="monster">
     <div class="col col-image">
     <img src="assets\images\consultancy\01.png" alt="" class="mx-auto d-block" />
     </div>
     <div class="col col-text">
     
       <div class="Aligner-item text-left">
-      <h3 class="text-left">Enterprise Diagnosis Tool 1.0</h3>
-        <p class="text-left">Comprehensive tool to diagnosis KPIs system alignment, process stability, people capability, management system and lean cultural aspects of an organization.
+      <h3 class="text-left display-2 font-weight-normal">Enterprise Diagnosis Tool 1.0</h3>
+        <p class="text-justify">Comprehensive tool to diagnosis KPIs system alignment, process stability, people capability, management system and lean cultural aspects of an organization.
 
         </p>
       </div>
     </div>
   </div>
-  
-  <div class="grid-flex">
+  <hr style="margin-bottom:70px;">
+  <div class="grid-flex hideme">
     <div class="col col-image">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Imac_alu.png" alt="" class="mx-auto d-block" />
+    <img src="assets\images\consultancy\02.png" alt="" class="mx-auto d-block" />
     </div>
-    <div class="col col-text col-left">
+    <div class="col col-text col-left" style="margin-left:75px;">
       <div class="Aligner-item">
-        <h3 class="text-left" >Focused Business Improvement</h3>
-        <p class="text-left">Focus on biggest problems in the business and rapid implementation of  
+        <h3 class="text-left display-2 font-weight-normal" >Focused Business Improvement</h3>
+        <p class="text-justify">Focus on biggest problems in the business and rapid implementation of  
         countermeasures through cross functional team approach</p>
         <ul style="list-style-type:disc;" class="text-left">
             <li>Product development support</li>
@@ -74,15 +75,15 @@
       </div>
     </div>
   </div>
-
-  <div class="grid-flex">
+  <hr>
+  <div class="grid-flex hideme">
     <div class="col col-image">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Imac_alu.png" alt="" class="mx-auto d-block" />
+    <img src="assets\images\consultancy\03.png" alt="" class="mx-auto d-block" />
     </div>
     <div class="col col-text">
       <div class="Aligner-item">
-      <h3 class="text-left">Management System Development</h3>
-        <p class="text-left">Develop sustainable management systems to align the leadership direction 
+      <h3 class="text-left display-2 font-weight-normal">Management System Development</h3>
+        <p class="text-justify">Develop sustainable management systems to align the leadership direction 
         while cultivating the lean culture across the organization</p>
         <ul style="list-style-type:disc;" class="text-left">
           <li>Establish sustainable management systems</li>
@@ -113,7 +114,8 @@
     </div>
   </div>
 </div>
-
+</div>
+</section>
 
 <section class="mbr-section info2 cid-ruXIRFRxrA" id="info2-1n">
     <div class="container">
@@ -186,6 +188,36 @@
 <script src="assets/parallax/jarallax.min.js"></script>
 <script src="assets/smoothscroll/smooth-scroll.js"></script>
 <script src="assets/theme/js/script.js"></script>
+
+<script>
+$(function(){  // $(document).ready shorthand
+  $('.monster').fadeIn('slow');
+});
+
+$(document).ready(function() {
+    
+    /* Every time the window is scrolled ... */
+    $(window).scroll( function(){
+    
+        /* Check the location of each desired element */
+        $('.hideme').each( function(i){
+            
+            var bottom_of_object = $(this).position().top + $(this).outerHeight();
+            var bottom_of_window = $(window).scrollTop() + $(window).height();
+            
+            /* If the object is completely visible in the window, fade it it */
+            if( bottom_of_window > bottom_of_object ){
+                
+                $(this).animate({'opacity':'1'},1500);
+                    
+            }
+            
+        }); 
+    
+    });
+    
+});
+</script>
 
 <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
 </body>

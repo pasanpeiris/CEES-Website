@@ -398,7 +398,7 @@
     justify-content: center;
   }
   .Aligner-item {
-    width: 85%;
+    width: 80%;
     font-family: "Comfortaa", sans-serif;
   }
   .col-image {
@@ -430,6 +430,22 @@
     }
   }
   
+  #container
+{
+    height:2000px;    
+}
+
+#container DIV
+{ 
+    margin:50px; 
+    padding:50px; 
+    background-color:pink; 
+}
+
+.hideme
+{
+    opacity:0;
+}
   
   
   
