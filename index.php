@@ -100,13 +100,13 @@
 </section>
 
 <section class="features1 cid-ruNBDZ0eEF" id="features1-8">
-    <h1  class="mbr-title pt-2 mbr-fonts-style display-2"  style="text-align:center">We Will</h1>
+    <h1 class="mbr-title pt-2 mbr-fonts-style display-2" style="text-align:center">What We Do</h1>
     <div class="container">
         <div class="media-container-row">
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                <h3>Enlighten You</h3>
                 <div class="card-img pb-3">
-                    <span class="mbr-iconfont mbri-idea" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
+                    <span class="mbr-iconfont mbri-idea" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 120px;"></span>
                 </div>
                 <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">CEES Academy</a></h4>
                 <div class="card-box">
@@ -123,7 +123,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
             <h3>Transform You</h3>
                 <div class="card-img pb-3">
-                    <span class="mbr-iconfont mbri-update" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
+                    <span class="mbr-iconfont mbri-update" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 120px;"></span>
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Consulting Services&nbsp;</a></h4>
@@ -140,7 +140,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
             <h3>Amplify You</h3>
                 <div class="card-img pb-3">
-                    <span class="mbr-iconfont mbri-growing-chart" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 80px;"></span>
+                    <span class="mbr-iconfont mbri-growing-chart" style="color: rgb(15, 118, 153); fill: rgb(15, 118, 153); font-size: 120px;"></span>
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-3 mbr-fonts-style display-5"><a href="#">Solutions LAB</a></h4>
@@ -185,8 +185,7 @@
         <div class="col-md-12">
             <div class="media-container-row">
                 <div class=" align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2" style="margin-bottom:50px;">
-                        Why Us?</h2>
+                <h1 class="mbr-title pt-2 mbr-fonts-style display-2" style="text-align:center;">Why Us?</h1>
                     <div class="block-content">
                         <div class="card p-2 pr-2">
                             <div class="media">
