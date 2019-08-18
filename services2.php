@@ -82,9 +82,9 @@ body {
   </section>
 
   
-<section class="features11 cid-ruNBDZ0eEF">
-    <h1  class="mbr-title pt-2 mbr-fonts-style display-2"  style="text-align:center">We Will</h1>
-    <div class="container">
+ <!-- <section class="features11 cid-ruNBDZ0eEF">
+    <h1  class="mbr-title pt-2 mbr-fonts-style display-2"  style="text-align:center">Solutions LAB</h1>
+   <div class="container">
         <div class="media-container-row">
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-img pb-3">
@@ -151,13 +151,13 @@ body {
                 </div>
             </div>
       </div>
-    </div>
+    </div> 
     <hr>
-</section>
+</section> -->
 
 <section class="features1 cid-ruNBDZ0eEF" id="features1-8">
 <div class="container">
-          <div class="tabbable servicetab tabs-left">
+         <!--  <div class="tabbable servicetab tabs-left">
            <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">Specialist Areas</h2>
             <ul class="nav nav-tabs">
               <li class="nav-item active"><a href="#webdesign" data-toggle="tab"><i class="fa fa-laptop"></i> Web Design</a></li>
@@ -217,23 +217,21 @@ body {
             </div>
 
           </div>
-        </div>
+        </div> -->
 <!-- end of tabbed pane -->
      
       <div class="media-container-row">
-        <div class="col-lg-4 col-md-4 col-sm-12">
-          <div class="widget" data-effect="slide-left">
+        <!--<div class="col-lg-4 col-md-4 col-sm-12">
+           <div class="widget" data-effect="slide-left">
             <h2 class="title">Why Choose us?</h2>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry"s standard dummy text ever since the 1500s..</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry..</p>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been ever since the..</p>
-           
-          </div>
-          <!-- end widget -->
-        </div>
+          </div> 
+        </div>-->
         <!-- large-6 -->
 
-        <div class="col-lg-4 col-md-4 col-sm-12">
+        <!-- <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="widget" data-effect="slide-left">
             <h3 class="title"><i class="fa fa-laptop"></i> Web Design Service</h3>
             <ul class="check">
@@ -247,9 +245,7 @@ body {
               <li>700+ custom font icons included</li>
             </ul>
           </div>
-          <!-- end widget -->
         </div>
-        <!-- large-6 -->
 
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="widget" data-effect="slide-left">
@@ -264,32 +260,26 @@ body {
               <li><a href="#">500+ Google fonts included (use very easy)</a></li>
             </ul>
           </div>
-          <!-- end widget -->
-        </div>
-        <!-- large-6 -->
+        </div> -->
 </div>
 
-      
-      <!-- end content -->
-    
-    <!-- end container -->
-<h1 style="text-align: center;">What Will the Program Experience Include?</h1>
-    <h2>The program has 3 phased approach:</h2>
+<h1 style="text-align: center;">Solutions LAB</h1>
+    <!-- <h2>The program has 3 phased approach:</h2> -->
 <hr size="50%">
   <div class="media-container-row">
     <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="widget" data-effect="slide-left">
            <!--  <h3 class="title"><i class="fa fa-laptop"></i> Web Design Service</h3> -->
             <div class="card text-white  mb-3" style="background-image: linear-gradient(-90deg, #00c464 ,#006e63);">
-                <div class="card-header"><h3>Phase 1</h3></div>
-                <div class="card-body" style="height: 500px;">
-                  <h5 class="card-title">PREPARE</h5>
-                  <p style="color: white;">Comprehensive pre-program activities include:
-                    <ul class="a" style="margin-left: 25px; margin-right: 10px;">
+                <div class="card-header"><h5 class="card-title">Enterprise Excellence Apps</h5></div>
+                <div class="card-body" style="height: 350px;">
+                <img src="assets/img/phone.png"  width= 90% style="display: block; margin-left: auto; margin-right: auto;">
+                  <p style="color: white;">Mobile and software applications which amplify the lean implementation procedures while creating online platforms for cross functional teams to work collaboratively
+                    <!-- <ul class="a" style="margin-left: 25px; margin-right: 10px;">
                       <li>Web-based assessment surveys, completed by participant, direct reports, peers & superiors.</li>
                       <li>Program faculty exchanges to address any questions.</li>
                       <li>Preparation of factual questions for an executive presence assessment activity.</li>
-                    </ul>
+                    </ul> -->
                   </p>
                 </div>
               </div>
@@ -303,18 +293,18 @@ body {
           <div class="widget" data-effect="slide-bottom">
            <!--  <h3 class="title"><i class="fa fa-laptop"></i> Web Design Service</h3> -->
             <div class="card text-white mb-3" style="background-image: linear-gradient(-90deg, #f6cf3f ,#f68029);">
-                <div class="card-header"><h3>Phase 2</h3></div>
-                <div class="card-body" style="height: 500px;">
-                  <h5 class="card-title">ENGAGE</h5>
-                  <p style="color: white;">For five days, participants are immersed in data, activities and conversation that lead to insight and new skills.
-                    <ul class="a" style="margin-left: 25px; margin-right: 10px;">
+                <div class="card-header"><h5 class="card-title">Research & Development</h5></div>
+                <div class="card-body" style="height: 350px;">
+                  <img src="assets/img/r&d.png"  width= 90% style="display: block; margin-left: auto; margin-right: auto;">
+                  <p style="color: white;">Continuously exploring the latest knowledge sources while testing on the shop floor. Newly generated knowledge will be published after validated through the research methodology
+                    <!-- <ul class="a" style="margin-left: 25px; margin-right: 10px;">
                       <li>Highly relevant, research-based content to expand knowledge & address essential challenges.</li>
                       <li>Experiential activities to add depth to feedback &  key ideas.</li>
                       <li>An activity to assess executive image & presence.</li>
                       <li>A half-day personal session with CCL executive coach integrating the experience & plan next steps.</li>
-                    </ul>
+                    </ul> -->
                   </p>
-                </div>
+                  </div>
               </div>
           </div>
           <!-- end widget -->
@@ -325,17 +315,17 @@ body {
           <div class="widget" data-effect="slide-right">
             <!-- <h3 class="title"><i class="fa fa-cogs"></i> Web Development Service</h3> -->
             <div class="card text-white mb-3" style="background-image: linear-gradient(-90deg, #f66d6a ,#e1261c);">
-                <div class="card-header"><h3>Phase 3</h3></div>
-                <div class="card-body" style="height: 500px;">
-                  <h5 class="card-title">APPLY</h5>
-                  <p style="color: white;">For five days, participants are immersed in data, activities and conversation that lead to insight and new skills.
-                    <ul class="a" style="margin-left: 25px; margin-right: 10px;">
+                <div class="card-header"><h5 class="card-title">Industry 4.0</h5></div>
+                <div class="card-body" style="height: 350px;">
+                <img src="assets/img/industry.png"  width= 90% style="display: block; margin-left: auto; margin-right: auto;">
+                  <p style="color: white;">Experimenting on Industry 4.0 solutions including Big Data Analytics, Automation and Digitization applications to enhance the lean six sigma based environments.
+                    <!-- <ul class="a" style="margin-left: 25px; margin-right: 10px;">
                       <li>Highly relevant, research-based content to expand knowledge & address essential challenges.</li>
                       <li>Experiential activities to add depth to feedback &  key ideas.</li>
                       <li>An activity to assess executive image & presence.</li>
                       <li>A half-day personal session with CCL executive coach integrating the experience & plan next steps.</li>
                       <li>Web-based assessment surveys, completed by participant, direct reports, peers & superiors.</li>
-                    </ul>
+                    </ul> -->
                   </p>
                 </div>
               </div>
