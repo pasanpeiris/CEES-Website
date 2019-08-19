@@ -44,12 +44,12 @@
                                     <a href="index.php">Home</a>
                                 </li>
                                 <li class="has-dropdown megamenu" >
-                                    <a href="#">CEES Academy</a>
+                                    <a href="Programs.php">CEES Academy</a>
                                     <div class="dropdown">
                                         <div class="dropdown-body">
                                             <div class="row">
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading"><a href="services-talent.php">Technology (Active)</a></h4>
+                                                    <h4 class="dropdown-heading"><a href="Programs.php">CEES Academy(Active)</a></h4>
                                                     <ul class="dropdown-list">
                                                         <li> Lorem ipsum dolor sit amet consectetur adipiscing.
                                                         Adipiscing tristique risus nec feugiat iLorem ipsum dolor sit amet consectetur adipiscing.
@@ -104,12 +104,12 @@
                                     </div>
                                 </li>
                                 <li class="has-dropdown megamenu">
-                                    <a href="#">Consulting Services</a>
+                                    <a href="services-talent.php">Consulting Services</a>
                                     <div class="dropdown">
                                         <div class="dropdown-body">
                                             <div class="row">
                                                 <div class="col-md-3">
-                                                    <h4 class="dropdown-heading"><a href="Programs.php">CEES Academy Programs(Active)</a></h4>
+                                                    <h4 class="dropdown-heading"><a href="services-talent.php">Consulting Services(Active)</a></h4>
                                                     <ul class="dropdown-list">
                                                         <li> Lorem ipsum dolor sit amet consectetur adipiscing.
                                                         Adipiscing tristique risus nec feugiat iLorem ipsum dolor sit amet consectetur adipiscing.
@@ -148,7 +148,7 @@
                                     </div>
                                 </li>
                                 <li class="has-dropdown megamenu">
-                                    <a href="#">Solutions Lab</a>
+                                    <a href="services2.php">Solutions Lab</a>
                                     <div class="dropdown">
                                         <div class="dropdown-body">
                                             <div class="row">
@@ -157,7 +157,7 @@
                                                     <ul class="dropdown-list">
                                                         <li><a href="#">Sub 1</a></li>
                                                         <li><a href="#">Sub 1</a></li>
-                                                        <li><a href="services2.php">Technology(Active)</a></li>
+                                                        <li><a href="services2.php">Solutions Lab(Active)</a></li>
                                                         <li><a href="#">Sub 2</a></li>
                                                         <li><a href="#">Sub 3</a></li>
                                                     </ul>
