@@ -47,22 +47,22 @@
             <div class="carousel-item active" >
             <div class="parallax cid-ruNtyUeTOv1 mbr-fullscreen d-block w-100" src="assets/images/mbr-1920x1198.jpg" alt="First slide"></div>
             <div class="carousel-caption">
-                <h5>Get enlightened</h5>
-                <p>Feel the Original taste of enterprise excellence tools and techniques</p>
+                <h5>CEES Academy</h5>
+                <p>Enlightening Minds</p>
             </div>
             </div>
             <div class="carousel-item">
             <div class="parallax cid-ruNtyUeTOv2 mbr-fullscreen d-block w-100"  alt="Second slide"></div>
             <div class="carousel-caption ">
-                <h5>Transform to be strong</h5>
-                <p>Transformation will be painful. But it’ll be the best work you’ll ever do </p>
+                <h5>Consulting Services</h5>
+                <p>Unlocking Opportunities</p>
             </div>
             </div>
             <div class="carousel-item">
             <div class="parallax cid-ruNtyUeTOv3 mbr-fullscreen d-block w-100" alt="Third slide"></div>
             <div class="carousel-caption">
-             <h5>Amplify the future</h5>
-             <p>Be equipped for technology tsunami. Yes you can surf on it </p>
+             <h5>Solution LAB</h5>
+             <p>Amplifying Future</p>
             </div>
             </div>
         </div>
