@@ -1,7 +1,7 @@
 <?php
-include 'Model/dbh.inc.php';
-include 'Model/services.inc.php';
-include 'Model/viewservices.inc.php';
+//include 'Model/dbh.inc.php';
+//include 'Model/services.inc.php';
+//include 'Model/viewservices.inc.php';
 ?>
 	<link rel="stylesheet" href="https://technext.github.io/callie/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="assets/navbar/navcss.css" />
@@ -86,8 +86,8 @@ include 'Model/viewservices.inc.php';
                                                     <ul class="dropdown-list">
 
                                                        <?php
-                                                        $services=new ViewServices();
-                                                        $services->ShowAllServices();
+                                                       // $services=new ViewServices();
+                                                       // $services->ShowAllServices();
                                                         ?> 
                                                         <li><a href="#">Technology</a></li>
                                                         <li><a href="#">Fashion</a></li>
