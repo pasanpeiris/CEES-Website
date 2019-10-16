@@ -86,7 +86,7 @@
 </section> 
     
 <section>
-    <!-- <div class="container" id="post-slider">
+    <div class="container" id="post-slider">
         <div class="row">
             <div class="col-md-7" id="post-slider-image">
             
@@ -95,7 +95,7 @@
 
             </div>
         </div>
-    </div> -->
+    </div>
 
 </section>
 
