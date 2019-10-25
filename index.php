@@ -25,7 +25,9 @@
 <body>
   <section class="menu cid-ruNsw1yRec"  once="menu" id="menu1-0" style="width:100%; position:fixed; z-index:9999;">
 
-        <?php require_once ('common/Components/header.php'); ?>
+        <?php require_once ('common/Components/header.php'); 
+        $tar="test";
+        ?>
 
 
   </section>
